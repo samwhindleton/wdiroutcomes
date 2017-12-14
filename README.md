@@ -23,7 +23,7 @@ Be sure to check your course calendar as things may adjust slightly depending on
 - [week 11: Catch your Breath and Regroup (Local)](/roadmap/week09)
 - [week 12: Cracking the Technical Interview (Global)](/roadmap/week11/DSI/readme.md)
 
-[Post Course Programming](https://github.com/ga-students/ga-dsiplus/blob/master/roadmap/postcourseprogramming.md) - information about hiring events and more! 
+[Post Course Programming](/roadmap/postcourseprogramming.md) - information about hiring events and more! 
 
 
 
