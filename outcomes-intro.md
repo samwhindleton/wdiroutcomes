@@ -43,11 +43,6 @@ Here at GA we pride ourselves on innovation and approaching things in a unique a
 - [joy.haugen@ga.co](mailto:joy.haugen@ga.co)
 - [Meet Joy!](https://www.linkedin.com/in/joyhaugen/)
 
-### Andy Whelan
-- San Francisco Career Coach
-- [andrew.whelan@ga.co](mailto:andrew.whelan@ga.co)
-- [Meet Andy!](https://www.linkedin.com/in/awhelan1/)
-
 ### Andrew Kumar
 - Santa Monica Career Coach
 - [andrew.kumar@ga.co](mailto:andrew.kumar@ga.co)
