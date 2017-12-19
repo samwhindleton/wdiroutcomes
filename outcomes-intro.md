@@ -4,7 +4,7 @@ Here at GA we pride ourselves on innovation and approaching things in a unique a
 
 ## Meet Your Outcomes Team!
 
-### GLOBAL COACH
+### GLOBAL 
 ### Nicole Umphress
 - Based in Austin
 - [nicole.hartig@ga.co](mailto:nicole.hartig@ga.co)
