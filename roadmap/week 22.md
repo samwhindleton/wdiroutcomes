@@ -68,7 +68,7 @@ Whenever you are interested in an organization, search to see if you have any 1s
 ### Getting the Most out of LinkedIn
 - Join relevant groups (JS devs, Data Science, UX etc.) 
 - Follow your favorite companies 
--Connect with your Instructors, Coaches, Classmates, & GA Alumni
+- Connect with your Instructors, Coaches, Classmates, & GA Alumni
 - Meet strangers and request informational interviews 
 - Use advanced search to find hiring managers 
 - Share, read, and comment on articles 
@@ -79,9 +79,10 @@ Homework due next week at 7 pm:
 
 [What's my Brand Worksheet](https://docs.google.com/forms/d/e/1FAIpQLSc9PPBX7vEuNaHHfgWy9JwKGFTAiogpKN917wKmgcnKEGWA8w/viewform?usp=sf_link) 
 
+Have 3 classmates review your LinkedIn Profile and be sure you utilize the LinkedIn Check List! 
+
 [Update your LinkedIn Profile](https://drive.google.com/file/d/1jBKyqnvVNXo2jdtFxD3YrnLW0WkgPEne/view) 
 
-Have 3 classmates review your LinkedIn Profile and be sure you utilize the LinkedIn Check List! 
 
 Review [Organizations that have hired GA DSI Graduates](https://drive.google.com/open?id=1cYV2nXvU0WT-euh6sGm6s47i13h9CJa02diME3O1Ghw) 
 
