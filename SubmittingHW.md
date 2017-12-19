@@ -17,3 +17,5 @@ After worksheets, we'll be using github to submit all HW:
 ![SubmitHW3](https://user-images.githubusercontent.com/18074591/31462598-50a1e946-ae9b-11e7-81d6-ae02012ea333.png)
 
 5. Someone from the outcomes team will give you feedback in the timeline listed on the HW assignment and will close your issue when you have received feedback. Keep an eye out in your email and github alerts. If you have any questions, feel free to reach out to us! 
+
+Boston students submit homework to [this](https://github.com/CoachJoyhaugen/boston-outcomes-homework) repo.
