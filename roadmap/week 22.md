@@ -25,8 +25,56 @@ Now that you have a general understanding of how to best partner and work with O
 
 All of these questions and more will be covered. You will also have the opportunity to ask your local coach anything you want to know about them!
 
+## LinkedIn: 
+
+LinkedIn is an incredibly valuable tool that can completely shift your networking strategies 
+
+
+### Updating your LinkedIn 
+First of all, turn off notifications when you are making lots of edits (Click your headshot > Settings + Privacy > Privacy tab > "Sharing Profile Edits" half way down the page)
+
+Make sure your contact information is listed (Click on your headshot > scroll down halfway down the page on the righthand side "Contact and Personal Info" 
+
+Update your tagline (under your name)
+- Examples: Data Scientist (Even if you don't feel like it's true, put it up there!) 
+
+Once your resume is final, you can copy and paste the content into LinkedIn 
+
+Add your GA projects to your GA section 
+- Use the "Add a section to your GA Profile" and then look for "Projects" 
+
+Ask for recommendations: former bosses, coworkers, clients 
+- You can use the [recommendation section on LinkedIn](https://www.linkedin.com/help/linkedin/answer/96/request-a-recommendation?lang=en) and be sure to also follow up with a personalized note: 
+- Example: Hi NAME, I hope everything is going well with you! As you may know, I've just started GA's Data Science immersive course, and I'm loving it so far! I'll soon be job searching and am looking to build up my LinkedIn profile, would you be willing to write me a recommendation? I'd be happy to draft some ideas for you if that's helpful. 
+
+[Here’s an example LinkedIn Profile](https://www.linkedin.com/in/christinemovius) to model
+
+### Connecting on LinkedIn
+Find your career crushes and ask them to coffee.
+- Hi Name! I'm a current Data Science student at GA and I'm looking to learn more about the tech field in CITY. I was really impressed by your career path and would love to pick your brain. Would you be open to coffee (my treat) or a quick phone call in the next couple of weeks? 
+
+Whenever you are interested in an organization, search to see if you have any 1st, 2nd, or 3rd degree connections to that organization, and then ask for a connection
+- Hi NAME! I hope everything is going well with you! As you may know, I've just started GA's Data Science immersive course, and I'm loving it so far! I'll soon be job searching and am looking to learn more about the tech field in CITY. I saw that you are connected to ABC and I'm very interested in that organization. Would you be willing to connect us? I've written an email below that you can copy and paste: 
+
+### GA on LinkedIn 
+- [Browse GA's Page](https://www.linkedin.com/edu/alumni?id=150005&trk=edu-up-nav-menu-alumni) 
+- [Join GA Alumni Group](https://www.linkedin.com/edu/alumni?id=150005&trk=edu-up-nav-menu-alumni) 
+
+### Getting the Most out of LinkedIn
+- [LinkedIn Checklist](https://docs.google.com/document/d/19__gv_yyaCs47Nk9LLszbJduf79AtYFeYl2kUcf8p9c/edit) 
+- Join relevant groups (JS devs, Data Science, UX etc.) 
+- Follow your favorite companies 
+- Meet strangers and request informational interviews 
+- Use advanced search to find hiring managers 
+- Share, read, and comment on articles 
+- Search for jobs, and see who you know at the company
+
 ## Homework
-Homework due next week at 7 pm: [What's my Brand Worksheet](https://docs.google.com/forms/d/e/1FAIpQLSc9PPBX7vEuNaHHfgWy9JwKGFTAiogpKN917wKmgcnKEGWA8w/viewform?usp=sf_link) 
+Homework due next week at 7 pm: 
+
+[What's my Brand Worksheet](https://docs.google.com/forms/d/e/1FAIpQLSc9PPBX7vEuNaHHfgWy9JwKGFTAiogpKN917wKmgcnKEGWA8w/viewform?usp=sf_link) 
+
+[Update your LinkedIn Profile](https://drive.google.com/file/d/1jBKyqnvVNXo2jdtFxD3YrnLW0WkgPEne/view) 
 
 Review [Organizations that have hired GA DSI Graduates](https://drive.google.com/open?id=1cYV2nXvU0WT-euh6sGm6s47i13h9CJa02diME3O1Ghw) 
 
