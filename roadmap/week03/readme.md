@@ -24,7 +24,13 @@ Guest presenter Mike Gardner will take you through an interactive workshop to an
 
 ## Homework: 
 
-Check your class calendar for HW due next Tuesday at 7 pm 
+Materials due next week at 7 pm: 
+
+Create Your Draft Brand Statement and have 3 classmates peer review. 
+
+Reach out to 3 Data Science professionals to set up 1:1 informational meetings or phone calls to learn more about their role/company
+
+Submit your Homework Here. 
 
 ## Further Reading/Resources:
 
