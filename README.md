@@ -13,16 +13,17 @@ Be sure to check your course calendar as things may adjust slightly depending on
 - [week 1: Intro To Outcomes +  Cheers to Those Who Survived (Alumni Panel)! (Global)](/roadmap/week01)
 - [week 2: Developing Your Network & The Local Landscape (Local)](/roadmap/week%2022.md) 
 - [week 3: Finding Your Voice and Defining your Brand (Global)](/roadmap/week03)
-- [week 4: Studio Tour (Local)](/roadmap/week05)
-- [week 5: Preparing for the Behavioral Interview (Global)](/roadmap/week07)
-- [week 6: Winning Resume Package (Local)](/roadmap/week04)
-- [week 7: Defining your Non-Negotiables and Negotiating like a Boss (Global)](/roadmap/week88.md)
-- [week 8: Sharing your Talents - GA Profiles + Portfolios (Local)](/roadmap/week08)
-- week 9: THANKSGIVING 
-- [week 10: Ask the Experts Panel Discussion (Hiring Managers and Recruiters)(Global)](/roadmap/week10)
-- [week 11: Catch your Breath and Regroup (Local)](/roadmap/week09)
-- [week 12: Cracking the Technical Interview (Global)](/roadmap/week11/DSI/readme.md)
+- [week 4: The Winning Resume Package (Local)](/roadmap/week04)
+- [week 5: A Day in the Life…Studio Tour (Local)](/roadmap/week05)
+- [week 6: Publicly Exposed: Sharing Your Talents on GA Profiles, Portfolios & Blogging (Local)](/roadmap/week08)
+- [week 7: Catch your Breath, Regroup, & Meet with Your Coach (Local)](/roadmap/week09)
+- [week 8: Ask the Experts Panel Discussion (Hiring Managers and Recruiters)(Global)](/roadmap/week10)
+- [week 9: Preparing for the Behavioral Interview + Negotiating Like a Boss (Local)](/roadmap/week07)
+- [week 10: Defining Your Non-Negotiables + Application Strategy + Cover Letters (Global)](/roadmap/week88.md)
+- [week 11: Cracking the Technical Interview (Global)](/roadmap/week11/DSI/readme.md)
+- [week 12: Qualification Check In + Post Course Expectations (Local)](/roadmap/week09)
 
+#### What to Expect Post Graduation
 [Post Course Programming](/roadmap/postcourseprogramming.md) - information about hiring events and more! 
 
 
