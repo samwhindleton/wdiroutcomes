@@ -1,4 +1,4 @@
-# Intro to Outcomes + Alumni Panel 
+# Intro To Outcomes + Cheers to Those Who Survived (Alumni Panel)!
 
 ## Learning Objectives:
 
