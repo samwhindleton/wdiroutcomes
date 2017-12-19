@@ -27,7 +27,7 @@ All of these questions and more will be covered. You will also have the opportun
 
 ## LinkedIn: 
 
-LinkedIn is an incredibly valuable tool that can completely shift your networking strategies 
+LinkedIn is an incredibly valuable tool that can completely shift your networking strategies and set you up for success in your job search.
 
 
 ### Updating your LinkedIn 
@@ -38,10 +38,15 @@ Make sure your contact information is listed (Click on your headshot > scroll do
 Update your tagline (under your name)
 - Examples: Data Scientist (Even if you don't feel like it's true, put it up there!) 
 
-Once your resume is final, you can copy and paste the content into LinkedIn 
+Once your resume is final, you can copy and paste the content into LinkedIn, but encourage you to update the basics.
 
-Add your GA projects to your GA section 
-- Use the "Add a section to your GA Profile" and then look for "Projects" 
+Add GA to your Experience projects to your GA section 
+- GA sample descriptions (please don’t just copy and paste - add your own voice to this!):
+
+**DSI**
+Data Science Immersive Program
+
+Participated in a full-time immersive Data Science course, completing in-class projects, Kaggle competitions, and personal projects focused on real-world applications of data science principles and best practices. Acquired, cleaned, and explored large datasets using Python, SQL, and Tableau in order to present findings to both technical and non-technical audiences. Developed a portfolio of individually and collaboratively focused in-class projects, including: {list projects in bullets}
 
 Ask for recommendations: former bosses, coworkers, clients 
 - You can use the [recommendation section on LinkedIn](https://www.linkedin.com/help/linkedin/answer/96/request-a-recommendation?lang=en) and be sure to also follow up with a personalized note: 
@@ -61,7 +66,6 @@ Whenever you are interested in an organization, search to see if you have any 1s
 - [Join GA Alumni Group](https://www.linkedin.com/edu/alumni?id=150005&trk=edu-up-nav-menu-alumni) 
 
 ### Getting the Most out of LinkedIn
-- [LinkedIn Checklist](https://docs.google.com/document/d/19__gv_yyaCs47Nk9LLszbJduf79AtYFeYl2kUcf8p9c/edit) 
 - Join relevant groups (JS devs, Data Science, UX etc.) 
 - Follow your favorite companies 
 - Meet strangers and request informational interviews 
@@ -75,10 +79,11 @@ Homework due next week at 7 pm:
 [What's my Brand Worksheet](https://docs.google.com/forms/d/e/1FAIpQLSc9PPBX7vEuNaHHfgWy9JwKGFTAiogpKN917wKmgcnKEGWA8w/viewform?usp=sf_link) 
 
 [Update your LinkedIn Profile](https://drive.google.com/file/d/1jBKyqnvVNXo2jdtFxD3YrnLW0WkgPEne/view) 
+Have 3 classmates review your LinkedIn Profile and be sure you utilize the LinkedIn Check List! 
 
 Review [Organizations that have hired GA DSI Graduates](https://drive.google.com/open?id=1cYV2nXvU0WT-euh6sGm6s47i13h9CJa02diME3O1Ghw) 
 
-By completing the worksheet you have submitted your homework this week.
+By completing the worksheet and updating your LinkedIn Profile you have submitted your homework this week.
 
 ## Local Market Presentations 
 
