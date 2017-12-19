@@ -1,5 +1,5 @@
 
-# Job Search Techniques & The Local Landscape
+# Developing Your Network & The Local Landscape
 
 ## Learning Objectives:
 
@@ -10,6 +10,8 @@
 * Tools to begin to create your job search strategy 
 
 * Begin to learn how to network locally and how to describe yourself as a GA student 
+
+* Take a stab at your LinkedIn Profile 
 
 ## Framing 
 Now that you have a general understanding of how to best partner and work with Outcomes throughout your time at GA and post course, let's talk about how to best set yourself up for success in your local market. We will re-look at your 5 year plan and think about ways to make that happen. 
@@ -24,7 +26,7 @@ Now that you have a general understanding of how to best partner and work with O
 All of these questions and more will be covered. You will also have the opportunity to ask your local coach anything you want to know about them!
 
 ## Homework
-Homework due next Tuesday at 7 pm: [What's my Brand Worksheet](https://docs.google.com/forms/d/e/1FAIpQLSc9PPBX7vEuNaHHfgWy9JwKGFTAiogpKN917wKmgcnKEGWA8w/viewform?usp=sf_link) 
+Homework due next week at 7 pm: [What's my Brand Worksheet](https://docs.google.com/forms/d/e/1FAIpQLSc9PPBX7vEuNaHHfgWy9JwKGFTAiogpKN917wKmgcnKEGWA8w/viewform?usp=sf_link) 
 
 Review [Organizations that have hired GA DSI Graduates](https://drive.google.com/open?id=1cYV2nXvU0WT-euh6sGm6s47i13h9CJa02diME3O1Ghw) 
 
