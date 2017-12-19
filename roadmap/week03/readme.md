@@ -45,7 +45,7 @@ We know this is tough! Remember that this is just a starting point.
     - “Full-stack web developer and dancer who enjoys finding creative solutions for out of the ordinary problems. Passionate and inspired by visual aesthetics, good design, and clean, precise code. Driven to create interactive products shaped around human experience, expression, and intuitive, efficient functionality.” -- Jamie Karlovich 
 
     - “I am a creative-minded, solutions-driven software developer with a passion for intuitive design and function. My previous experience as a full-time touring musician informs everything that I do: from my ability to adapt and adjust plans quickly to finding efficient, concise solutions for challenging problems.” -- Brent Rusinow 
-    - Our brand statements: 
+  
     - "Joy Haugen has a passion for helping individuals live the life they have always imagined...whether that be a new career, tackling a new adventure, or finding that new tribe of powerhouse people to surround themselves with! Joy brings possibility and creativity to inspire others and make a difference." - Joy Haugen 
 
     - "I'm passionate about creatively inspiring individuals to make a difference in the world and have purpose in their life and work." - Sarah Brooks 
