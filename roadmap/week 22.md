@@ -87,12 +87,12 @@ Outcomes will not be giving you feedback on this worksheet, but please take it s
 [Access the worksheet here](https://docs.google.com/forms/d/e/1FAIpQLSc9PPBX7vEuNaHHfgWy9JwKGFTAiogpKN917wKmgcnKEGWA8w/viewform) 
 
 
-### Have 3 classmates review your LinkedIn Profile and be sure you utilize the LinkedIn Check List! 
+### Have 3 classmates review your LinkedIn Profile 
 
 [Update your LinkedIn Profile using this checklist](https://drive.google.com/file/d/1jBKyqnvVNXo2jdtFxD3YrnLW0WkgPEne/view) 
 
 
-### Review [Organizations that have hired GA DSI Graduates](https://drive.google.com/open?id=1cYV2nXvU0WT-euh6sGm6s47i13h9CJa02diME3O1Ghw) 
+## Review [Organizations that have hired GA DSI Graduates](https://drive.google.com/open?id=1cYV2nXvU0WT-euh6sGm6s47i13h9CJa02diME3O1Ghw) 
 Keep this in your own personal list, we won't be collecting it but will be asking about it in 1:1 meetings 
 
 By completing the worksheet and updating your LinkedIn Profile you have submitted your homework this week.
