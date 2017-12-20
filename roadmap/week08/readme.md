@@ -122,6 +122,11 @@ Below are a few options that we recommend you consider when creating your portfo
 
 * Free
 
+## Blogging
+Blogging is a great way to share your technical talents with both non technical and technical audiences as a job seeker to gain exposure to who you are and what you do. Think about how hiring managers can gain insight into how you think. What if you are not sitting right next to them to walk them through your project. Your blog can do that for them! 
+ 
+More on [blogging](https://github.com/ga-students/ga-dsiplus/blob/master/roadmap/Blogging.md)
+
 ## Blogs & Project Best Practices:
 Projects are a great way to showcase your your skills in a way that that your user can see how you actually put the skills you learned to action.  With each project, think about how you can convey your talents, your skills, your role, and the impact/result of the scenario.  Here are some general best practices!  
 
@@ -167,10 +172,6 @@ Create your draft GA Profile.  You will need to use the email address that you s
 
 Login at [http://profiles.generalassemb.ly/profiles/new](http://profiles.generalassemb.ly/profiles/new)
 
-## Blogging
-Blogging is a great way to share your technical talents with both non technical and technical audiences as a job seeker to gain exposure to who you are and what you do. Think about how hiring managers can gain insight into how you think. What if you are not sitting right next to them to walk them through your project. Your blog can do that for them! 
- 
-More on [blogging](https://github.com/ga-students/ga-dsiplus/blob/master/roadmap/Blogging.md)
 
 ## Remainder of class:
  
@@ -180,7 +181,6 @@ Once you feel like you are ready to submit, have 3 classmates peers review it.
 
 By the end of class, you should have your peer reviewed GA Profile submitted and the domain name to your Portfolio created.
 This is also a great time to meet 1:1 with your coach to answer any questions you might have for Outcomes. 
-
 
 
 
