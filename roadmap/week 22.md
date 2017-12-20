@@ -25,7 +25,7 @@ Now that you have a general understanding of how to best partner and work with O
 
 All of these questions and more will be covered. You will also have the opportunity to ask your local coach anything you want to know about them!
 
-### LinkedIn: 
+## LinkedIn: 
 
 LinkedIn is an incredibly valuable tool that can completely shift your networking strategies and set you up for success in your job search.
 
