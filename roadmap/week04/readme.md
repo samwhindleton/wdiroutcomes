@@ -121,12 +121,15 @@ Participated in a full-time immersive Data Science course, completing in-class p
 
 
 ## Homework 
-Outcomes HW assignment due next week at 7 pm
+Homework due next Monday at 7 pm:
 
 DRAFT Brand Statement
 
 - Be sure to have 3 Peer Reviews and utilize the Brand Statement Checklist 
 
+Find 3 Organizations that pique your interest
+
+- Keep this in your own personal list, we won't be collecting it but will be asking about it in 1:1 meetings.
 
 ## Local Market Presentations:
 
