@@ -75,7 +75,7 @@ Whenever you are interested in an organization, search to see if you have any 1s
 - Search for jobs, and see who you know at the company
 
 # Homework
-Homework due next week at 7 pm: 
+Homework due next Monday at 7 pm: 
 ### What's my Brand Worksheet
 
 Your brand is your value proposition. It is important to understand who you are as a professional in your chosen field. It is what makes you uniquely qualified over candidates who are just merely qualified based solely on hard skills. 
