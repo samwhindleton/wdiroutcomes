@@ -27,6 +27,9 @@
 - Final LinkedIn Profile *(Outcomes Reviewed)*
 - GA Profile *(Outcomes Reviewed)*
 - Portfolio *(Outcomes Reviewed)*
+- Professional Connecttions 
+- Networking
+- Organizational Research 
 - All Final Materials *(Outcomes Reviewed)*
 
 
