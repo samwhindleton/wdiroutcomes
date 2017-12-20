@@ -54,13 +54,13 @@ We know this is tough! Remember that this is just a starting point.
 
 ## Homework: 
 
-Materials due next week at 7 pm: 
+Homwork due next week at 7 pm: 
 
-DRAFT Brand Statement
+**DRAFT Brand Statement**
 
 - Create Your Draft Brand Statement and have 3 classmates peer review it. Be sure to utilize the Brand Statement Checklist
 
-Reach out to 3 Data Science professionals to set up 1:1 informational meetings or phone calls to learn more about their role/company. 
+**Reach out to 3 Data Science professionals to set up 1:1 informational meetings or phone calls to learn more about their role/company.** 
 - Keep this in your own personal list, we won't be collecting it but will be asking about it in 1:1 meetings.
 
 ## Further Reading/Resources:
