@@ -34,10 +34,12 @@ One-on-Ones are a safe space to talk about literally anything. One-on-Ones might
 ### [Macia Batista](https://coach-macia.youcanbook.me/index.jsp)
 - New York Career Coach
 
-
-### WEST COAST
 ### [Joy Haugen](https://calendar.google.com/calendar/selfsched?sstoken=UUhjY1U5MFVhS1YzfGRlZmF1bHR8YzI3Yzc5YjBjMzBkYTBhZTY1MDFlY2U1ZjQwZWNmYmI)
 - Washington D.C. Career Coach
+
+### WEST COAST
+### [Kelly Dwyer](mailto:kelly.dwyer@generalassemb.ly)
+- Denver Career Coach
 
 ### [Andrew Kumar](https://calendly.com/andrew-kumar/15min/10-04-2017?back=1)
 - Santa Monica Career Coach
@@ -48,5 +50,3 @@ One-on-Ones are a safe space to talk about literally anything. One-on-Ones might
 ### [Casey Hills](https://caseyhills.youcanbook.me/)
 - Seattle Career Coach
 
-### [Kelly Dwyer](mailto:kelly.dwyer@generalassemb.ly)
-- Denver Career Coach
