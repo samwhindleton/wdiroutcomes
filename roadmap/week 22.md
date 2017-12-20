@@ -89,10 +89,11 @@ Outcomes will not be giving you feedback on this worksheet, but please take it s
 
 ### Have 3 classmates review your LinkedIn Profile and be sure you utilize the LinkedIn Check List! 
 
-[Update your LinkedIn Profile](https://drive.google.com/file/d/1jBKyqnvVNXo2jdtFxD3YrnLW0WkgPEne/view) 
+[Update your LinkedIn Profile using this checklist](https://drive.google.com/file/d/1jBKyqnvVNXo2jdtFxD3YrnLW0WkgPEne/view) 
 
 
-### Review [Organizations that have hired GA DSI Graduates](https://drive.google.com/open?id=1cYV2nXvU0WT-euh6sGm6s47i13h9CJa02diME3O1Ghw) Keep this in your own personal list, we won't be collecting it but will be asking about it in 1:1 meetings 
+### Review [Organizations that have hired GA DSI Graduates](https://drive.google.com/open?id=1cYV2nXvU0WT-euh6sGm6s47i13h9CJa02diME3O1Ghw) 
+Keep this in your own personal list, we won't be collecting it but will be asking about it in 1:1 meetings 
 
 By completing the worksheet and updating your LinkedIn Profile you have submitted your homework this week.
 
