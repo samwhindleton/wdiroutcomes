@@ -36,6 +36,21 @@ Questions you could ask:
 
 * What is your company looking for in candidates' portfolio?
 
+## Homework 
+Homework due next Monday at 7 pm:
+**Find 3 Organizations that pique your interest**
+- Keep this in your own personal list, we won't be collecting it but will be asking about it in 1:1 meetings.
+
+**Find 3 meet ups to attend while you are in class**
+- Keep this in your own personal list, we won't be collecting it but will be asking about it in 1:1 meetings.
+
+**Reach out to 3 Data Science professionals to set up 1:1 informational meetings or phone calls to learn more about their role/company.** 
+- Keep this in your own personal list, we won't be collecting it but will be asking about it in 1:1 meetings.
+
+Keep this information in a place where you can reference it in class. You don't need to turn anything in this week, but we will ask you in 1:1s about your research and the meet ups you have been going to. 
+
+There is nothing to submit to Github this week. 
+
 ## Further Reading/ Resources: 
 
 Recruiting Firms we’ve worked with:  
