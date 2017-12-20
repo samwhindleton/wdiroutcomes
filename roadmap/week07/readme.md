@@ -1,24 +1,39 @@
-# Preparing for the Behavioral Interview 
+# Preparing for the Behavioral Interview + Negotiating Like a Boss 
 
 ## Learning Objectives:
 
-* Understand what makes a successful interview 
+* Understand what makes a successful interview + negotiation
 
 * How to prepare for the interview
 
 * How to present your unique story
 
-* Practice interviewing 
+* Know when to negotiate and talk money in the interview process
 
-## Framing: (5/5)
+* Practicing interviewing + negotiation
+
+
+## Framing: 
 
 Everyone’s brand is different and unique; it is how you present yourself that matters. We all get nerves and feel self-conscious during interviews. The best way to combat this is to practice and be prepared!
 
-We do: (10/15)
+Negotiating can be hard and intimidating. No matter how many times you have negotiated, how much money you have, or if you are an employer or job seeker - we are all weird about money! We’ll give you the tools and practice today to make this process less intimidating for you.
+
+## We do: 
 
 **Open Discussion**
 
 * What are you most concerned about in interview process?
+
+* What are your perceptions going into an interview?  
+
+* Does anyone have any stories to share?
+
+* What would have made the interview better?
+
+* What has been a great interview for you? A horrible one?
+
+* Anyone interviewed someone and had a great or bad experience?
 
 **Remember:**
 
@@ -39,6 +54,14 @@ This is not an interrogation! Success will come from creating connection and a r
 
 * Have at least 3 professional stories ready to share (these can also be the examples for the skills - you can use these for answer to other questions)
 
+* Each story should have:
+
+    * Beginning - situation, set the scene
+
+    * Middle - what was the challenge, what did you do about it?
+
+    * End- what were the results? Learnings? Benefits?
+
 * Use the STAR Method: 
    * **S**ituation - provide the context and background "Our customers complained..." 
 
@@ -54,7 +77,8 @@ This is not an interrogation! Success will come from creating connection and a r
 
 * This should be a dialogue, not an interrogation!
 
-## Guided Practice: (10/25)
+
+## Guided Practice: 
 
 "Tell me about yourself." 
 - This is an opportunity to channel our professional brands. We’ve all been working on defining our brands. This is your chance to put it into action. This is not an invitation to recite your entire life story or even to go bullet by bullet through your resume. Instead, it’s probably your first and best chance to pitch the hiring manager on why you’re the right one for the job. Consider this simple formula, [the Past-Present-Future formula](https://www.themuse.com/advice/a-simple-formula-for-answering-tell-me-about-yourself).
@@ -101,8 +125,92 @@ The Interviewer will give feedback to the interviewee (5 minutes)
 
 After 15 min, we’ll switch roles.
 
+## **10 min Break**
+
+# Negotiations: Knowing your Worth 
+
+55% of women and 39% of men admit being too scared to negotiate.
+
+## I do: When do you talk money in the process?
+
+* Very beginning: They may ask for your ideal salary. Appropriate responses:
+
+    * I expect to be fairly compensated for the role and the salary
+
+    * Give a 5-10K range, make sure your ideal salary is at the bottom of that range
+
+* It may come up again right before getting an official offer. Be careful here. Often they ask because they want to give you an offer that you are going to accept. Make sure to say that you want to see everything in writing before accepting
+
+* Negotiation process truly begins when you get a **written offer**. Wait until you have a written offer because that will give you full leverage
+
+## You do: Change three things 
+
+## The process of negotiating 
+
+**Know your minimum number**
+
+How much does it cost to live your life?
+
+* Rent
+
+* Debt
+
+* Utilities
+
+* Insurance
+
+* Travel (car payment, metro)
+
+* Food
+
+* Savings / debt payment
+
+* Other . . . the things that make your day to day nicer than not!
+
+**Do your research**
+
+Average salaries for GA graduates:
+
+DSI: $55K - $90K
+
+Check Glassdoor, ask us, ask alumni, Google!
+
+## We do (10/100)
+
+Volunteer practice negotiating. Student volunteer will have just been offered a position, at 70K and they want 75K.
+
+Class will provide feedback:
+
+* Were they respectful, but strong?
+
+* Did they present their value and give specific examples as to why they deserve more money?
+
+* Did they approach the conversation looking for a win/win?
+
+* Were they articulate, clear, and confident?
+
+## You do: (20/120)
+
+Turn to your neighbor. One of you will be the student and one will be the employer.
+
+Students will practice negotiating for 10K more money. They’ve been offered 60K and they want 70K (5 minutes). Employers, your goal is to keep the number as low as possible, push back!
+
+The employer will give feedback to the interviewee (5 minutes)
+
+After 10 min, we’ll switch roles.
+
+## We do: (5/125)
+
+Open discussion - what worked/what didn’t. What do we need to practice moving forward?
+
+
 ## Homework 
-Check your class calendar for your HW assignment due next Monday 
+Homework due next Monday at 7 pm:
+
+**Find 3 Organizations that pique your interest**
+- Keep this in your own personal list, we won't be collecting it but will be asking about it in 1:1 meetings.
+
+There is nothing to submit to Github. 
 
 ## Further Reading/ Resources:
 
@@ -199,3 +307,15 @@ Check your class calendar for your HW assignment due next Monday
 [CareerBuilder: Interview Questions That Aren’t Okay to Ask](http://www.careerbuilder.com/share/aboutus/pressreleasesdetail.aspx?sd=4/9/2015&id=pr877&ed=12/31/2015)
 
 [experience.com: Ten Questions You Should Never Be Asked In An Interview, By Michelle Cash](https://www.experience.com/alumnus/article?channel_id=Interviews&source_page=additional_articles&article_id=article_1150295002556)
+
+**Negotiating:**
+
+[31+ Killer Salary Negotiating Scripts (email examples) ](http://www.lewis-lin.com/blog/2015/5/6/31-killer-salary-negotiation-scripts)
+
+[4 Most Powerful Salary Negotiation Tactics](http://money.usnews.com/money/blogs/outside-voices-careers/2015/06/29/the-4-most-powerful-salary-negotiation-tactics)
+
+[How to Negotiate your Salary](http://lifehacker.com/how-to-negotiate-your-salary-1566202988)
+
+[99U: 5 Real-Life Salary Negotiations (And What You Can Learn From Them)](http://99u.com/articles/52075/5-real-life-salary-negotiations-and-what-you-can-learn-from-them?utm_source=Sailthru&utm_medium=email&utm_campaign=%2A%20New%20BOTW%20Template%2011/22/15&utm_term=Sunday%20-%20Best%20of%20The%20Web)
+
+[Paysa](https://www.paysa.com/) 
