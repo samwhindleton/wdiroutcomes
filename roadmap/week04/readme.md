@@ -95,7 +95,8 @@ Begin your draft resume
 
 Participated in a full-time immersive Data Science course, completing in-class projects, Kaggle competitions, and personal projects focused on real-world applications of data science principles and best practices. Acquired, cleaned, and explored large datasets using Python, SQL, and Tableau in order to present findings to both technical and non-technical audiences. Developed a portfolio of individually and collaboratively focused in-class projects, including: {list projects in bullets}
 
-**Have 3 classmates review your resume and be sure to utilize the resume checklist**
+**Have 3 classmates peer review your resume and be sure to utilize the resume checklist**
+
 
 ## Homework 
 Homework due next Monday at 7 pm:
@@ -111,7 +112,8 @@ Submit your Homework in Github within your [local market repo](https://github.co
 - Keep this in your own personal list, we won't be collecting it but will be asking about it in 1:1 meetings.
 
 
-### Local Market Presentations:
+
+## Local Market Presentations:
 
 - [General Resume, Cover Letters & LinkedIn Slide Deck](https://drive.google.com/open?id=0B2111_pgbRHrMGpMUnI1V2UwdGs)
 - [Austin Resumes & Cover Letters Slide Deck](https://docs.google.com/presentation/d/1EE9TYkd9vNBH-DevDYe0nLQHDXDOlf-AExeRWu2IXtQ/edit#slide=id.gf4f42c7f8_0_1)
@@ -134,10 +136,8 @@ Resume templates:
 - [Canva](https://www.canva.com/create/resumes/)
 - [Word templates](https://www.themuse.com/advice/275-free-resume-templates-you-can-use-right-now?utm_source=Sailthru&utm_medium=email&utm_term=Daily%20Email%20List&utm_campaign=275%20Free%20Resume%20Templates%20That%27ll%20Make%20Your%20Life%20Easier)
 - Google docs: [Google Doc Add-on VisualCV](https://www.visualcv.com/www/google-docs-resume-templates/)  + [Google Doc templates](https://docs.google.com/document/u/0/)
-- [UXBeginner.com: Complete Guide to UX Resumes + 3 Free Templates](http://www.uxbeginner.com/complete-guide-to-ux-resumes-and-a-free-template/)
 
-[LinkedIn Checklist](https://docs.google.com/document/d/19__gv_yyaCs47Nk9LLszbJduf79AtYFeYl2kUcf8p9c/edit) 
-
+ 
 [The Muse: An Editor’s Guide to Perfecting Your Resume](https://www.themuse.com/advice/an-editors-guide-to-perfecting-your-resume)
 
 [What it Really Means to "Tailor Your Resume"](https://www.themuse.com/advice/what-it-really-means-to-tailor-your-resume)
