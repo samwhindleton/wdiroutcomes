@@ -87,16 +87,16 @@ Outcomes will not be giving you feedback on this worksheet, but please take it s
 [Access the worksheet here](https://docs.google.com/forms/d/e/1FAIpQLSc9PPBX7vEuNaHHfgWy9JwKGFTAiogpKN917wKmgcnKEGWA8w/viewform) 
 
 
-# Have 3 classmates review your LinkedIn Profile and be sure you utilize the LinkedIn Check List! 
+### Have 3 classmates review your LinkedIn Profile and be sure you utilize the LinkedIn Check List! 
 
 [Update your LinkedIn Profile](https://drive.google.com/file/d/1jBKyqnvVNXo2jdtFxD3YrnLW0WkgPEne/view) 
 
 
-# Review [Organizations that have hired GA DSI Graduates](https://drive.google.com/open?id=1cYV2nXvU0WT-euh6sGm6s47i13h9CJa02diME3O1Ghw) Keep this in your own personal list, we won't be collecting it but will be asking about it in 1:1 meetings 
+### Review [Organizations that have hired GA DSI Graduates](https://drive.google.com/open?id=1cYV2nXvU0WT-euh6sGm6s47i13h9CJa02diME3O1Ghw) Keep this in your own personal list, we won't be collecting it but will be asking about it in 1:1 meetings 
 
 By completing the worksheet and updating your LinkedIn Profile you have submitted your homework this week.
 
-## Local Market Presentations 
+# Local Market Presentations 
 
 - [Atlanta](https://docs.google.com/a/generalassemb.ly/presentation/d/1h8WOZ_kYwyN0lWkXMuPyx8ppLepdzRqhgczECv9aiUA/edit?usp=sharing) 
 - [Austin](https://docs.google.com/presentation/d/1FptpJHCExFm1XUma8mhEKmSMUsZL1fzFc1jo00NPWek/edit?usp=sharing) 
@@ -109,7 +109,7 @@ By completing the worksheet and updating your LinkedIn Profile you have submitte
 - [Seattle](https://docs.google.com/presentation/d/1r3iAx6H4bg259juFj2pQ6_NL1U7wzfyE_Vh0tRHBtho/edit#slide=id.g27aa6cdc73_0_399)
 
 
-## Further Reading and Resources: 
+# Further Reading and Resources: 
 - [Wharton, UPenn: ‘So, What Do You Do?’ Rethinking Small Talk](http://knowledge.wharton.upenn.edu/article/so-what-do-you-do-rethinking-small-talk/?utm_source=Sailthru&utm_medium=email&utm_campaign=%2A%20New%20BOTW%20Template%2011/8/15&utm_term=Sunday%20-%20Best%20of%20The%20Web)
 
 - [The Muse: How to Ask for an Informational Interview and Get a Yes](https://www.themuse.com/advice/how-to-ask-for-an-informational-interview-and-get-a-yes)
