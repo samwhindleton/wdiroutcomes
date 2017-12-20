@@ -25,7 +25,7 @@ Now that you have a general understanding of how to best partner and work with O
 
 All of these questions and more will be covered. You will also have the opportunity to ask your local coach anything you want to know about them!
 
-## LinkedIn: 
+### LinkedIn: 
 
 LinkedIn is an incredibly valuable tool that can completely shift your networking strategies and set you up for success in your job search.
 
@@ -74,9 +74,9 @@ Whenever you are interested in an organization, search to see if you have any 1s
 - Share, read, and comment on articles 
 - Search for jobs, and see who you know at the company
 
-## Homework
+# Homework
 Homework due next week at 7 pm: 
-# What's my Brand Worksheet
+### What's my Brand Worksheet
 
 Your brand is your value proposition. It is important to understand who you are as a professional in your chosen field. It is what makes you uniquely qualified over candidates who are just merely qualified based solely on hard skills. 
 
