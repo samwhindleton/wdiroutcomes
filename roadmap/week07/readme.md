@@ -107,7 +107,7 @@ Finish with the future - why you are really excited for this particular opportun
 
 * What could they have done better?
 
-## You do: Independent Practice (30/55)
+## You do: Independent Practice 
 
 Each student will take turns answering interview questions.
 
@@ -125,7 +125,7 @@ The Interviewer will give feedback to the interviewee (5 minutes)
 
 After 15 min, we’ll switch roles.
 
-## **10 min Break**
+## 10 min Break ##
 
 # Negotiations: Knowing your Worth 
 
@@ -175,7 +175,7 @@ DSI: $55K - $90K
 
 Check Glassdoor, ask us, ask alumni, Google!
 
-## We do (10/100)
+## We do 
 
 Volunteer practice negotiating. Student volunteer will have just been offered a position, at 70K and they want 75K.
 
@@ -189,7 +189,7 @@ Class will provide feedback:
 
 * Were they articulate, clear, and confident?
 
-## You do: (20/120)
+## You do: 
 
 Turn to your neighbor. One of you will be the student and one will be the employer.
 
@@ -199,7 +199,7 @@ The employer will give feedback to the interviewee (5 minutes)
 
 After 10 min, we’ll switch roles.
 
-## We do: (5/125)
+## We do: 
 
 Open discussion - what worked/what didn’t. What do we need to practice moving forward?
 
