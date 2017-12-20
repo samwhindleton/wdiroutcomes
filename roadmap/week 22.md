@@ -76,15 +76,23 @@ Whenever you are interested in an organization, search to see if you have any 1s
 
 ## Homework
 Homework due next week at 7 pm: 
+# What's my Brand Worksheet
 
-[What's my Brand Worksheet](https://docs.google.com/forms/d/e/1FAIpQLSc9PPBX7vEuNaHHfgWy9JwKGFTAiogpKN917wKmgcnKEGWA8w/viewform?usp=sf_link) 
+Your brand is your value proposition. It is important to understand who you are as a professional in your chosen field. It is what makes you uniquely qualified over candidates who are just merely qualified based solely on hard skills. 
 
-Have 3 classmates review your LinkedIn Profile and be sure you utilize the LinkedIn Check List! 
+This worksheet will prepare you for the branding workshop. After the workshop you'll have the tools and information needed to draft your brand statement. 
+
+Outcomes will not be giving you feedback on this worksheet, but please take it seriously as it will make it easier to craft your brand statement.
+
+[Access the worksheet here](https://docs.google.com/forms/d/e/1FAIpQLSc9PPBX7vEuNaHHfgWy9JwKGFTAiogpKN917wKmgcnKEGWA8w/viewform) 
+
+
+# Have 3 classmates review your LinkedIn Profile and be sure you utilize the LinkedIn Check List! 
 
 [Update your LinkedIn Profile](https://drive.google.com/file/d/1jBKyqnvVNXo2jdtFxD3YrnLW0WkgPEne/view) 
 
 
-Review [Organizations that have hired GA DSI Graduates](https://drive.google.com/open?id=1cYV2nXvU0WT-euh6sGm6s47i13h9CJa02diME3O1Ghw) 
+# Review [Organizations that have hired GA DSI Graduates](https://drive.google.com/open?id=1cYV2nXvU0WT-euh6sGm6s47i13h9CJa02diME3O1Ghw) Keep this in your own personal list, we won't be collecting it but will be asking about it in 1:1 meetings 
 
 By completing the worksheet and updating your LinkedIn Profile you have submitted your homework this week.
 
