@@ -15,8 +15,9 @@ We know you are in the final sprint for your projects. All we need is 20 minutes
 ## Final Material Expectations:
 We expect your Resume, Cover Letter, LinkedIn, and GA Profile to be final at this point, but understand if you are still working on adding your final project to your Portfolio. Remember that your portfolio must be complete within one week of graduation to receive support from Outcomes. 
 
-**Due next Monday by 7 PM:
-**Within your [local market repo](https://github.com/ga-students/dsiplusoutcomes/blob/master/SubmittingHW.md)** in Github, copy and paste this format and include links, attachments, or answers for each item:
+**Due next Monday by 7 PM:**
+
+**Within your [local market repo](https://github.com/ga-students/dsiplusoutcomes/blob/master/SubmittingHW.md)** in Github, copy and paste this format and include links, attachments, or answers for each item and title issue: Firstname Last Name: FINAL OUTCOMES Materials".
 
 - Final Resume: 
 - Final Cover Letter:
