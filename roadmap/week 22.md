@@ -1,5 +1,5 @@
 
-# Developing Your Network & The Local Landscape
+# Developing Your Network & Understanding the Local Landscape
 
 ## Learning Objectives:
 
