@@ -38,6 +38,7 @@ Questions you could ask:
 
 ## Homework 
 Homework due next Monday at 7 pm:
+
 **Find 3 Organizations that pique your interest**
 - Keep this in your own personal list, we won't be collecting it but will be asking about it in 1:1 meetings.
 
