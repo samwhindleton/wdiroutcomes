@@ -2,15 +2,14 @@
 
 ## Learning Objectives:
 
-* Understand how to create a successful resume, cover letter and LinkedIn Profile that will get noticed
+* Understand how to create a successful resume that will get noticed
 
-* Communicate your GA experience effectively on your resume and LinkedIn
+* Communicate your GA experience effectively on your resume 
 
 * Organize content on your resume to tell the story of your career transition
 
-* Create a draft resume and cover letter
+* Create a draft resume 
 
-* Update your LinkedIn profile 
 
 ## Framing: 
 
