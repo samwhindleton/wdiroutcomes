@@ -1,4 +1,4 @@
-#  Defining your Non-negotiables and Negotiating like a Boss 
+#  Defining Your Non-Negotiables + Application Strategy + Cover Letters
 
 ## Learning Objectives:
 
@@ -92,84 +92,43 @@ Open discussion
 
 Now look at your list of likes/dislikes and choose your 3 non-negotiables. The 3 things that you know if they aren’t there you won’t be able to be successful or happy.
 
-## Negotiations: Knowing your Worth (10/75)
+## Application Strategies
 
-55% of women and 39% of men admit being too scared to negotiate.
+## Cover Letters 
+Don't stress out about Cover Letters. This is another tool to gain insight into who you are as a candidate that should be an addition to your resume to demonstrate why you would be a great addition to their team.  
 
-## I do: When do you talk money in the process?
+Use the KISS method-Keep It Simple Stupid. 
 
-* Very beginning: They may ask for your ideal salary. Appropriate responses:
+Format: 
 
-    * I expect to be fairly compensated for the role and the salary
+Use the same heading as your resume {Name, phone number, email, location (just city, state), link to portfolio}
 
-    * Give a 5-10K range, make sure your ideal salary is at the bottom of that range
+Paragraph 1: Say what you are applying for and how you heard about the organization. 
 
-* It may come up again right before getting an official offer. Be careful here. Often they ask because they want to give you an offer that you are going to accept. Make sure to say that you want to see everything in writing before accepting
+Paragraph 2: State why THEY are great. 
 
-* Negotiation process truly begins when you get a **written offer**. Wait until you have a written offer because that will give you full leverage
+Paragraph 3: State why YOU are great. 
 
-## You do: Change three things (10/85)
+Paragraph 4: State why you BOTH are great and would be a good fit. 
 
-## The process of negotiating (5/90)
+Paragraph 5: Call to Action and Contact Info.
 
-**Know your minimum number**
+* [Cover Letter Example](https://docs.google.com/document/d/1qTkcSgqzoS_WpvXirPhlctP5WDtZH40frIeL6jKv0ek/edit)
+* [Cover Letter Example](https://www.themuse.com/advice/the-perfect-cover-letter-template-to-show-off-your-skills)
 
-How much does it cost to live your life?
-
-* Rent
-
-* Debt
-
-* Utilities
-
-* Insurance
-
-* Travel (car payment, metro)
-
-* Food
-
-* Savings / debt payment
-
-* Other . . . the things that make your day to day nicer than not!
-
-**Do your research**
-
-Average salaries for GA graduates:
-
-DSI: $55K - $90K
-
-Check Glassdoor, ask us, ask alumni, Google!
-
-## We do (10/100)
-
-Volunteer practice negotiating. Student volunteer will have just been offered a position, at 70K and they want 75K.
-
-Class will provide feedback:
-
-* Were they respectful, but strong?
-
-* Did they present their value and give specific examples as to why they deserve more money?
-
-* Did they approach the conversation looking for a win/win?
-
-* Were they articulate, clear, and confident?
-
-## You do: (20/120)
-
-Turn to your neighbor. One of you will be the student and one will be the employer.
-
-Students will practice negotiating for 5K more money. They’ve been offered 70K and they want 75K (5 minutes). Employers, your goal is to keep the number as low as possible, push back!
-
-The employer will give feedback to the interviewee (5 minutes).
-
-After 10 min, we’ll switch roles.
-
-## We do: (5/125)
-
-Open discussion - what worked/what didn’t. What do we need to practice moving forward?
 
 ## Homework 
-Check your class calendar for your HW assingment due next Monday at 7PM. 
+Homework due next Monday at 7PM. 
+
+**DRAFT Cover Letter**
+
+- Have your draft cover letter ready so that you can have 3 classmates peer review it. (You do not need to submit this to Github)
+
+**Find 3 Organizations that pique your interest**
+
+- Keep this in your own personal list, we won't be collecting it but will be asking about it in 1:1 meetings.
+
+There is nothing to submit to Github. 
 
 ## Further Reading/ Resources:
 
@@ -177,15 +136,5 @@ Check your class calendar for your HW assingment due next Monday at 7PM.
  Slides](https://drive.google.com/file/d/1XR6w_v9uKqvLo1XVAloRkqY7F8Ybc5P5/view?usp=sharing)
 
 
-**Negotiating:**
 
-[31+ Killer Salary Negotiating Scripts (email examples) ](http://www.lewis-lin.com/blog/2015/5/6/31-killer-salary-negotiation-scripts)
-
-[4 Most Powerful Salary Negotiation Tactics](http://money.usnews.com/money/blogs/outside-voices-careers/2015/06/29/the-4-most-powerful-salary-negotiation-tactics)
-
-[How to Negotiate your Salary](http://lifehacker.com/how-to-negotiate-your-salary-1566202988)
-
-[99U: 5 Real-Life Salary Negotiations (And What You Can Learn From Them)](http://99u.com/articles/52075/5-real-life-salary-negotiations-and-what-you-can-learn-from-them?utm_source=Sailthru&utm_medium=email&utm_campaign=%2A%20New%20BOTW%20Template%2011/22/15&utm_term=Sunday%20-%20Best%20of%20The%20Web)
-
-[Paysa](https://www.paysa.com/)  
 
