@@ -1,4 +1,4 @@
-# Publicly Exposed: Sharing Your Talents- GA Profiles + Portfolios
+# Publicly Exposed: Sharing Your Talents on GA Profiles, Portfolios & Blogging 
 
 ## Learning Objectives:
 
@@ -12,9 +12,11 @@
 
 * Best practices in creating a portfolio 
 
+* Best practices in creating a blog
+
 ## Framing: 
 
-Your portfolio and GA Profiles are the most critical pieces of your public image in securing a job. Online Alumni GA Profiles are the best way for GA’s employment partners to reach you directly regarding new opportunities! This session is dedicated to showing best practices for your portfolio and building your Alumni GA Profile utilizing your Brand Statement, Resume and Job Search Strategy. 
+Your GA Profile and portfolio are the most critical pieces of your public image in securing a job. Online Alumni GA Profiles are the best way for GA’s employment partners to reach you directly regarding new opportunities! This session is dedicated to showing best practices for your portfolio, blog and building your Alumni GA Profile utilizing your Brand Statement, Resume and Job Search Strategy. 
 
 ## Portfolio:
 
@@ -120,7 +122,7 @@ Below are a few options that we recommend you consider when creating your portfo
 
 * Free
 
-## Project Best Practices:
+## Blogs & Project Best Practices:
 Projects are a great way to showcase your your skills in a way that that your user can see how you actually put the skills you learned to action.  With each project, think about how you can convey your talents, your skills, your role, and the impact/result of the scenario.  Here are some general best practices!  
 
 Each of your projects should cover the below flow:
@@ -165,26 +167,40 @@ Create your draft GA Profile.  You will need to use the email address that you s
 
 Login at [http://profiles.generalassemb.ly/profiles/new](http://profiles.generalassemb.ly/profiles/new)
 
-
-## Remainder of class:
-
-Create your draft GA Profile. Remember that once your GA Profile is live, it is visible to hiriring partners and recruiters. Be extra diligent with your spelling, grammar and attention to detail. 
-
-The goal is to have your GA Profile be active and live as soon as possible, so use this time to create it.  Once you feel like you are ready to submit, have 3 peers review it. 
-
-This is also a great time to meet 1:1 with your coach to answer any questions you might have for Outcomes. 
-
 ## Blogging
 Blogging is a great way to share your technical talents with both non technical and technical audiences as a job seeker to gain exposure to who you are and what you do. Think about how hiring managers can gain insight into how you think. What if you are not sitting right next to them to walk them through your project. Your blog can do that for them! 
-
-We will talk more in depth about blogging post graduation, but you will want to be thinking about how you will want to incorporate blogging into your job search. 
-
+ 
 More on [blogging](https://github.com/ga-students/ga-dsiplus/blob/master/roadmap/Blogging.md)
+
+## Remainder of class:
+ 
+Create your draft GA Profile. Remember that once your GA Profile is live, it is visible to hiriring partners and recruiters. Be extra diligent with your spelling, grammar and attention to detail. 
+
+Once you feel like you are ready to submit, have 3 classmates peers review it. 
+
+By the end of class, you should have your peer reviewed GA Profile submitted and the domain name to your Portfolio created.
+This is also a great time to meet 1:1 with your coach to answer any questions you might have for Outcomes. 
+
+
+
 
 ## Homework 
 
-Check your class calendar for HW due next Monday at 7 pm
+Homework due next Monday at 7 pm:
 
+**Peer Reviewed GA Profile**
+
+**Portfolio Domain Name Created**
+
+**Find 3 Organizations that pique your interest**
+
+Keep this in your own personal list, we won't be collecting it but will be asking about it in 1:1 meetings.
+
+**Find 3 meet ups to attend while you are in class**
+
+Keep this in your own personal list, we won't be collecting it but will be asking about it in 1:1 meetings.
+
+There is nothing to submit in Github this week. 
 
 ## Further Reading/ Resources:
 
