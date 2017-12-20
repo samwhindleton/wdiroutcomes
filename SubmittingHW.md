@@ -12,7 +12,7 @@ After worksheets, we'll be using github to submit all HW:
 
 ![SubmitHW2](https://user-images.githubusercontent.com/18074591/31462599-50b0ef4a-ae9b-11e7-8b94-a9cbf3f64275.png)
 
-4. Submit your HW and name your issue: Firstname Lastname Assignment
+4. Submit your HW and name your issue: ###  Firstname Lastname Assignment ### 
 
 - i.e. John Doe: Final Brand Statement
 - i.e. Mickey Mouse: Final Resume 
@@ -24,5 +24,4 @@ After worksheets, we'll be using github to submit all HW:
 
 5. Someone from the outcomes team will give you feedback in the timeline listed on the HW assignment and will close your issue when you have received feedback. Keep an eye out in your email and github alerts. If you have any questions, feel free to reach out to us! 
 
-## [Boston Outcomes Homework Submission] (https://github.com/ga-students/boston-outcomes-homework) ##
-
+### [Boston Outcomes Homework Submission](https://github.com/ga-students/boston-outcomes-homework)
