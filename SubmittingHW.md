@@ -12,7 +12,7 @@ After worksheets, we'll be using github to submit all HW:
 
 ![SubmitHW2](https://user-images.githubusercontent.com/18074591/31462599-50b0ef4a-ae9b-11e7-8b94-a9cbf3f64275.png)
 
-4. Submit your HW and name your issue: # [Firstname Lastname: Assignment Title]
+4. Submit your HW and name your issue: #[Firstname Lastname: Assignment Title]
 
 - i.e. John Doe: Final Brand Statement
 - i.e. Mickey Mouse: Final Resume 
