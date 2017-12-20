@@ -12,11 +12,11 @@
 
 * Update your LinkedIn profile 
 
-## Framing: (5/0) 
+## Framing: 
 
 We know that you likely don’t know yet what you want to do or where to even begin with your resume; that’s okay! Our goal today is to show you what success looks like, and to get your content into a draft that you can continue to work on throughout the course.
 
-## I do: (10/15) 
+## I do: 
 
 **The secret six:**
 
@@ -62,7 +62,7 @@ Do your research - your resume is your personal advertisement
 
     6. Anything else that you are really proud of that you’d like to share
 
-## We do: (15/30) 
+## We do: 
 
 [6 second test (game)](https://resumegenius.com/6-second-resume-challenge)
 
@@ -78,32 +78,9 @@ Writing sucessful bullets:
 
 - Remember to provide proof...show the data. Don't just say "Led a team". Rather, "Led a team of five to achieve a growth rate that increased revenue 80%" 
 
-## You do: (10/40) 
+## You do: 
 
 Turn to your neighbor. Choose a bullet on your resume to make quantifiable and brainstorm together on how to make it quantifiable and more specific
-
-## Cover Letters  
-
-Don't stress out about Cover Letters. This is another tool to gain insight into who you are as a candidate that should be an addition to your resume to demonstrate why you would be a great addition to their team.  
-
-Use the KISS method-Keep It Simple Stupid. 
-
-Format: 
-
-Use the same heading as your resume {Name, phone number, email, location (just city, state), link to portfolio}
-
-Paragraph 1: Say what you are applying for and how you heard about the organization. 
-
-Paragraph 2: State why THEY are great. 
-
-Paragraph 3: State why YOU are great. 
-
-Paragraph 4: State why you BOTH are great and would be a good fit. 
-
-Paragraph 5: Call to Action and Contact Info.
-
-* [Cover Letter Example](https://docs.google.com/document/d/1qTkcSgqzoS_WpvXirPhlctP5WDtZH40frIeL6jKv0ek/edit)
-* [Cover Letter Example](https://www.themuse.com/advice/the-perfect-cover-letter-template-to-show-off-your-skills)
 
 
 ## You do: 
@@ -114,22 +91,25 @@ Begin your draft resume
 
 - GA sample descriptions (please don’t just copy and paste - add your own voice to this!):
 
-**DSI**
-Data Science Immersive Program
+**Data Science Immersive Program**
 
 Participated in a full-time immersive Data Science course, completing in-class projects, Kaggle competitions, and personal projects focused on real-world applications of data science principles and best practices. Acquired, cleaned, and explored large datasets using Python, SQL, and Tableau in order to present findings to both technical and non-technical audiences. Developed a portfolio of individually and collaboratively focused in-class projects, including: {list projects in bullets}
 
+**Have 3 classmates review your resume and be sure to utilize the resume checklist**
 
 ## Homework 
 Homework due next Monday at 7 pm:
 
-DRAFT Brand Statement
+FINAL Brand Statement
 
-- Be sure to have 3 Peer Reviews and utilize the Brand Statement Checklist 
+- You should have gone through 3 Peer Reviews
+
+Submit your Homework in Github in your [local market repo] (https://github.com/ga-students/dsiplusoutcomes/blob/master/SubmittingHW.md).
 
 Find 3 Organizations that pique your interest
 
 - Keep this in your own personal list, we won't be collecting it but will be asking about it in 1:1 meetings.
+
 
 ## Local Market Presentations:
 
