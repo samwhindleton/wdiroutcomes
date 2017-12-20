@@ -15,18 +15,19 @@
 - **We rely on homework to know where you're at.** It's very much to your advantage to turn in your homework the day it's assigned, even if -- *especially* if -- you're not able to finish it. Then we can address concerns and keep you from falling behind. We provide this flexibility to account for extenuating circumstances.
 
 # Outcomes Homework Summary 
-*Be sure to check your course calendar as each individual course is different*
+*The below outlines what you will be accomplishing throughout the course.*
 
 - Vision + Goals Worksheet
 - What’s My Brand Worksheet
-- Draft Brand Statement
-- Final Brand Statement + Draft Resume
-- Draft Cover Letter
-- Final LinkedIn Profile
-- Final Resume
-- GA Profile
-- Portfolio
-- All Final Materials
+- Draft Brand Statement *(Peer Reviewed)*
+- Final Brand Statement *(Outcomes Reviewed)*
+- Draft Resume *(Peer Reviewed)*
+- Final Resume *(Outcomes Reviewed)*
+- Draft Cover Letter *(Peer Reviewed)*
+- Final LinkedIn Profile *(Outcomes Reviewed)*
+- GA Profile *(Outcomes Reviewed)*
+- Portfolio *(Outcomes Reviewed)*
+- All Final Materials *(Outcomes Reviewed)*
 
 
 
