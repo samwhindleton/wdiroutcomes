@@ -104,7 +104,7 @@ FINAL Brand Statement
 
 - You should have gone through 3 Peer Reviews
 
-Submit your Homework in Github within your [local market repo] (https://github.com/ga-students/dsiplusoutcomes/blob/master/SubmittingHW.md)
+Submit your Homework in Github within your [local market repo](https://github.com/ga-students/dsiplusoutcomes/blob/master/SubmittingHW.md)
 
 Find 3 Organizations that pique your interest
 
