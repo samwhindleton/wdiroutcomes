@@ -37,11 +37,17 @@ Here at GA we pride ourselves on innovation and approaching things in a unique a
 - [macia.batista@ga.co](mailto:macia.batista@ga.co)
 - [Meet Macia!](https://www.linkedin.com/in/maciabatista/)
 
-### WEST COAST
 ### Joy Haugen
 - Washington D.C. Career Coach
 - [joy.haugen@ga.co](mailto:joy.haugen@ga.co)
 - [Meet Joy!](https://www.linkedin.com/in/joyhaugen/)
+
+### WEST COAST
+
+### Kelly Dwyer
+- Denver Career Coach
+- [Kelly.dwyer@ga.co](mailto:kelly.dwyer@ga.co)
+- [Meet Kelly!](https://www.linkedin.com/in/kellydwyer/)
 
 ### Andrew Kumar
 - Santa Monica Career Coach
@@ -58,10 +64,6 @@ Here at GA we pride ourselves on innovation and approaching things in a unique a
 - [casey@ga.co](mailto:casey@ga.co)
 - [Meet Casey!](https://www.linkedin.com/in/caseyhills/)
 
-### Kelly Dwyer
-- Denver Career Coach
-- [Kelly.dwyer@ga.co](mailto:kelly.dwyer@ga.co)
-- [Meet Kelly!](https://www.linkedin.com/in/kellydwyer/)
 
 
 
