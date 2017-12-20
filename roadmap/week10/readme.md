@@ -49,7 +49,8 @@ Homework due next Monday at 7 pm:
 
 Keep this information in a place where you can reference it in class. You don't need to turn anything in this week, but we will ask you in 1:1s about your research and the meet ups you have been going to. 
 
-There is nothing to submit to Github this week. 
+There is nothing to submit to Github. 
+
 
 ## Further Reading/ Resources: 
 
