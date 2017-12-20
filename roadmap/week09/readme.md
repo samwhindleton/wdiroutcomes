@@ -1,8 +1,8 @@
-# Catch your Breath and Regroup  
+# Catch your Breath, Regroup, & Meet with Your Coach 
 
 ## Learning Objectives:
 
-* Get caught up on outcomes work!
+* Get caught up on outcomes work and meet 1:1 with your local coach.
 
 ## Framing:
 
@@ -10,7 +10,17 @@ Take advantage of this week to polish your Brand Statement, Resume, GA Profile, 
 
 ## Homework
 
-Check your Calendar for what's due next Monday at 6 pm 
+Homework due next Monday at 7 pm: 
+
+**FINAL Resume**
+
+- You will receive feedback on this within 3 weeks
+
+**DRAFT Portfolio**
+
+- You should be adding to your portfolio as you learn more materials and work on projects. At this time you should have the skeleton created for your portfolio (landing page, about you, projects etc). Be sure to utilize the Portfolio Checklist as you go. 
+
+**Submit your Homework in Github within your [local market repo](https://github.com/ga-students/dsiplusoutcomes/blob/master/SubmittingHW.md)**
 
 ## Further Reading/ Resources:
 
