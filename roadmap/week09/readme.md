@@ -1,37 +1,38 @@
-# Catch your Breath, Regroup, & Meet with Your Coach 
+# Qualification Check In + Post Course Expectations 
 
 ## Learning Objectives:
 
-* Get caught up on outcomes work and meet 1:1 with your local coach.
+* Go over outcomes events post graduation
+
+* Learn how to best set yourself up for success in your job search 
+
+* Walk through all of your final materials with your local coach
 
 ## Framing:
 
-Take advantage of this week to polish your Brand Statement, Resume, GA Profile, LinkedIn Profile, and get your draft Portfolio in place. Bring all of these things to outcomes this week for additional feedback. You will have the opportunity to have 1:1 support from your local career coach.
+We know you are in the final sprint for your projects. All we need is 20 minutes of your time! We’ll all come together to go over all things outcomes post-course, and then meet with each of you for 10-15 minutes to check-in on your outcomes materials.
 
-## Homework
+## Final Material Expectations:
+We expect your Resume, Cover Letter, LinkedIn, and GA Profile to be final at this point, but understand if you are still working on adding your final project to your Portfolio. Remember that your portfolio must be complete within one week of graduation to receive support from Outcomes. 
 
-Homework due next Monday at 7 pm: 
+**Due next Monday by 7 PM:
+**Within your [local market repo](https://github.com/ga-students/dsiplusoutcomes/blob/master/SubmittingHW.md)** in Github, copy and paste this format and include links, attachments, or answers for each item:
 
-**FINAL Resume**
+- Final Resume: 
+- Final Cover Letter:
+- Final LinkedIn: 
+- Final GA Profile:
+- Link to your Blog:
+- Link to your Portfolio: 
+- What types of roles/organizations are you interested in: 
+- Top 3 Networking events you have attended: 
+- What are your top 3-5 technical skills: 
+- When we recommend you to organizations, we like to include 2 sentences about you. How would you like us to pitch you? (Write 2 sentences in the third person):
+- What locations beyond your local market are you job searching in, if you plan to search elsewhere? 
+- Anything you want us to know about your situation or job search in general? 
 
-- You will receive feedback on this within 3 weeks
 
-**DRAFT Portfolio**
-
-- You should be adding to your portfolio as you learn more materials and work on projects. At this time you should have the skeleton created for your portfolio (landing page, about you, projects etc). Be sure to utilize the Portfolio Checklist as you go. 
-
-**Submit your Homework in Github within your [local market repo](https://github.com/ga-students/dsiplusoutcomes/blob/master/SubmittingHW.md)**
 
 ## Further Reading/ Resources:
 
-**Salary Guides:** 
-
-[RHT 2015 Salary Guide for Technology Professionals](https://drive.google.com/open?id=0B0cuNYi34jyuZTQtZUpkb2xYOVE&authuser=0)
-
-[TCG 2015 Salary Guide to Creative Industry](https://drive.google.com/open?id=0B0cuNYi34jyuVVQtT0VDVUx1SHM&authuser=0)
-
-[Dice Tech Salary Survey 2016](https://drive.google.com/open?id=0B0cuNYi34jyueG5QVldsckFmSWs)
-
-[Marketing Mentor: Hourly Rate/Overhead Calculation Worksheet](https://drive.google.com/open?id=0B0cuNYi34jyublZNUGk3WXFyRTg&authuser=0)
-
-[Hired: State of US Salaries Report](https://hired.com/whitepapers/software-engineer-salary-data?utm_source=customerio&utm_medium=email&utm_campaign=salaryreport)
+[I spent 3 months applying for a job after a coding bootcamp, here’s what I learned ](https://medium.freecodecamp.com/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331#.vuily1mtu)
