@@ -97,16 +97,16 @@ Participated in a full-time immersive Data Science course, completing in-class p
 
 **Have 3 classmates review your resume and be sure to utilize the resume checklist**
 
-### Homework 
+## Homework 
 Homework due next Monday at 7 pm:
 
-**FINAL Brand Statement
+**FINAL Brand Statement**
 
 - You should have gone through 3 Peer Reviews
 
 Submit your Homework in Github within your [local market repo](https://github.com/ga-students/dsiplusoutcomes/blob/master/SubmittingHW.md)
 
-**Find 3 Organizations that pique your interest
+**Find 3 Organizations that pique your interest**
 
 - Keep this in your own personal list, we won't be collecting it but will be asking about it in 1:1 meetings.
 
