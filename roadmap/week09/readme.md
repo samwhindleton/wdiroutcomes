@@ -17,7 +17,9 @@ We expect your Resume, Cover Letter, LinkedIn, and GA Profile to be final at thi
 
 **Due next Monday by 7 PM:**
 
-**Within your [local market repo](https://github.com/ga-students/dsiplusoutcomes/blob/master/SubmittingHW.md)** in Github, copy and paste this format and include links, attachments, or answers for each item and title issue: Firstname Last Name: FINAL OUTCOMES Materials".
+**Within your [local market repo](https://github.com/ga-students/dsiplusoutcomes/blob/master/SubmittingHW.md)** in Github, copy and paste this format and include links, attachments, or answers for each item.
+
+**Github Issue Title: "Firstname Last Name: FINAL OUTCOMES Materials**
 
 - Final Resume: 
 - Final Cover Letter:
