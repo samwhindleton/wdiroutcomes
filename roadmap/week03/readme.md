@@ -35,8 +35,9 @@ We know this is tough! Remember that this is just a starting point.
   
 **Step 3: Build a statement that strings these benefits together concisely, powerfully and effectively.** 
 - Practice and wordsmith your statement to communicate your most authentic self that tells your story, highlights your strengths, and embodies who you are as a person and professional. This is going to be challenging! If you get stuck, we recommend creating lots of different versions.
-    - Here are some Examples: 
-    - "UX Designer driven by empathy and simplicity. My design skills and background in marketing, project management, front-end development, and content production allow me to craft thoughtful solutions that enhance people’s lives.” - Pat Yau
+    
+    -Here are some Examples: 
+    - "I'm a data scientist driven relentlessly by the desire to creatively solve stubborn problems by being more stubborn than the problems. An entrepreneurial spirit with a teacher's mindset, I find new paths and then teach others the way forward. I seek new challenges and teams that allow me to apply my versatile skill set.” - James Denny 
 
     - "Curious cat with an insatiable desire to understand. Driven by empathy and inspired by the iterative nature of the design process, I am committed to continuous learning for improvement. My inquisitive nature pushes me to be creative in seeking solutions as I aim to impact people through positive user experiences." -Sharon Choi 
 
@@ -44,7 +45,7 @@ We know this is tough! Remember that this is just a starting point.
 
     - “Full-stack web developer and dancer who enjoys finding creative solutions for out of the ordinary problems. Passionate and inspired by visual aesthetics, good design, and clean, precise code. Driven to create interactive products shaped around human experience, expression, and intuitive, efficient functionality.” -- Jamie Karlovich 
 
-    - “I am a creative-minded, solutions-driven software developer with a passion for intuitive design and function. My previous experience as a full-time touring musician informs everything that I do: from my ability to adapt and adjust plans quickly to finding efficient, concise solutions for challenging problems.” -- Brent Rusinow 
+    - “I condense my diverse experiences into concrete lessons, abstract problems into precise problem statements, big data into concise insights, and all my skills into one run-on sentence.” -- Matthew Speck
   
     - "Joy Haugen has a passion for helping individuals live the life they have always imagined...whether that be a new career, tackling a new adventure, or finding that new tribe of powerhouse people to surround themselves with! Joy brings possibility and creativity to inspire others and make a difference." - Joy Haugen 
 
@@ -57,9 +58,9 @@ Materials due next week at 7 pm:
 
 Create Your Draft Brand Statement and have 3 classmates peer review it. 
 
-Reach out to 3 Data Science professionals to set up 1:1 informational meetings or phone calls to learn more about their role/company
+Reach out to 3 Data Science professionals to set up 1:1 informational meetings or phone calls to learn more about their role/company. Keep this in your own personal list, we won't be collecting it but will be asking about it in 1:1 meetings.
 
-Submit your Homework Here. 
+
 
 ## Further Reading/Resources:
 
