@@ -24,6 +24,9 @@ After worksheets, we'll be using github to submit all HW:
 
 5. Someone from the outcomes team will give you feedback in the timeline listed on the HW assignment and will close your issue when you have received feedback. Keep an eye out in your email and github alerts. If you have any questions, feel free to reach out to us! 
 
+6. Remember, Outcomes HW is required in order to graduate and be successful in your job search!
+
+
 # Local Market Links to Submit Your Outcomes HW 
 
 ### EAST COAST
