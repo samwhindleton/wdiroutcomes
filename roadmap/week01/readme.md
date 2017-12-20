@@ -58,6 +58,7 @@ Our vision is put into action through programs and activities that foster profes
 * LinkedIn 
 * GA Profile 
 * Portfolio
+* Blogs
 
 ## Homework
 Homework due next Monday at 7 pm:
