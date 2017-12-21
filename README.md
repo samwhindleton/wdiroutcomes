@@ -16,7 +16,7 @@ Be sure to check your course calendar as things may adjust slightly depending on
 - [week 4: The Winning Resume Package (Local)](/roadmap/week04)
 - [week 5: A Day in the Life…Studio Tour (Local)](/roadmap/week05)
 - [week 6: Publicly Exposed: Sharing Your Talents on GA Profiles, Portfolios & Blogging (Local)](/roadmap/week08)
-- [week 7: Catch your Breath, Regroup, & Meet with Your Coach (Local)](/roadmap/week09)
+- [week 7: Catch your Breath, Regroup, & Meet with Your Coach (Local)](/roadmap/catchbreath.md)
 - [week 8: Ask the Experts Panel Discussion (Hiring Managers and Recruiters)(Global)](/roadmap/week10)
 - [week 9: Preparing for the Behavioral Interview + Negotiating Like a Boss (Local)](/roadmap/week07)
 - [week 10: Defining Your Non-Negotiables + Application Strategy + Cover Letters (Global)](/roadmap/week88.md)
