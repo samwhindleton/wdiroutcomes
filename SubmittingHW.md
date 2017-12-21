@@ -1,3 +1,34 @@
+# Local Market Links to Submit Your Outcomes HW 
+
+Be sure to submit your Outcomes Homework in your local market repo. 
+
+Utilize the naming convention: **Firstname Lastname: Assignment Title**
+
+### EAST COAST
+### [Atlanta Outcomes Homework Submission](https://github.com/ga-students/Atlanta-outcomes-homework)
+
+### [Austin Outcomes Homework Submission](https://github.com/ga-students/austin-outcomes-homework)
+
+### [Boston Outcomes Homework Submission](https://github.com/ga-students/boston-outcomes-homework)
+
+### [Chicago Outcomes Homework Submission](https://github.com/ga-students/chicago-outcomes-homework)
+
+### [New York Outcomes Homework Submission](https://github.com/ga-students/new-york-outcomes-homework)
+
+### [Washington D.C. Outcomes Homework Submission ](https://github.com/ga-students/d.c.-outcomes-homework)
+
+
+### WEST COAST
+
+### [Denver Outcomes Homework Submission](https://github.com/ga-students/denver-outcomes-homework)
+
+### [Los Angeles Outcomes Homework Submission](https://github.com/ga-students/la-outcomes-homework)
+
+### [San Francisco Outcomes Homework Submission](https://github.com/ga-students/s.f.-outcomes-homework)
+
+### [Seattle Outcomes Homework Submission](https://github.com/ga-students/seattle-outcomes-homework)
+
+
 # How to Submit your HW 
 
 After worksheets, we'll be using github to submit all HW:
@@ -27,29 +58,4 @@ After worksheets, we'll be using github to submit all HW:
 6. Remember, Outcomes HW is required in order to graduate and be successful in your job search!
 
 
-# Local Market Links to Submit Your Outcomes HW 
-
-### EAST COAST
-### [Atlanta Outcomes Homework Submission](https://github.com/ga-students/Atlanta-outcomes-homework)
-
-### [Austin Outcomes Homework Submission](https://github.com/ga-students/austin-outcomes-homework)
-
-### [Boston Outcomes Homework Submission](https://github.com/ga-students/boston-outcomes-homework)
-
-### [Chicago Outcomes Homework Submission](https://github.com/ga-students/chicago-outcomes-homework)
-
-### [New York Outcomes Homework Submission](https://github.com/ga-students/new-york-outcomes-homework)
-
-### [Washington D.C. Outcomes Homework Submission ](https://github.com/ga-students/d.c.-outcomes-homework)
-
-
-### WEST COAST
-
-### [Denver Outcomes Homework Submission](https://github.com/ga-students/denver-outcomes-homework)
-
-### [Los Angeles Outcomes Homework Submission](https://github.com/ga-students/la-outcomes-homework)
-
-### [San Francisco Outcomes Homework Submission](https://github.com/ga-students/s.f.-outcomes-homework)
-
-### [Seattle Outcomes Homework Submission](https://github.com/ga-students/seattle-outcomes-homework)
 
