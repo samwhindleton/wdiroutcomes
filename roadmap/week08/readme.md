@@ -188,7 +188,8 @@ Homework due next Monday at 7 pm:
 
 ### Reach out to 3 data professionals to set up 1:1 information meetings or phone calls to learn more about their role/company
 
-Keep this in your own personal list and/or job tracker, we won't be collecting it but will be asking about it in 1:1 meetings.
+- Keep this in your own personal list and/or job tracker, we won't be collecting it but will be asking about it in 1:1 meetings.
+
 
 There is nothing to submit in Github this week. 
 
