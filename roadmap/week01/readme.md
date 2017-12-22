@@ -14,7 +14,6 @@
 
 * Find out what alumni wished they had done while in class
 
-[Be sure to read our full presentation here](https://drive.google.com/file/d/0B4Db6Ll5urG2UHBsdTJfSXRHV2s/view?usp=sharing) 
 
 Here at GA we pride ourselves on innovation and approaching things in a unique and exciting way. This is no different when approaching career development and the process towards achieving outcomes success. 
 
