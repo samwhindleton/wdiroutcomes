@@ -10,7 +10,21 @@ Take advantage of this week to polish your Brand Statement, Resume, GA Profile, 
 
 ## Homework
 
-Check your Calendar for what's due next Monday at 6 pm 
+Homework due next Monday at 7 pm:
+
+**FINAL Resume**
+
+- You should have gone through 3 Peer Reviews
+
+**DRAFT Portfolio**
+
+- Be sure that you have the foundation of your portfolio that includes your landing page, projects, and contact information. 
+
+**Submit your Homework in Github within your [local market repo](https://github.com/ga-students/dsiplusoutcomes/blob/master/SubmittingHW.md)**
+
+**Find 3 Organizations that pique your interest**
+
+- Keep this in your own personal list, we won't be collecting it but will be asking about it in 1:1 meetings.
 
 ## Further Reading/ Resources:
 
