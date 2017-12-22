@@ -39,7 +39,7 @@ Questions you could ask:
 ## Homework 
 Homework due next Monday at 7 pm:
 
-**Find 1 meetups or event you want to attend in the next few weeks. 
+**Find 1 meetup or event you want to attend in the next few weeks. 
 
 Add it to your calendar and keep this in your own personal list and/or job tracker, we won't be collecting it but will be asking about it in 1:1 meetings. This will set you up for success post graduation.
 
