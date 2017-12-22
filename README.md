@@ -19,7 +19,7 @@ Be sure to check your course calendar as things may adjust slightly depending on
 - [week 7: Catch your Breath, Regroup, & Meet with Your Coach (Local)](/roadmap/catchbreath.md)
 - [week 8: Ask the Experts Panel Discussion (Hiring Managers and Recruiters)(Global)](/roadmap/week10)
 - [week 9: Preparing for the Behavioral Interview + Negotiating Like a Boss (Local)](/roadmap/week07)
-- [week 10: Defining Your Non-Negotiables + Application Strategy + Cover Letters (Global)](/roadmap/week88.md)
+- [week 10: Defining Your Non-Negotiables + Application Strategy + Cover Letters (Local)](/roadmap/week88.md)
 - [week 11: Cracking the Technical Interview (Global)](/roadmap/week11)
 - [week 12: Qualification Check In + Post Course Expectations (Local)](/roadmap/week09)
 
