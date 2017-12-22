@@ -21,8 +21,9 @@ Don’t forget to connect with all speakers on LinkedIn and thank them for their
 ## Homework: 
 Homework due next Monday at 7 pm: 
 
-**Find 3 Organizations that pique your interest**
-- Keep this in your own personal list and/or job tracker, we won't be collecting it but will be asking about it in 1:1 meetings.
+### Find 3 Organizations that pique your interest
+
+Keep this in your own personal list and/or job tracker, we won't be collecting it but will be asking about it in 1:1 meetings.
 
 You don't need to turn anything in this week, but we will ask you in 1:1s about your research and the meet ups you have been going to. 
 
