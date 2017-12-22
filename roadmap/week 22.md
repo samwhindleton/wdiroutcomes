@@ -11,10 +11,10 @@
 
 * Begin to learn how to network locally and how to describe yourself as a GA student 
 
-* Take a stab at your LinkedIn Profile 
+* Take a stab at updating your LinkedIn Profile 
 
 ## Framing 
-Now that you have a general understanding of how to best partner and work with Outcomes throughout your time at GA and post course, let's talk about how to best set yourself up for success in your local market. We will re-look at your 5 year plan and think about ways to make that happen. 
+Now that you have a general understanding of how to best partner and work with your Outcomes Coach throughout your time at GA and post course, let's talk about how to best set yourself up for success in your local market. We will re-look at your 5 year plan and think about ways to make that happen. 
 
 * How do you work with your local career coach? 
 * What are some key things to think about over the next 12 weeks as you ramp up for your job search? 
@@ -23,11 +23,11 @@ Now that you have a general understanding of how to best partner and work with O
 * Who are the key players in the industry? 
 * What events should you plan on attending? 
 
-All of these questions and more will be covered. You will also have the opportunity to ask your local coach anything you want to know about them!
+All of these questions and more will be covered. 
 
 ## LinkedIn: 
 
-LinkedIn is an incredibly valuable tool that can completely shift your networking strategies and set you up for success in your job search.
+LinkedIn is an incredibly valuable tool that can completely shift your networking strategies and set you up for success in your job search. We will walk through LinkedIn best practices to ensure your profile is strong and best represents you as a data professional. 
 
 
 ### Updating your LinkedIn 
@@ -97,15 +97,16 @@ Add it to your calendar and keep this in your own personal list and/or job track
 
 # Local Market Presentations 
 
-- [Atlanta](https://docs.google.com/a/generalassemb.ly/presentation/d/1h8WOZ_kYwyN0lWkXMuPyx8ppLepdzRqhgczECv9aiUA/edit?usp=sharing) 
-- [Austin](https://docs.google.com/presentation/d/1FptpJHCExFm1XUma8mhEKmSMUsZL1fzFc1jo00NPWek/edit?usp=sharing) 
-- [Boston](https://drive.google.com/file/d/0B3byrt86nJ8jVjcxdHl2MFlUclk/view?usp=sharing) + [Networking + LinkedIn Presentation](https://drive.google.com/file/d/0B4Db6Ll5urG2bWRZU1VYQkYtQ1k/view?usp=sharing)
-- [Chicago](https://drive.google.com/file/d/0B79n4qzQBXGkTzBob1JJbFZ5M28/view?usp=sharing)
-- [NYC](https://drive.google.com/file/d/0B4Db6Ll5urG2OVJvdDd3YTVxdDg/view?usp=sharing) 
-- [Denver](https://drive.google.com/file/d/0B4Db6Ll5urG2emY3SlFwRW95WmM/view?usp=sharing)
-- [Los Angeles](https://drive.google.com/file/d/0B2TA2w6EftvNaUdWQXV5S0FHcVk/view?usp=sharing)
-- [San Francisco](https://drive.google.com/a/generalassemb.ly/file/d/0B5K--i6yxjUjeEZMck9UeGZ0QUk/view?usp=sharing) 
-- [Seattle](https://docs.google.com/presentation/d/1r3iAx6H4bg259juFj2pQ6_NL1U7wzfyE_Vh0tRHBtho/edit#slide=id.g27aa6cdc73_0_399)
+- Atlanta
+- Austin 
+- Boston
+- Chicago
+- DC
+- NYC 
+- Denver
+- Los Angeles
+- San Francisco
+- Seattle
 
 
 # Further Reading and Resources: 
