@@ -39,8 +39,9 @@ Questions you could ask:
 ## Homework 
 Homework due next Monday at 7 pm:
 
-**Find 3 Organizations that pique your interest**
-- Keep this information in a place where you can reference it in class. You don't need to turn anything in this week, but we will ask you in 1:1s about your research and the meet ups you have been going to. 
+**Find 1 meetups or event you want to attend in the next few weeks. 
+
+Add it to your calendar and keep this in your own personal list and/or job tracker, we won't be collecting it but will be asking about it in 1:1 meetings. This will set you up for success post graduation.
 
 There is nothing to submit to Github. 
 
