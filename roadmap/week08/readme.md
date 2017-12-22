@@ -193,6 +193,19 @@ Homework due next Monday at 7 pm:
 
 There is nothing to submit in Github this week. 
 
+## Local Market Presentations
+
+- Atlanta
+- Austin
+- Boston
+- Chicago
+- DC
+- NYC
+- Denver
+- Los Angeles
+- San Francisco
+- Seattle
+
 ## Further Reading/ Resources:
 
 **Example GA DSI Portfolios:**
