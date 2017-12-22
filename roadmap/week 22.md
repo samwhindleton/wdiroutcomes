@@ -91,7 +91,9 @@ Outcomes will not be giving you feedback on this worksheet, but please take it s
 
 [Update your LinkedIn Profile using this checklist](https://drive.google.com/file/d/1jBKyqnvVNXo2jdtFxD3YrnLW0WkgPEne/view) 
 
-By completing the worksheet and updating your LinkedIn Profile you have submitted your homework this week.
+### Find 1 meetups or event you want to attend in the next few weeks. 
+
+Add it to your calendar and keep this in your own personal list and/or job tracker, we won't be collecting it but will be asking about it in 1:1 meetings. This will set you up for success post graduation.
 
 # Local Market Presentations 
 
