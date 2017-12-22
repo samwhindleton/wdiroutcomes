@@ -188,13 +188,13 @@ This is also a great time to meet 1:1 with your coach to answer any questions yo
 
 Homework due next Monday at 7 pm:
 
-**Peer Reviewed GA Profile**
+**Peer Reviewed GA Profile
 
-**Portfolio Domain Name Created**
+**Portfolio Domain Name Created
 
-**Find 3 meet ups to attend while you are in class**
+**Reach out to 3 data professionals to set up 1:1 information meetings or phone calls to learn more about their role/company
 
-Keep this in your own personal list, we won't be collecting it but will be asking about it in 1:1 meetings.
+Keep this in your own personal list and/or job tracker, we won't be collecting it but will be asking about it in 1:1 meetings.
 
 There is nothing to submit in Github this week. 
 
