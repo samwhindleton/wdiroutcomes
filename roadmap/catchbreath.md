@@ -30,19 +30,13 @@ Homework due next Monday at 7 pm:
 
 [The Power of the Pose](https://blog.ted.com/10-examples-of-how-power-posing-can-work-to-boost-your-confidence/)
 
-[Computing a Bayesian Estimate of Star Rating Means](https://medium.com/district-data-labs/computing-a-bayesian-estimate-of-star-rating-means-651496a890ab)
-
 [Data Science Terminology](https://ubc-mds.github.io/resources_pages/terminology/)
+
+[5 Data Storytelling Tips for Creating More Persuasive Charts and Graphs](https://towardsdatascience.com/5-data-storytelling-tips-for-creating-more-persuasive-charts-and-graphs-150f3544b4e8)
 
 [Packing Gerrymandering Standards](http://online.liebertpub.com/doi/pdf/10.1089/elj.2016.0392)
 
 [Five ways to Fix Statistics](https://www.nature.com/articles/d41586-017-07522-z)
-
-[Markov Chains](http://setosa.io/blog/2014/07/26/markov-chains/)
-
-[How Bayes Theorem works](https://www.youtube.com/watch?v=5NMxiOGL39M)
-
-[5 Data Storytelling Tips for Creating More Persuasive Charts and Graphs](https://towardsdatascience.com/5-data-storytelling-tips-for-creating-more-persuasive-charts-and-graphs-150f3544b4e8)
 
 [Understanding Objective Functions in Neural Networks](https://towardsdatascience.com/understanding-objective-functions-in-neural-networks-d217cb068138)
 
