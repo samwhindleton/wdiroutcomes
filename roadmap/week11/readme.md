@@ -18,6 +18,9 @@ Are you dreading the technical interview?  Not sure what to expect or how to cal
 
 [See Full Presentation](http://www.slideshare.net/vincentanidata/landing-your-first-data-science-job-the-technical-interview)
 
+## Homework: 
+Be working on your portfolio and any remaining job seeker toolkit items that have not be completed. There is nothing to turn into Github this week.
+
 ## Further Reading/ Resources: 
 [Questions previous DSI students have encountered](https://docs.google.com/document/d/1fJ9tc-MukNZpSaAlRmzFCOkzjYMYDgc7WXmv175fRp0/edit?ts=5808f8cd#heading=h.djmud7b0l4gl)
 
