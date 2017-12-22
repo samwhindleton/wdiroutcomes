@@ -31,6 +31,19 @@ Homework due next Monday at 7 pm:
 
 There is nothing to submit to Github. 
 
+## Local Market Presenations
+
+- Atlanta
+- Austin
+- Boston
+- Chicago
+- DC
+- NYC
+- Denver
+- Los Angeles
+- San Francisco
+- Seattle
+
 ## Further Reading/ Resources:
 
 [Interviews & Negotiation Slides](https://drive.google.com/open?id=0B2111_pgbRHrRHhOM3ZoTjJXUGc)
