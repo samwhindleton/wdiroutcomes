@@ -15,7 +15,7 @@ One-on-Ones are a safe space to talk about literally anything. One-on-Ones might
 
 ## Sign up with your Coach below:
 
-### [Nicole Hartig](https://calendar.google.com/calendar/selfsched?sstoken=UU9rR0E5a0huOENEfGRlZmF1bHR8NWZiMjI3NjIxMTA5N2VkMzk0MWU4NDk1YjQwZDdhZjQ)
+### [Nicole Umphress](https://calendar.google.com/calendar/selfsched?sstoken=UU9rR0E5a0huOENEfGRlZmF1bHR8NWZiMjI3NjIxMTA5N2VkMzk0MWU4NDk1YjQwZDdhZjQ)
 - Global Career Coach
 
 ### EAST COAST
