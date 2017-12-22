@@ -15,7 +15,7 @@
 
 We know that you likely don’t know yet what you want to do or where to even begin with your resume; that’s okay! Our goal today is to show you what success looks like, and to get your content into a draft that you can continue to work on throughout the course.
 
-## I do: 
+## Resume Essentials
 
 **The secret six:**
 
@@ -61,50 +61,22 @@ Do your research - your resume is your personal advertisement
 
     6. Anything else that you are really proud of that you’d like to share
 
-## We do: 
-
-[6 second test (game)](https://resumegenius.com/6-second-resume-challenge)
-
-Review of previous successful resumes:
-
-* [DSI Resume Examples](https://drive.google.com/open?id=0B2111_pgbRHrWDhjME1OR21jNWM)
-
-Writing sucessful bullets: 
-
-- Begin with verbs (Developed, Created, Designed, Managed, Led), and be sure to vary them 
-
-- [Be specific with your content ](http://everyvowel.com/resume-2/)
-
-- Remember to provide proof...show the data. Don't just say "Led a team". Rather, "Led a team of five to achieve a growth rate that increased revenue 80%" 
-
-## You do: 
-
-Turn to your neighbor. Choose a bullet on your resume to make quantifiable and brainstorm together on how to make it quantifiable and more specific
-
-
-## You do: 
-
-Begin your draft resume
-
-
 ## Homework 
 Homework due next Monday at 7 pm:
 
-**FINAL Brand Statement**
+### FINAL Brand Statement
 
-- You should have gone through 3 Peer Reviews
+You should have gone through 3 Peer Reviews. 
 
-**FINAL LinkedIn Profile**
+### FINAL LinkedIn Profile
 
-- Be sure that your tagline reflects your specialty, the summary includes your brand statement, you have GA Immersive Student in your Experience with your projects, GA is also listed in your Education, and your most relevent specialty skills are at the top of your skills section.
+Be sure that your tagline reflects your specialty, the summary includes your brand statement, you have GA Immersive Student in your Experience with your projects, GA is also listed in your Education, and your most relevent specialty skills are at the top of your skills section.
 
-**Submit your Homework in Github within your [local market repo](https://github.com/ga-students/dsiplusoutcomes/blob/master/SubmittingHW.md)**
+### DRAFT RESUME
 
-**DRAFT RESUME**
+Have your draft resume ready so that you can have 3 classmates peer review it utilzing the [resume checklist](https://docs.google.com/document/d/1J4qzuMSKqSGQAttJTPRhTXZAStojdYjWyUrF9XxGXwU/edit?usp=sharing). (You do not need to submit this to Github) 
 
-- Have your draft resume ready so that you can have 3 classmates peer review it utilzing the [resume checklist](https://docs.google.com/document/d/1J4qzuMSKqSGQAttJTPRhTXZAStojdYjWyUrF9XxGXwU/edit?usp=sharing). (You do not need to submit this to Github) 
-
-
+### Submit your Homework in Github within your [local market repo](https://github.com/ga-students/dsiplusoutcomes/blob/master/SubmittingHW.md)
 
 ## Local Market Presentations:
 
