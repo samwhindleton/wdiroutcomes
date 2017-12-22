@@ -80,18 +80,16 @@ Homework due next Monday at 7 pm:
 
 ## Local Market Presentations:
 
-- [General Resume, Cover Letters & LinkedIn Slide Deck](https://drive.google.com/open?id=0B2111_pgbRHrMGpMUnI1V2UwdGs)
-- [Austin Resumes & Cover Letters Slide Deck](https://docs.google.com/presentation/d/1EE9TYkd9vNBH-DevDYe0nLQHDXDOlf-AExeRWu2IXtQ/edit#slide=id.gf4f42c7f8_0_1)
-- [Atlanta Resumes, Cover Letters & LinkedIn Slide Deck](https://docs.google.com/presentation/d/13dF0O1HiZTp6FRQDLWJ5tC1tFB_mh9Qsc1ZH2fBh9hY/edit?usp=sharing)
-- [Boston Resume, Cover Letters & LinkedIn Slide Deck](https://drive.google.com/open?id=0B2111_pgbRHrMGpMUnI1V2UwdGs)
-- [Chicago Resume & Cover Letter Slide Deck](https://drive.google.com/open?id=0B79n4qzQBXGkMVN6ZlZDM3ZDbzQ)
-- [Chicago LinkedIn Slide Deck](https://drive.google.com/open?id=0B79n4qzQBXGkMnlYY0RPY3F5VmM)
-- [Denver Resumes & Cover Letters Slide Deck](https://drive.google.com/file/d/0BxJQJ7qd3ME9SDNHbThlSThjS0E/view)
-- [LA Resumes & Cover Letters Slide Deck](https://drive.google.com/open?id=0B2TA2w6EftvNTDhaY1hPWHl3Q1k)
-- [NYC Resumes & Cover Letters Slide Deck](https://docs.google.com/presentation/d/1-GOHmpZDHk26voj_XCbwcTCDC95X3_SJnms1lsyH5GE/edit#slide=id.g16e70d5d09_0_423)
-- [SF Resumes & Cover Letters Slide Deck](https://drive.google.com/file/d/0B5K--i6yxjUjRzd0a3c3clZ2LVk/view)
-- [Seattle Resumes & Cover Letters Slide Deck](https://docs.google.com/presentation/d/1Hb5VGCDl88_0e0gMo2wEl22DPl-_rxjkqWoaSmXiR5g/edit#slide=id.g1afc60742f_0_183)
-
+- Atlanta
+- Austin
+- Boston
+- Chicago
+- DC
+- NYC
+- Denver
+- Los Angeles
+- San Francisco
+- Seattle
 
 ## Additional Resources:
 
