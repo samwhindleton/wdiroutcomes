@@ -7,7 +7,7 @@ Here at GA we pride ourselves on innovation and approaching things in a unique a
 ### GLOBAL 
 ### Nicole Umphress
 - Based in Austin
-- [nicole.hartig@ga.co](mailto:nicole.hartig@ga.co)
+- [nicoleu@ga.co](mailto:nicoleu@ga.co)
 - [Meet Nicole!](https://www.linkedin.com/in/nicoleumphress/)
 
 
