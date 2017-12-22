@@ -1,8 +1,8 @@
-# Catch your Breath and Regroup  
+# Catch your Breath, Regroup, & Meet with Your Coach
 
 ## Learning Objectives:
 
-* Get caught up on outcomes work!
+* Get caught up on outcomes work! 
 
 ## Framing:
 
@@ -14,14 +14,22 @@ Check your Calendar for what's due next Monday at 6 pm
 
 ## Further Reading/ Resources:
 
-**Salary Guides:** 
+[The Power of the Pose](https://blog.ted.com/10-examples-of-how-power-posing-can-work-to-boost-your-confidence/)
 
-[RHT 2015 Salary Guide for Technology Professionals](https://drive.google.com/open?id=0B0cuNYi34jyuZTQtZUpkb2xYOVE&authuser=0)
+[Computing a Bayesian Estimate of Star Rating Means](https://medium.com/district-data-labs/computing-a-bayesian-estimate-of-star-rating-means-651496a890ab)
 
-[TCG 2015 Salary Guide to Creative Industry](https://drive.google.com/open?id=0B0cuNYi34jyuVVQtT0VDVUx1SHM&authuser=0)
+[Data Science Terminology](https://ubc-mds.github.io/resources_pages/terminology/)
 
-[Dice Tech Salary Survey 2016](https://drive.google.com/open?id=0B0cuNYi34jyueG5QVldsckFmSWs)
+[Packing Gerrymandering Standards](http://online.liebertpub.com/doi/pdf/10.1089/elj.2016.0392)
 
-[Marketing Mentor: Hourly Rate/Overhead Calculation Worksheet](https://drive.google.com/open?id=0B0cuNYi34jyublZNUGk3WXFyRTg&authuser=0)
+[Five ways to Fix Statistics](https://www.nature.com/articles/d41586-017-07522-z)
 
-[Hired: State of US Salaries Report](https://hired.com/whitepapers/software-engineer-salary-data?utm_source=customerio&utm_medium=email&utm_campaign=salaryreport)
+[Markov Chains](http://setosa.io/blog/2014/07/26/markov-chains/)
+
+[How Bayes Theorem works](https://www.youtube.com/watch?v=5NMxiOGL39M)
+
+[5 Data Storytelling Tips for Creating More Persuasive Charts and Graphs](https://towardsdatascience.com/5-data-storytelling-tips-for-creating-more-persuasive-charts-and-graphs-150f3544b4e8)
+
+[Understanding Objective Functions in Neural Networks](https://towardsdatascience.com/understanding-objective-functions-in-neural-networks-d217cb068138)
+
+[Life is Gradient Descent](https://hackernoon.com/life-is-gradient-descent-880c60ac1be8)
