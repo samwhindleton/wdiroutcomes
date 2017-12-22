@@ -28,6 +28,19 @@ Homework due next Monday at 7PM.
 
 - Have your draft cover letter ready so that you can have 3 classmates peer review it. (You do not need to submit this to Github)
 
+## Local Market Presentations
+
+- Atlanta
+- Austin
+- Boston
+- Chicago
+- DC
+- NYC
+- Denver
+- Los Angeles
+- San Francisco
+- Seattle
+
 ## Further Reading/ Resources:
 
 [Defining your Non-negotiables and Negotiating like a Boss 
