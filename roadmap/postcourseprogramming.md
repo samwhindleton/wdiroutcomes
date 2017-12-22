@@ -7,10 +7,6 @@ Congrats, you graduated from GA’s Immersive Program! We are so proud of all of
 We expect your Resume, Cover Letter, LinkedIn, GA Profile, and Portfolio to be final at this point. By this we mean you would be ok if an employer saw any of these materials. Remember that these materials are required to receive ongoing support from Outcomes.
 
 
-# Portfolio Reviews 
-
-The Portfolio Review is an opportunity for you to get firsthand experience sharing your work and showing off everything you have worked so hard for with GA!  Be prepared to discuss your work, your plans for completing any unfinished pieces, and most importantly your process. You will work with your coach as to what to expect for your portfolio review. 
-
 # Meet & Hire Networking Event 
 
 ## Framing:
