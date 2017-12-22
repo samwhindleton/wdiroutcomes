@@ -86,16 +86,6 @@ Turn to your neighbor. Choose a bullet on your resume to make quantifiable and b
 
 Begin your draft resume
 
-- Here are templates you can [use in word](https://www.themuse.com/advice/275-free-resume-templates-you-can-use-right-now?utm_source=Sailthru&utm_medium=email&utm_term=Daily%20Email%20List&utm_campaign=275%20Free%20Resume%20Templates%20That%27ll%20Make%20Your%20Life%20Easier) and Google docs: [Google Doc Add-on VisualCV](https://www.visualcv.com/www/google-docs-resume-templates/)  + [Google Doc templates](https://docs.google.com/document/u/0/)
-
-- GA sample descriptions (please don’t just copy and paste - add your own voice to this!):
-
-**Data Science Immersive Program**
-
-Participated in a full-time immersive Data Science course, completing in-class projects, Kaggle competitions, and personal projects focused on real-world applications of data science principles and best practices. Acquired, cleaned, and explored large datasets using Python, SQL, and Tableau in order to present findings to both technical and non-technical audiences. Developed a portfolio of individually and collaboratively focused in-class projects, including: {list projects in bullets}
-
-**Have 3 classmates peer review your resume and be sure to utilize the resume checklist**
-
 
 ## Homework 
 Homework due next Monday at 7 pm:
@@ -112,7 +102,7 @@ Homework due next Monday at 7 pm:
 
 **DRAFT RESUME**
 
-- Have your draft resume ready so that you can have 3 classmates peer review it. (You do not need to submit this to Github) 
+- Have your draft resume ready so that you can have 3 classmates peer review it utilzing the resume checklist. (You do not need to submit this to Github) 
 
 
 
@@ -140,7 +130,7 @@ Resume templates:
 - [Word templates](https://www.themuse.com/advice/275-free-resume-templates-you-can-use-right-now?utm_source=Sailthru&utm_medium=email&utm_term=Daily%20Email%20List&utm_campaign=275%20Free%20Resume%20Templates%20That%27ll%20Make%20Your%20Life%20Easier)
 - Google docs: [Google Doc Add-on VisualCV](https://www.visualcv.com/www/google-docs-resume-templates/)  + [Google Doc templates](https://docs.google.com/document/u/0/)
 
-[Creating a Great Data Science Resume] (http://will-stanton.com/creating-a-great-data-science-resume/) 
+[Creating a Great Data Science Resume](http://will-stanton.com/creating-a-great-data-science-resume) 
 
 [The Muse: An Editor’s Guide to Perfecting Your Resume](https://www.themuse.com/advice/an-editors-guide-to-perfecting-your-resume)
 
