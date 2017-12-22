@@ -319,3 +319,15 @@ There is nothing to submit to Github.
 [99U: 5 Real-Life Salary Negotiations (And What You Can Learn From Them)](http://99u.com/articles/52075/5-real-life-salary-negotiations-and-what-you-can-learn-from-them?utm_source=Sailthru&utm_medium=email&utm_campaign=%2A%20New%20BOTW%20Template%2011/22/15&utm_term=Sunday%20-%20Best%20of%20The%20Web)
 
 [Paysa](https://www.paysa.com/) 
+
+**Salary Guides:** 
+
+[RHT 2015 Salary Guide for Technology Professionals](https://drive.google.com/open?id=0B0cuNYi34jyuZTQtZUpkb2xYOVE&authuser=0)
+
+[TCG 2015 Salary Guide to Creative Industry](https://drive.google.com/open?id=0B0cuNYi34jyuVVQtT0VDVUx1SHM&authuser=0)
+
+[Dice Tech Salary Survey 2016](https://drive.google.com/open?id=0B0cuNYi34jyueG5QVldsckFmSWs)
+
+[Marketing Mentor: Hourly Rate/Overhead Calculation Worksheet](https://drive.google.com/open?id=0B0cuNYi34jyublZNUGk3WXFyRTg&authuser=0)
+
+[Hired: State of US Salaries Report](https://hired.com/whitepapers/software-engineer-salary-data?utm_source=customerio&utm_medium=email&utm_campaign=salaryreport)
