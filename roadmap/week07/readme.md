@@ -224,9 +224,9 @@ There is nothing to submit to Github.
 
 [The Muse: Pleasantly Persistent: 5 Rules for Effectively Following Up](https://www.themuse.com/advice/pleasantly-persistent-5-rules-for-effectively-following-up)
 
-[The Muse: 4 Ways You Can Take Back Control During a Never-Ending Interview Process](https://www.themuse.com/advice/4-ways-you-can-take-back-control-during-a-neverending-interview-process?utm_source=Sailthru&utm_medium=email&utm_campaign=%2A%20New%20BOTW%20Template%209/13/15&utm_term=Sunday%20-%20Best%20of%20The%20Web) 
+[The Muse: 4 Ways You Can Take Back Control During a Never-Ending Interview Process](https://www.themuse.com/advice/4-ways-you-can-take-back-control-during-a-neverending-interview-process?utm_source=Sailthru&utm_medium=email&utm_campaign=%2A%20New%20BOTW%20Template%209/13/15&utm_term=Sunday%20-%20Best%20of%20The%20Web)
 
-**Interviewing:**
+[21 Must-Know Data Science Interview Questions and Answers](https://www.kdnuggets.com/2016/02/21-data-science-interview-questions-answers.html)
 
 **Best Practices: Etiquette & Tips**
 
