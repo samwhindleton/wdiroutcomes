@@ -4,4 +4,4 @@ You are **required** to attend and **participate** in all mandatory Outcomes ses
 
 Please arrive on time and prepared for your Outcomes Program or One-on-One. Continuous tardies may result in discontinued Outcomes support qualification. 
 
-IF YOU **DO NOT GRADUATE** YOUR GA IMMERSIVE, YOU **DO NOT QUALIFY** FOR OUTCOMES SUPPORT
+IF YOU **DO NOT GRADUATE** YOUR GA IMMERSIVE, YOU **DO NOT QUALIFY** FOR OUTCOMES SUPPORT.
