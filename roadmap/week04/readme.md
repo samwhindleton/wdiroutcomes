@@ -114,10 +114,6 @@ Homework due next Monday at 7 pm:
 
 - Have your draft resume ready so that you can have 3 classmates peer review it. (You do not need to submit this to Github) 
 
-**Find 3 Organizations that pique your interest**
-
-- Keep this in your own personal list, we won't be collecting it but will be asking about it in 1:1 meetings.
-
 
 
 ## Local Market Presentations:
