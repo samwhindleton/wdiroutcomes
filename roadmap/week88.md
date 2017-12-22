@@ -124,12 +124,6 @@ Homework due next Monday at 7PM.
 
 - Have your draft cover letter ready so that you can have 3 classmates peer review it. (You do not need to submit this to Github)
 
-**Find 3 Organizations that pique your interest**
-
-- Keep this in your own personal list, we won't be collecting it but will be asking about it in 1:1 meetings.
-
-There is nothing to submit to Github. 
-
 ## Further Reading/ Resources:
 
 [Defining your Non-negotiables and Negotiating like a Boss 
