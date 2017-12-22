@@ -4,15 +4,15 @@
 
 * Create your draft GA Profile!
 
+* Editing process for GA Profiles
+
 * How to use GA Profiles and it’s job board
 
-* Etiquette when responding to employers
-
-* Editing process for GA Profiles
+* Etiquette when responding to employers via GA Profiles
 
 * Best practices in creating a portfolio 
 
-* Best practices in creating a blog
+* Best practices in creating a blog / becoming a thought leader
 
 ## Framing: 
 
@@ -20,9 +20,7 @@ Your GA Profile and portfolio are the most critical pieces of your public image 
 
 ## Portfolio:
 
-## I do: 
-
-**What makes a great portfolio:**
+## What makes a great portfolio:
 
 * Simple, but effective
 
@@ -161,12 +159,9 @@ When writing about your project, here are some questions to keep in mind.
 * How you would explain what you did to a non-data scientist
 
 
-
 ## GA Profiles:
 
 We’ll walk you through best practices in creating your GA profile. It is handy to have your updated resume handy.
-
-## You do: 
 
 Create your draft GA Profile.  You will need to use the email address that you signed up for GA with to access GA Profiles.
 
@@ -183,16 +178,15 @@ By the end of class, you should have your peer reviewed GA Profile submitted and
 This is also a great time to meet 1:1 with your coach to answer any questions you might have for Outcomes. 
 
 
-
 ## Homework 
 
 Homework due next Monday at 7 pm:
 
-**Peer Reviewed GA Profile
+### Peer Reviewed GA Profile
 
-**Portfolio Domain Name Created
+### Portfolio Domain Name Created
 
-**Reach out to 3 data professionals to set up 1:1 information meetings or phone calls to learn more about their role/company
+### Reach out to 3 data professionals to set up 1:1 information meetings or phone calls to learn more about their role/company
 
 Keep this in your own personal list and/or job tracker, we won't be collecting it but will be asking about it in 1:1 meetings.
 
