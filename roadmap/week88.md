@@ -8,119 +8,23 @@
 
 * Have a way to decide if an organization is a good fit for you
 
-* Know when to negotiate and talk money in the interview process
+* Understand the 5 step application process and how to best follow up to applications and witih hiring managers
 
-* Practicing negotiation
+* Creating a strong cover letter
 
-## Framing: (5/5)
+## Framing:
 
 What is a must-have in your next career? How do you narrow down your job search strategy? What is the must-have versus nice-to-have? Being able to communicate WHY you want a job is just as important as why you are a good fit for a job. We will tackle these questions and more this week. Be ready with your Organizational Research for a deep dive. 
 
-Negotiating can be hard and intimidating. No matter how many times you have negotiated, how much money you have, or if you are an employer or job seeker - we are all weird about money! We’ll give you the tools and practice today to make this process less intimidating for you.
+From there, we'll be digging into the best way to find and apply for jobs. We'll walk through the application process and how if utilized correctly you can decrease the number of applications you are sending but maximizing the results. 
 
-## You do:
-
-- Pull out a piece of paper or new document on your computer
-
-- Think about the last 5 roles you have had. If you recently graduated think of volunteer roles you’ve had, roles in clubs, sports teams, or membership organizations.
-
-- On the left hand side of the page right out all of the things you liked about each of those roles
-
-- On the right hand side of the page list out all of the things that you didn’t like about the roles
-
-**Think about: **
-
-- Team structure - did you work alone or part of a team? Or both?
-
-- Structure of the work environment - was it flexible? Bureaucratic? Creative? Lively? Quiet?
-
-- Culture - was it fun? Serious? Creative? Supportive? Smart? Mission driven?
-
-- Management style
-
-- Commute
-
-- Dress code
-
-- Physical environment
-
-- Salary
-
-- Professional development and growth
-
-- . . . and anything else!
-
-Now, take a step back and look for any over-arching themes - what do you see?
-
-## We do:
-
-Open discussion
-
-## You do:
-
-Next, write down your core values professionally and personally. Don’t think too much about this, just what first comes into your head, and this will be a list that continues to grow. Some ideas:
-
-* Integrity
-
-* Authenticity
-
-* Growth
-
-* Kindness
-
-* Peace
-
-* Courage
-
-* Adventure
-
-* Generosity
-
-* Making the world a better place
-
-* Joy/play
-
-* Creativity
-
-What connections do you see between your values and your likes/dislikes?
-
-## We do:
-
-Open discussion
-
-## You do:
-
-Now look at your list of likes/dislikes and choose your 3 non-negotiables. The 3 things that you know if they aren’t there you won’t be able to be successful or happy.
-
-## Application Strategies
-
-## Cover Letters 
-Don't stress out about Cover Letters. This is another tool to gain insight into who you are as a candidate that should be an addition to your resume to demonstrate why you would be a great addition to their team.  
-
-Use the KISS method-Keep It Simple Stupid. 
-
-Format: 
-
-Use the same heading as your resume {Name, phone number, email, location (just city, state), link to portfolio}
-
-Paragraph 1: Say what you are applying for and how you heard about the organization. 
-
-Paragraph 2: State why THEY are great. 
-
-Paragraph 3: State why YOU are great. 
-
-Paragraph 4: State why you BOTH are great and would be a good fit. 
-
-Paragraph 5: Call to Action and Contact Info.
-
-* [Cover Letter Example](https://docs.google.com/document/d/1qTkcSgqzoS_WpvXirPhlctP5WDtZH40frIeL6jKv0ek/edit)
-* [Cover Letter Example](https://www.themuse.com/advice/the-perfect-cover-letter-template-to-show-off-your-skills)
+We'll also discuss cover letters and the role they play in the application process. It is important to create a strong cover letter, even if employer don't read them, and we'll review some examples and have time to spend individually drafting our cover letter templates. 
 
 
 ## Homework 
 Homework due next Monday at 7PM. 
 
-**DRAFT Cover Letter**
+### DRAFT Cover Letter
 
 - Have your draft cover letter ready so that you can have 3 classmates peer review it. (You do not need to submit this to Github)
 
@@ -129,6 +33,17 @@ Homework due next Monday at 7PM.
 [Defining your Non-negotiables and Negotiating like a Boss 
  Slides](https://drive.google.com/file/d/1XR6w_v9uKqvLo1XVAloRkqY7F8Ybc5P5/view?usp=sharing)
 
+[I've Read Over 300+ Cover Letters and This Is How I Decide if It's Good or Bad Within 3 Minutes] (https://www.themuse.com/advice/ive-read-over-300-cover-letters-and-this-is-how-i-decide-if-its-good-or-bad-within-3-minutes?utm_medium=email&utm_campaign=botw_10022016&utm_source=blueshift&utm_content=botw_sunday&bsft_eid=989f3f70-6d28-4c5b-9c77-226be49c6d96&bsft_clkid=b9d1dd79-3c34-4507-980b-f3e70aef7c5b&bsft_uid=6a7435ca-a930-4f53-a4b0-3131b83243a7&bsft_mid=98515e7d-7a63-4d5e-aed7-5c26805ec564)
+
+[3 Quick Tricks to Make Writing a "Conversational" Cover Letter Easy] (https://www.themuse.com/advice/3-quick-tricks-to-make-writing-a-conversational-cover-letter-easy/?utm_campaign=daily_20161116&utm_source=blueshift&utm_content=daily_wednesday_fullarticle&bsft_eid=5d8f1f10-dc6a-45b9-a5c4-a72851b3c1e2&bsft_clkid=4faca338-9691-4737-9325-a22e4cdae1b6&bsft_uid=6a7435ca-a930-4f53-a4b0-3131b83243a7&bsft_mid=daf766d1-a25d-4a40-b371-8a26709106ae)
+
+[The 4 Paragraphs That Make a Killer Cover Letter] (https://www.levo.com/posts/the-4-paragraphs-that-make-a-killer-cover-letter)
+
+[8 Cover Letter Tips That Will Get You Hired] (https://www.levo.com/posts/best-cover-letter-tips)
+
+[How to Write a Cover Letter the Right Way] (https://www.levo.com/posts/how-to-write-a-cover-letter-the-right-way)
+
+[12 Great Resources if Writing a Cover Letter Fills You With Dread] (https://www.themuse.com/advice/12-great-resources-if-writing-a-cover-letter-fills-you-with-dread)
 
 
 
