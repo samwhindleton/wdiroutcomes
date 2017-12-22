@@ -192,10 +192,6 @@ Homework due next Monday at 7 pm:
 
 **Portfolio Domain Name Created**
 
-**Find 3 Organizations that pique your interest**
-
-Keep this in your own personal list, we won't be collecting it but will be asking about it in 1:1 meetings.
-
 **Find 3 meet ups to attend while you are in class**
 
 Keep this in your own personal list, we won't be collecting it but will be asking about it in 1:1 meetings.
