@@ -66,15 +66,15 @@ Homework due next Monday at 7 pm:
 
 ### FINAL Brand Statement
 
-You should have gone through 3 Peer Reviews. 
+- You should have gone through 3 Peer Reviews. 
 
 ### FINAL LinkedIn Profile
 
-Be sure that your tagline reflects your specialty, the summary includes your brand statement, you have GA Immersive Student in your Experience with your projects, GA is also listed in your Education, and your most relevent specialty skills are at the top of your skills section.
+- Be sure that your tagline reflects your specialty, the summary includes your brand statement, you have GA Immersive Student in your Experience with your projects, GA is also listed in your Education, and your most relevent specialty skills are at the top of your skills section.
 
 ### DRAFT RESUME
 
-Have your draft resume ready so that you can have 3 classmates peer review it utilzing the [resume checklist](https://docs.google.com/document/d/1J4qzuMSKqSGQAttJTPRhTXZAStojdYjWyUrF9XxGXwU/edit?usp=sharing). (You do not need to submit this to Github) 
+- Have your draft resume ready so that you can have 3 classmates peer review it utilzing the [resume checklist](https://docs.google.com/document/d/1J4qzuMSKqSGQAttJTPRhTXZAStojdYjWyUrF9XxGXwU/edit?usp=sharing). (You do not need to submit this to Github) 
 
 ### Submit your Homework in Github within your [local market repo](https://github.com/ga-students/dsiplusoutcomes/blob/master/SubmittingHW.md)
 
