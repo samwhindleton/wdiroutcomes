@@ -102,7 +102,7 @@ Homework due next Monday at 7 pm:
 
 **DRAFT RESUME**
 
-- Have your draft resume ready so that you can have 3 classmates peer review it utilzing the [resume checklist] (https://docs.google.com/document/d/1J4qzuMSKqSGQAttJTPRhTXZAStojdYjWyUrF9XxGXwU/edit?usp=sharing). (You do not need to submit this to Github) 
+- Have your draft resume ready so that you can have 3 classmates peer review it utilzing the [resume checklist](https://docs.google.com/document/d/1J4qzuMSKqSGQAttJTPRhTXZAStojdYjWyUrF9XxGXwU/edit?usp=sharing). (You do not need to submit this to Github) 
 
 
 
