@@ -152,6 +152,8 @@ There is nothing to submit to Github.
 
 [Paysa](https://www.paysa.com/) 
 
+[Think about this to earn more](https://medium.com/personal-growth/want-to-earn-more-ask-yourself-these-questions-1b711ffe7be5) 
+
 **Salary Guides:** 
 
 [RHT 2015 Salary Guide for Technology Professionals](https://drive.google.com/open?id=0B0cuNYi34jyuZTQtZUpkb2xYOVE&authuser=0)
