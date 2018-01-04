@@ -38,7 +38,7 @@ One-on-Ones are a safe space to talk about literally anything. One-on-Ones might
 - Washington D.C. Career Coach
 
 ### WEST COAST
-### [Kelly Dwyer](mailto:kelly.dwyer@generalassemb.ly)
+### [Nicole Palidwor](mailto:nicole.palidwor@generalassemb.ly)
 - Denver Career Coach
 
 ### [Andrew Kumar](https://calendly.com/andrew-kumar/15min/10-04-2017?back=1)
