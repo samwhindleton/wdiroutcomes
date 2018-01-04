@@ -66,11 +66,11 @@ Homework due next Monday at 7 pm:
 
 ### FINAL Brand Statement
 
-- You should have gone through 3 Peer Reviews. 
+- You should have gone through 3 Peer Reviews adn submit your Final Brand Statement in Github. 
 
 ### FINAL LinkedIn Profile
 
-- Be sure that your tagline reflects your specialty, the summary includes your brand statement, you have GA Immersive Student in your Experience with your projects, GA is also listed in your Education, and your most relevent specialty skills are at the top of your skills section.
+- Be sure that your tagline reflects your specialty, the summary includes your brand statement, you have GA Immersive Student in your Experience with your projects, GA is also listed in your Education, and your most relevent specialty skills are at the top of your skills section. Submit a link to your Final LinkedIn Profile in Github. 
 
 ### DRAFT RESUME
 
