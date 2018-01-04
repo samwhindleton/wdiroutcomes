@@ -44,10 +44,10 @@ Here at GA we pride ourselves on innovation and approaching things in a unique a
 
 ### WEST COAST
 
-### Kelly Dwyer
+### Nicole Palidwor 
 - Denver Career Coach
-- [Kelly.dwyer@ga.co](mailto:kelly.dwyer@ga.co)
-- [Meet Kelly!](https://www.linkedin.com/in/kellydwyer/)
+- [nicole.palidwor@ga.co](mailto:nicole.palidwor@ga.co)
+- [Meet Nicole!](https://www.linkedin.com/in/nicole-palidwor/)
 
 ### Andrew Kumar
 - Santa Monica Career Coach
