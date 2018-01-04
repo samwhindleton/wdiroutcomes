@@ -68,6 +68,8 @@ Homework due next Monday at 7 pm:
 By completing the worksheet you have submitted your homework this week
 
 ## Further Reading and Resources: 
+[Intro to Outcomes Slide Deck](https://drive.google.com/open?id=1QJj-mfod2wIBhypZYtEBjegaczwKOITQ) 
+
 [Meet your Outcomes Team](/outcomes-intro.md) 
 
 [GA Outcomes Report](https://generalassemb.ly/blog/general-assemblys-first-student-outcomes-report/)
