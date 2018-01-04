@@ -14,11 +14,11 @@ Homework due next Monday at 7 pm:
 
 ### FINAL Resume
 
-- You should have gone through 3 Peer Reviews
+- You should have gone through 3 Peer Reviews and submit a link to your Final Resume in Github.
 
 ### DRAFT Portfolio
 
-- Be sure that you have the foundation of your portfolio that includes your landing page, projects, and contact information. 
+- Be sure that you have the foundation of your portfolio that includes your landing page, projects, and contact information. Be sure to have 3 peers review your portfolio.  
 
 ### Find 3 Organizations that pique your interest
 
