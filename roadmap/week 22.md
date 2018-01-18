@@ -97,7 +97,7 @@ Homework due next Monday at 7 pm:
 
 # Local Market Presentations 
 
-- Atlanta
+- [Atlanta[(https://docs.google.com/presentation/d/1h8WOZ_kYwyN0lWkXMuPyx8ppLepdzRqhgczECv9aiUA/edit?usp=sharing)
 - [Austin](https://drive.google.com/open?id=1sR-VoxH80vNvjGSjO8TXeqFY_LvYh3FK) 
 - [Boston](https://drive.google.com/open?id=13tVLlJzetBF2qOotZYnK4cJyCWY9rk-J)
 - [Chicago](https://drive.google.com/drive/folders/0B79n4qzQBXGkZkQ5M0pOZVhwOEE)
