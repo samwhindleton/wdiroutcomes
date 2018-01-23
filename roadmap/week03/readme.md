@@ -58,11 +58,12 @@ Homework due next Monday at 7 pm:
 
 ### DRAFT Brand Statement
 
-- Create Your Draft Brand Statement and have 3 classmates peer review it. Be sure to utilize the Brand Statement Checklist
+- Create Your Draft Brand Statement and have 3 classmates peer review it. 
 
-### Reach out to 3 Data Science professionals to set up 1:1 informational meetings or phone calls to learn more about their role/company.
+### FINAL LinkedIn Profile
 
-- Keep this in your own personal list and/or job tracker, we won't be collecting it but will be asking about it in 1:1 meetings.
+-Submit your LinkedIn Profiles in Github within your [local market repo](https://github.com/ga-students/dsiplusoutcomes/blob/master/SubmittingHW.md)
+
 
 ## Further Reading/Resources:
 
