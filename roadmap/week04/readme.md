@@ -63,9 +63,6 @@ Do your research - your resume is your personal advertisement
 
 ## Homework 
 Homework due next Monday at 7 pm:
-Draft Resume [utilizing Checklist]
-Complete What's My Brand Worksheet (if not already done)
-Reach out to 3 data professionals to set up 1:1 information meetings or phone calls to learn more about their role/company
 
 ### WHAT'S MY BRAND WORKSHEET
 - Complete the workshee if you haven't already in preparation for next week's session. This worksheet will prepare you for the branding workshop. After the workshop you'll have the tools and information needed to draft your brand statement. 
