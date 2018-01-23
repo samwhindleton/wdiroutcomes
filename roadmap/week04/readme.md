@@ -63,20 +63,28 @@ Do your research - your resume is your personal advertisement
 
 ## Homework 
 Homework due next Monday at 7 pm:
+Draft Resume [utilizing Checklist]
+Complete What's My Brand Worksheet (if not already done)
+Reach out to 3 data professionals to set up 1:1 information meetings or phone calls to learn more about their role/company
 
-### FINAL Brand Statement
+### WHAT'S MY BRAND WORKSHEET
+- Complete the workshee if you haven't already in preparation for next week's session. This worksheet will prepare you for the branding workshop. After the workshop you'll have the tools and information needed to draft your brand statement. 
 
-- You should have gone through 3 Peer Reviews adn submit your Final Brand Statement in Github. 
+- Your brand is your value proposition. It is important to understand who you are as a professional in your chosen field. It is what makes you uniquely qualified over candidates who are just merely qualified based solely on hard skills. 
 
-### FINAL LinkedIn Profile
+- Outcomes will not be giving you feedback on this worksheet, but please take it seriously as it will make it easier to craft your brand statement.
 
-- Be sure that your tagline reflects your specialty, the summary includes your brand statement, you have GA Immersive Student in your Experience with your projects, GA is also listed in your Education, and your most relevent specialty skills are at the top of your skills section. Submit a link to your Final LinkedIn Profile in Github. 
+- [Access the worksheet here](https://docs.google.com/forms/d/e/1FAIpQLSc9PPBX7vEuNaHHfgWy9JwKGFTAiogpKN917wKmgcnKEGWA8w/viewform) 
 
 ### DRAFT RESUME
 
 - Have your draft resume ready so that you can have 3 classmates peer review it utilzing the [resume checklist](https://docs.google.com/document/d/1J4qzuMSKqSGQAttJTPRhTXZAStojdYjWyUrF9XxGXwU/edit?usp=sharing). (You do not need to submit this to Github) 
 
 ### Submit your Homework in Github within your [local market repo](https://github.com/ga-students/dsiplusoutcomes/blob/master/SubmittingHW.md)
+
+### Reach out to 3 Data Science professionals to set up 1:1 informational meetings or phone calls to learn more about their role/company.
+
+- Keep this in your own personal list and/or job tracker, we won't be collecting it but will be asking about it in 1:1 meetings.
 
 ## Local Market Presentations:
 
