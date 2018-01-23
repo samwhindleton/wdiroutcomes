@@ -12,8 +12,8 @@
 Be sure to check your course calendar as things may adjust slightly depending on your schedule
 - [week 1: Intro To Outcomes +  Cheers to Those Who Survived (Alumni Panel)! (Global)](/roadmap/week01)
 - [week 2: Developing Your Network & The Local Landscape (Local)](/roadmap/week%2022.md) 
-- [week 3: Finding Your Voice and Defining your Brand (Global)](/roadmap/week03)
-- [week 4: The Winning Resume Package (Local)](/roadmap/week04)
+- [week 3: The Winning Resume Package (Local)](/roadmap/week04)
+- [week 4: Finding Your Voice and Defining your Brand (Global)](/roadmap/week03)
 - [week 5: A Day in the Life…Studio Tour (Local)](/roadmap/week05)
 - [week 6: Publicly Exposed: Sharing Your Talents on GA Profiles, Portfolios & Blogging (Local)](/roadmap/week08)
 - [week 7: Catch your Breath, Regroup, & Meet with Your Coach (Local)](/roadmap/catchbreath.md)
