@@ -76,8 +76,7 @@ Homework due next Monday at 7 pm:
 ### DRAFT RESUME
 
 - Have your draft resume ready so that you can have 3 classmates peer review it utilzing the [resume checklist](https://docs.google.com/document/d/1J4qzuMSKqSGQAttJTPRhTXZAStojdYjWyUrF9XxGXwU/edit?usp=sharing). (You do not need to submit this to Github) 
-
-### Submit your Homework in Github within your [local market repo](https://github.com/ga-students/dsiplusoutcomes/blob/master/SubmittingHW.md)
+- Submit the draft in Github within your [local market repo](https://github.com/ga-students/dsiplusoutcomes/blob/master/SubmittingHW.md)
 
 ### Reach out to 3 Data Science professionals to set up 1:1 informational meetings or phone calls to learn more about their role/company.
 
