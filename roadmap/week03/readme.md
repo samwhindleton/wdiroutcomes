@@ -62,7 +62,7 @@ Homework due next Monday at 7 pm:
 
 ### FINAL LinkedIn Profile
 
--Submit your LinkedIn Profiles in Github within your [local market repo](https://github.com/ga-students/dsiplusoutcomes/blob/master/SubmittingHW.md)
+- Submit your LinkedIn Profiles in Github within your [local market repo](https://github.com/ga-students/dsiplusoutcomes/blob/master/SubmittingHW.md)
 
 
 ## Further Reading/Resources:
