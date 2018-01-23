@@ -97,13 +97,13 @@ Homework due next Monday at 7 pm:
 
 # Local Market Presentations 
 
-- [Atlanta[(https://docs.google.com/presentation/d/1h8WOZ_kYwyN0lWkXMuPyx8ppLepdzRqhgczECv9aiUA/edit?usp=sharing)
+- [Atlanta](https://docs.google.com/presentation/d/1h8WOZ_kYwyN0lWkXMuPyx8ppLepdzRqhgczECv9aiUA/edit?usp=sharing)
 - [Austin](https://drive.google.com/open?id=1sR-VoxH80vNvjGSjO8TXeqFY_LvYh3FK) 
 - [Boston](https://drive.google.com/open?id=13tVLlJzetBF2qOotZYnK4cJyCWY9rk-J)
 - [Chicago](https://drive.google.com/drive/folders/0B79n4qzQBXGkZkQ5M0pOZVhwOEE)
 - [DC](https://drive.google.com/open?id=1cNx2C7UgDJWYIWvlWf9kjblAy9n78xWt)
 - [NYC](https://docs.google.com/presentation/d/1ZHfUEONzNlev1rxO4YYabqUfZo-g0AgA8t7gHqEhrpk/edit?usp=sharing) 
-- Denver
+- [Denver](https://drive.google.com/open?id=12Qvr_bq7j12JX9HoQKY1FOgYdupLdvW8)
 - [Los Angeles](https://drive.google.com/drive/folders/0B2TA2w6EftvNeWJzaTJTbjNSLTQ)
 - [San Francisco](https://drive.google.com/file/d/0B5K--i6yxjUjTEo2U1BiZDBkcWc/view)
 - [Seattle](https://docs.google.com/presentation/d/1mo3YzZ1AhfggsHgHJPIYHjdsuhZ_ulN0CEiK8YjKPo8/)
