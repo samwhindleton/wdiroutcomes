@@ -56,7 +56,7 @@ Here at GA we pride ourselves on innovation and approaching things in a unique a
 
 ### Ari Aldebot
 - San Francisco Career Coach
-- [barianna.aldebot@ga.co](mailto:arianna.aldebot@ga.co)
+- [arianna.aldebot@ga.co](mailto:arianna.aldebot@ga.co)
 - [Meet Ari!](https://www.linkedin.com/in/ariannaaldebot/)
 
 ### Casey Hills
