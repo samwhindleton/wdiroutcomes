@@ -68,7 +68,7 @@ Homework due next Monday at 7 pm:
 By completing the worksheet you have submitted your homework this week
 
 ## Further Reading and Resources: 
-[Intro to Outcomes Slide Deck](https://drive.google.com/open?id=1QJj-mfod2wIBhypZYtEBjegaczwKOITQ) 
+[Intro to Outcomes Slide Deck](https://drive.google.com/file/d/1k2_R4mZe3100gQ8UOFHSsBsrjpDcDBOm/view?usp=sharing) 
 
 [Meet your Outcomes Team](/outcomes-intro.md) 
 
