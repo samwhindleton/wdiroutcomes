@@ -106,7 +106,7 @@ Homework due next Monday at 7 pm:
 - [Denver](https://drive.google.com/open?id=12Qvr_bq7j12JX9HoQKY1FOgYdupLdvW8)
 - [Los Angeles](https://drive.google.com/drive/folders/0B2TA2w6EftvNeWJzaTJTbjNSLTQ)
 - [San Francisco](https://drive.google.com/file/d/0B5K--i6yxjUjTEo2U1BiZDBkcWc/view)
-- [Seattle](https://docs.google.com/presentation/d/1mo3YzZ1AhfggsHgHJPIYHjdsuhZ_ulN0CEiK8YjKPo8/)
+- [Seattle](https://drive.google.com/file/d/1XUZLQ2WyX1TwywXg63QotIHd2aSS4IT-/view?usp=sharing)
 
 
 # Further Reading and Resources: 
