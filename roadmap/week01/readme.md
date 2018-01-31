@@ -62,7 +62,7 @@ Our vision is put into action through programs and activities that foster profes
 ## Homework
 Homework due next Monday at 7 pm:
 - [Vision + Goals worksheet](https://docs.google.com/forms/d/e/1FAIpQLSdMjwRUlhr4UXynJrsuXTSak-u2SfxCBpSfIrpNcsT24KEeDA/viewform)
-- Review [Organizations that have hired GA DSI Graduates](https://drive.google.com/open?id=1cYV2nXvU0WT-euh6sGm6s47i13h9CJa02diME3O1Ghw) 
+- Review [Organizations that have hired GA DSI Graduates](https://docs.google.com/spreadsheets/d/13eaZyvN3Mr6TW9cbxg3H7Fk4K54r1XJEZWrx36Q2n1w/edit?usp=sharing) 
 - Find 3 Organizations that pique your interest, could be from the list above or from your own research. Keep this in your own personal list, we won't be collecting it but will be asking about it in 1:1 meetings.  This will set you up for success post graduation. 
 
 By completing the worksheet you have submitted your homework this week
