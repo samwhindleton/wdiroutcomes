@@ -61,6 +61,9 @@ Do your research - your resume is your personal advertisement
 
     6. Anything else that you are really proud of that you’d like to share
 
+## Resume Examples
+[Here](https://drive.google.com/open?id=0B2111_pgbRHrWDhjME1OR21jNWM) are some example data-focused resumes.  
+
 ## Homework 
 Homework due next Monday at 7 pm:
 
