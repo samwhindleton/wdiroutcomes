@@ -91,7 +91,7 @@ Homework due next Monday at 7 pm:
 - [Austin](https://drive.google.com/open?id=17wNfoBitl0gVOycsMTkBD_AULZeDbu1m)
 - [Boston](https://drive.google.com/open?id=1C5E8xVeRuQiYOLqn4__j2gDfKyTdS_oJ)
 - [Chicago](https://drive.google.com/drive/folders/0B79n4qzQBXGkZkQ5M0pOZVhwOEE)
-- [DC](https://drive.google.com/open?id=1j61VowTJKQymV8hrODzDpgR87LiVNj8T)
+- [DC](https://drive.google.com/file/d/1ljw66RoFa4vGEPVUzpNHdzMeSk0nseLZ/view)
 - [NYC](https://docs.google.com/presentation/d/1-GOHmpZDHk26voj_XCbwcTCDC95X3_SJnms1lsyH5GE/edit)
 - Denver
 - [Los Angeles](https://drive.google.com/drive/folders/0B2TA2w6EftvNeWJzaTJTbjNSLTQ)
