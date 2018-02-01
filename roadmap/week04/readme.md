@@ -96,7 +96,7 @@ Homework due next Monday at 7 pm:
 - Denver
 - [Los Angeles](https://drive.google.com/drive/folders/0B2TA2w6EftvNeWJzaTJTbjNSLTQ)
 - [San Francisco](https://drive.google.com/file/d/0B5K--i6yxjUjd01HVmVEZXdvVzQ/view?usp=sharing)
-- Seattle
+- [Seattle](https://docs.google.com/presentation/d/1mo3YzZ1AhfggsHgHJPIYHjdsuhZ_ulN0CEiK8YjKPo8/edit)
 
 ## Additional Resources:
 
