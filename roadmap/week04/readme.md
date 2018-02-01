@@ -87,15 +87,15 @@ Homework due next Monday at 7 pm:
 
 ## Local Market Presentations:
 
-- Atlanta
-- Austin
+- [Atlanta](https://docs.google.com/presentation/d/13dF0O1HiZTp6FRQDLWJ5tC1tFB_mh9Qsc1ZH2fBh9hY/edit)
+- [Austin](https://drive.google.com/open?id=17wNfoBitl0gVOycsMTkBD_AULZeDbu1m)
 - Boston
-- Chicago
-- DC
-- NYC
+- [Chicago](https://drive.google.com/drive/folders/0B79n4qzQBXGkZkQ5M0pOZVhwOEE)
+- [DC](https://drive.google.com/open?id=1j61VowTJKQymV8hrODzDpgR87LiVNj8T)
+- [NYC](https://docs.google.com/presentation/d/1-GOHmpZDHk26voj_XCbwcTCDC95X3_SJnms1lsyH5GE/edit)
 - Denver
-- Los Angeles
-- San Francisco
+- [Los Angeles](https://drive.google.com/drive/folders/0B2TA2w6EftvNeWJzaTJTbjNSLTQ)
+- [San Francisco](https://drive.google.com/file/d/0B5K--i6yxjUjd01HVmVEZXdvVzQ/view?usp=sharing)
 - Seattle
 
 ## Additional Resources:
