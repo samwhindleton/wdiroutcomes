@@ -1,19 +1,13 @@
 # The Winning Resume Package
 
-## Learning Objectives:
-
-* Understand how to create a successful resume that will get noticed
-
-* Communicate your GA experience effectively on your resume 
-
-* Organize content on your resume to tell the story of your career transition
-
-* Create a draft resume 
-
-
 ## Framing: 
 
 We know that you likely don’t know yet what you want to do or where to even begin with your resume; that’s okay! Our goal today is to show you what success looks like, and to get your content into a draft that you can continue to work on throughout the course.
+
+## Learning Objectives:
+This week, we will help you build a winning resume that gets noticed and bundle your job search toolkit to land your next job. You’ll learn how to create your first resume draft that tells a story and highlights your relevant past experience and integrates your new web development skills.
+
+**Themes:** Designing Your Job Search; Developing Your Brand; Understanding the Landscape 
 
 ## Resume Essentials
 
@@ -43,11 +37,11 @@ Do your research - your resume is your personal advertisement
 
 4. Relevant Experience:
 
-    1. General Assembly XX IMMERSIVE Experience + description
+    1. General Assembly Web Development Experience + Description
 
     2. Projects
 
-    3. Any other experience related to data science
+    3. Any other experience related to web development
 
 5. Professional Experience
 
@@ -57,48 +51,17 @@ Do your research - your resume is your personal advertisement
 
     5. List GA again, but without a description
 
-7. Side Hustle/hobbies/personal interests/awards (optional)
-
-    6. Anything else that you are really proud of that you’d like to share
-
 ## Resume Examples
-[Here](https://drive.google.com/open?id=0B2111_pgbRHrWDhjME1OR21jNWM) are some example data-focused resumes.  
+Here are some example web development resumes.  
 
 ## Homework 
 Homework due next Monday at 7 pm:
+- Provide 2 peers with feedback on their brand statements. 
+- Continue working on resumes. Drafts due next week.
+- Reach out to five developers to set up 1:1 informational interviews.Keep this in your own personal list and/or job tracker, we won't be collecting it but will be asking about it in 1:1 meetings.
 
-### WHAT'S MY BRAND WORKSHEET
-- Complete the workshee if you haven't already in preparation for next week's session. This worksheet will prepare you for the branding workshop. After the workshop you'll have the tools and information needed to draft your brand statement. 
 
-- Your brand is your value proposition. It is important to understand who you are as a professional in your chosen field. It is what makes you uniquely qualified over candidates who are just merely qualified based solely on hard skills. 
-
-- Outcomes will not be giving you feedback on this worksheet, but please take it seriously as it will make it easier to craft your brand statement.
-
-- [Access the worksheet here](https://docs.google.com/forms/d/e/1FAIpQLSc9PPBX7vEuNaHHfgWy9JwKGFTAiogpKN917wKmgcnKEGWA8w/viewform) 
-
-### DRAFT RESUME
-
-- Have your draft resume ready so that you can have 3 classmates peer review it utilzing the [resume checklist](https://docs.google.com/document/d/1J4qzuMSKqSGQAttJTPRhTXZAStojdYjWyUrF9XxGXwU/edit?usp=sharing). (You do not need to submit this to Github) 
-- Submit the draft in Github within your [local market repo](https://github.com/ga-students/dsiplusoutcomes/blob/master/SubmittingHW.md)
-
-### Reach out to 3 Data Science professionals to set up 1:1 informational meetings or phone calls to learn more about their role/company.
-
-- Keep this in your own personal list and/or job tracker, we won't be collecting it but will be asking about it in 1:1 meetings.
-
-## Local Market Presentations:
-
-- [Atlanta](https://docs.google.com/presentation/d/13dF0O1HiZTp6FRQDLWJ5tC1tFB_mh9Qsc1ZH2fBh9hY/edit)
-- [Austin](https://drive.google.com/open?id=17wNfoBitl0gVOycsMTkBD_AULZeDbu1m)
-- [Boston](https://drive.google.com/open?id=1C5E8xVeRuQiYOLqn4__j2gDfKyTdS_oJ)
-- [Chicago](https://drive.google.com/drive/folders/0B79n4qzQBXGkZkQ5M0pOZVhwOEE)
-- [DC](https://drive.google.com/file/d/1ljw66RoFa4vGEPVUzpNHdzMeSk0nseLZ/view)
-- [NYC](https://docs.google.com/presentation/d/1-GOHmpZDHk26voj_XCbwcTCDC95X3_SJnms1lsyH5GE/edit)
-- Denver
-- [Los Angeles](https://drive.google.com/drive/folders/0B2TA2w6EftvNeWJzaTJTbjNSLTQ)
-- [San Francisco](https://drive.google.com/file/d/0B5K--i6yxjUjd01HVmVEZXdvVzQ/view?usp=sharing)
-- [Seattle](https://drive.google.com/file/d/17Up3iu0YGN_TvLKG3Nxo3mRKPCM06rAU/view?usp=sharing)
-
-## Additional Resources:
+## Further Reading and Resources:
 
 Resume templates: 
 
@@ -106,8 +69,6 @@ Resume templates:
 - [Canva](https://www.canva.com/create/resumes/)
 - [Word templates](https://www.themuse.com/advice/275-free-resume-templates-you-can-use-right-now?utm_source=Sailthru&utm_medium=email&utm_term=Daily%20Email%20List&utm_campaign=275%20Free%20Resume%20Templates%20That%27ll%20Make%20Your%20Life%20Easier)
 - Google docs: [Google Doc Add-on VisualCV](https://www.visualcv.com/www/google-docs-resume-templates/)  + [Google Doc templates](https://docs.google.com/document/u/0/)
-
-[Creating a Great Data Science Resume](http://will-stanton.com/creating-a-great-data-science-resume) 
 
 [The Muse: An Editor’s Guide to Perfecting Your Resume](https://www.themuse.com/advice/an-editors-guide-to-perfecting-your-resume)
 
