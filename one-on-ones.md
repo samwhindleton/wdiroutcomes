@@ -1,4 +1,4 @@
-# Meeting One-on-One with your Outcomes Coach
+# Meeting One-on-One with Your Outcomes Coach
 
 I love meeting and talking with you, please don't be shy! 
 
