@@ -6,7 +6,7 @@ LinkedIn? Twitter? Social Media? Oh my! The focus of this session is to help you
 
 We'll also discuss the importance of developing your network and how you can start connecting with industry professionals who can help you on this new career journey.
 
-## Learning Objectives & Themes:
+## Learning Objectives & Themes
 You will gain first hand knowledge of the ins and outs of LinkedIn and its role in the job search.  
 
 **Themes:** Participating in the Community; Understanding the Landscape
