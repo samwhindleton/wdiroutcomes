@@ -9,21 +9,24 @@
 ## Curriculum 
 #### Outcomes Roadmap
 Be sure to check your course calendar as things may adjust slightly depending on your schedule
-- [week 1: Intro To Outcomes +  Cheers to Those Who Survived (Alumni Panel)! (Global)](/roadmap/week01)
-- [week 2: Developing Your Network & The Local Landscape (Local)](/roadmap/week%2022.md) 
-- [week 3: The Winning Resume Package (Local)](/roadmap/week04)
-- [week 4: Finding Your Voice and Defining your Brand (Global)](/roadmap/week03)
-- [week 5: A Day in the Life…Studio Tour (Local)](/roadmap/week05)
-- [week 6: Publicly Exposed: Sharing Your Talents on GA Profiles, Portfolios & Blogging (Local)](/roadmap/week08)
-- [week 7: Catch your Breath, Regroup, & Meet with Your Coach (Local)](/roadmap/catchbreath.md)
-- [week 8: Ask the Experts Panel Discussion (Hiring Managers and Recruiters)(Global)](/roadmap/week10)
-- [week 9: Preparing for the Behavioral Interview + Negotiating Like a Boss (Local)](/roadmap/week07)
-- [week 10: Defining Your Non-Negotiables + Application Strategy + Cover Letters (Local)](/roadmap/week88.md)
-- [week 11: Cracking the Technical Interview (Global)](/roadmap/week11)
-- [week 12: Qualification Check In + Post Course Expectations (Local)](/roadmap/week09)
+- [week 1: Intro To Outcomes +  Cheers to Those Who Survived (Alumni Panel)!](/roadmap/week01)
+- [week 2: LinkedIn & Its Role In Developing Your Network](/roadmap/week%2022.md) 
+- [week 3: Finding Your Voice and Defining your Brand](/roadmap/week03)
+- [week 4: The Winning Resume Package (Local)](/roadmap/week04)
+- [week 5: Resume + LinkedIn Breakouts
+- [week 6: Publicly Exposed: Sharing Your Talents on GA Profiles, Portfolios & Blogging](/roadmap/week08)
+- [week 7: A Day in the Life…Studio Tour](/roadmap/week05)
+- [week 8: Catch your Breath, Regroup, & Meet with Your Coach](/roadmap/catchbreath.md)
+- [week 9: Defining Your Non-Negotiables + Application Strategy + Cover Letters](/roadmap/week88.md)
+- [week 10: Preparing for the Behavioral Interview + Talking Money](/roadmap/week07)
+- [week 11: Ask the Experts Panel Discussion (Hiring Managers and Recruiters)](/roadmap/week10)
+- [week 12: Cracking the Technical Interview](/roadmap/week11)
+- [week 13: Qualification Check In + Post Course Expectations](/roadmap/week09)
+- [week 13.5: Post Course Programming](/roadmap/postcourseprogramming.md)
 
 #### What to Expect Post Graduation
-[Post Course Programming](/roadmap/postcourseprogramming.md) - information about hiring events and more! 
-
-
+- Post Course Programming
+- Continued Access to 1:1s
+- Bi-Weekly Job Seeker Standup Calls
+- #MotivationMonday Emails with Weekly Check In Survey
 
