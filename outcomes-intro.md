@@ -4,7 +4,6 @@ Here at GA we pride ourselves on innovation and approaching things in a unique a
 
 ## Meet Your Outcomes Career Coach!
 
-### GLOBAL 
 ### Nicole Umphress
 - Based in Austin
 - Worked for GA for last (almost) 3 years
