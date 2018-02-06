@@ -14,11 +14,11 @@
 
 * Find out what alumni wished they had done while in class
 
+## About Outcomes: 
 
 Here at GA we pride ourselves on innovation and approaching things in a unique and exciting way. This is no different when approaching career development and the process towards achieving outcomes success. 
 
 We ask that you approach this journey with an open and growth mindset and allow for a new way of tackling the proverbial job search. This is anything but traditional!
-
 
 ## Our Mission:
 
@@ -53,24 +53,24 @@ Our vision is put into action through programs and activities that foster profes
 ## In order to receive outcomes support you must: 
 * Graduate from your immersive and attend Outcomes sessions 
 * Have the following completed and signed off by your local career coach within 1 week after graduation: 
-* Resume 
-* LinkedIn 
-* GA Profile 
-* Portfolio
-* Blogs
+-Brand Statement
+-LinkedIn Profile
+-GA Profile 
+-Resume 
+-Portfolio/Personal Website
 
 ## Homework
 Homework due next Monday at 7 pm:
-- [Vision + Goals worksheet](https://docs.google.com/forms/d/e/1FAIpQLSdMjwRUlhr4UXynJrsuXTSak-u2SfxCBpSfIrpNcsT24KEeDA/viewform)
-- Review [Organizations that have hired GA DSI Graduates](https://docs.google.com/spreadsheets/d/13eaZyvN3Mr6TW9cbxg3H7Fk4K54r1XJEZWrx36Q2n1w/edit?usp=sharing) 
+- [Vision + Goals worksheet](https://goo.gl/forms/zXIrRt1EYsMZVoxY2)
+- Review [Organizations that have hired GA WDI Graduates](https://docs.google.com/spreadsheets/d/1eh4skY-5_RyVPyoYTT-3uScwPxYPugOlnV0OLmJiocE/edit?usp=sharing) 
 - Find 3 Organizations that pique your interest, could be from the list above or from your own research. Keep this in your own personal list, we won't be collecting it but will be asking about it in 1:1 meetings.  This will set you up for success post graduation. 
 
 By completing the worksheet you have submitted your homework this week
 
 ## Further Reading and Resources: 
-[Intro to Outcomes Slide Deck](https://drive.google.com/file/d/1k2_R4mZe3100gQ8UOFHSsBsrjpDcDBOm/view?usp=sharing) 
+Intro to Outcomes Slide Deck
 
-[Meet your Outcomes Team](/outcomes-intro.md) 
+[Meet your Outcomes Career Coach](/outcomes-intro.md) 
 
 [GA Outcomes Report](https://generalassemb.ly/blog/general-assemblys-first-student-outcomes-report/)
 
