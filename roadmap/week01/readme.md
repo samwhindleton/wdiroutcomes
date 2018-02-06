@@ -1,18 +1,16 @@
 # Intro To Outcomes + Cheers to Those Who Survived (Alumni Panel)!
 
-## Learning Objectives:
+## Framing
+Who is the Outcomes Team and this community of techies?  How are you going to land a job in a competitive market utilizing the talents you are about to embark on? What types of jobs exist that could be your next professional chapter? How can you best get involved in the most sought after community? 
 
-* Provide an introduction of what to expect from outcomes pre and post course
+We get it, this program is a lot, and can be intimidating. But don’t worry...you’re not alone!  Need proof that you will survive and get through this? Talk to those who have completed and graduated from a GA Immersive! Come prepared with 3 burning questions you would love to know! 
 
-* Get to know your career coaches! 
+Alumni Guests: Zarela Graves from Ft. Myers FL and Aaron Ballard from Santiago Chile
 
-* Begin to create your future vision 
+## Learning Objectives & Themes:
+Setting clear expectations around Outcomes, it’s mission, vision, and goals. Students will understand how to qualify for Outcomes support, the 5 themes associated with success, and what is required to be a job seeker. Meet leading experts and learn how to acclimate to the tech community and how to get involved to best set their job search up for success! 
 
-* Gain advice from students who have been through it before
-
-* Get first hand knowledge of ways to be successful at GA and network like a pro
-
-* Find out what alumni wished they had done while in class
+Themes: Participating in the Community; Understanding the Landscape"
 
 ## About Outcomes: 
 
