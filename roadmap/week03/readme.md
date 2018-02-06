@@ -1,26 +1,16 @@
 # Finding Your Voice & Defining Your Brand
 
-## Learning Objectives:
-
-* Understand the value of a personal brand
-
-* Understand how to create your personal brand
-
-* Improve your elevator pitches by learning how to utilize storytelling techniques
-
-* Have the necessary feedback and data to create your personal brand
-
 ## Framing:
-
 Your brand is your value proposition. It is important to understand who you are as a professional in your chosen field. It is what makes you uniquely qualified over candidates who are just merely qualified based solely on hard skills.
 
 But how do you promote your brand and talents? Don’t worry, we’ve got you covered!  We will show you how to explain yourself and your talents in a compelling and interesting way so that your brand doesn’t get lost in translation.
 
 This will help you to establish your pitch when you are at the student spotlight, interviewing and networking! 
 
-## Format: 
+## Learning Objectives & Themes:
+Defining Your Voice and Discovering Your Brand is critical in the job search success story! Improve your elevator pitches and presentations by learning how to utilize storytelling techniques in business settings. You will leave with an understanding of the value of and how to create a personal brand. 
 
-Guest presenter Mike Gardner will take you through an interactive workshop to answer these questions.
+**Themes:** Developing Your Brand
 
 ## Crafting Your Brand Statement: 
 We know this is tough! Remember that this is just a starting point. 
@@ -45,10 +35,6 @@ We know this is tough! Remember that this is just a starting point.
 
     - “Full-stack web developer and dancer who enjoys finding creative solutions for out of the ordinary problems. Passionate and inspired by visual aesthetics, good design, and clean, precise code. Driven to create interactive products shaped around human experience, expression, and intuitive, efficient functionality.” -- Jamie Karlovich 
 
-    - “I condense my diverse experiences into concrete lessons, abstract problems into precise problem statements, big data into concise insights, and all my skills into one run-on sentence.” -- Matthew Speck
-  
-    - "Joy Haugen has a passion for helping individuals live the life they have always imagined...whether that be a new career, tackling a new adventure, or finding that new tribe of powerhouse people to surround themselves with! Joy brings possibility and creativity to inspire others and make a difference." - Joy Haugen 
-
     - "I'm passionate about creatively inspiring individuals to make a difference in the world and have purpose in their life and work." - Sarah Brooks 
 
 
@@ -56,23 +42,19 @@ We know this is tough! Remember that this is just a starting point.
 
 Homework due next Monday at 7 pm: 
 
-### DRAFT Brand Statement
+- DRAFT Brand Statement - Create Your Draft Brand Statement and have 2 classmates peer review it. 
+- FINAL LinkedIn Profile
 
-- Create Your Draft Brand Statement and have 3 classmates peer review it. 
-
-### FINAL LinkedIn Profile
-
-- Submit your LinkedIn Profiles in Github within your [local market repo](https://github.com/ga-students/dsiplusoutcomes/blob/master/SubmittingHW.md)
+- Submit both assignments via [Github](https://github.com/ga-students/wdiroutcomes/blob/master/SubmittingHW.md)
 
 
 ## Further Reading/Resources:
+- [The Muse: What You Should Be Doing for Your Personal Brand Every Day, Week, and Month](https://www.themuse.com/advice/what-you-should-be-doing-for-your-personal-brand-every-day-week-and-month?utm_source=Sailthru&utm_medium=email&utm_campaign=What%20You%20Should%20Be%20Doing%20for%20Your%20Personal%20Brand%20Every%20Day%2C%20Week%2C%20and%20Month&utm_term=Daily%20Email%20List)
 
-[The Muse: What You Should Be Doing for Your Personal Brand Every Day, Week, and Month](https://www.themuse.com/advice/what-you-should-be-doing-for-your-personal-brand-every-day-week-and-month?utm_source=Sailthru&utm_medium=email&utm_campaign=What%20You%20Should%20Be%20Doing%20for%20Your%20Personal%20Brand%20Every%20Day%2C%20Week%2C%20and%20Month&utm_term=Daily%20Email%20List)
+- [99U: How To Write an "About Me" Page That Gets You Hired](http://99u.com/articles/51669/how-to-write-about-me-section?utm_source=Sailthru&utm_medium=email&utm_campaign=%2A%20New%20BOTW%20Template%209/13/15&utm_term=Sunday%20-%20Best%20of%20The%20Web)
 
-[99U: How To Write an "About Me" Page That Gets You Hired](http://99u.com/articles/51669/how-to-write-about-me-section?utm_source=Sailthru&utm_medium=email&utm_campaign=%2A%20New%20BOTW%20Template%209/13/15&utm_term=Sunday%20-%20Best%20of%20The%20Web)
+- [Fast Company: 3 Steps for Breaking the Imposter Syndrome Cycle](http://www.fastcompany.com/3057504/work-smart/3-steps-for-breaking-the-imposter-syndrome-cycle?utm_source=mailchimp&utm_medium=email&utm_campaign=colead-daily-newsletter-featured&position=1&partner=newsletter&campaign_date=03082016)
 
-[Fast Company: 3 Steps for Breaking the Imposter Syndrome Cycle](http://www.fastcompany.com/3057504/work-smart/3-steps-for-breaking-the-imposter-syndrome-cycle?utm_source=mailchimp&utm_medium=email&utm_campaign=colead-daily-newsletter-featured&position=1&partner=newsletter&campaign_date=03082016)
-
-[The Most Important Question of your Life](https://markmanson.net/question)
+- [The Most Important Question of your Life](https://markmanson.net/question)
 
 
