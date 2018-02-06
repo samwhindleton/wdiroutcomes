@@ -11,7 +11,7 @@ You will gain first hand knowledge of the ins and outs of LinkedIn and its role 
 
 **Themes:** Participating in the Community; Understanding the Landscape
 
-# Homework
+## Homework
 Homework due next Monday at 7 pm: 
 * [What's my Brand Worksheet](https://goo.gl/forms/D0b8NduNrraYIVFW2) - Your brand is your value proposition. It is important to understand who you are as a professional in your chosen field. It is what makes you uniquely qualified over candidates who are just merely qualified based solely on hard skills. This worksheet will prepare you for the branding workshop. After the workshop you'll have the tools and information needed to draft your brand statement. Outcomes will not be giving you feedback on this worksheet, but please take it seriously as it will make it easier to craft your brand statement.
 
@@ -19,7 +19,7 @@ Homework due next Monday at 7 pm:
 
 * Find 1 meetup or event you want to attend in the next few weeks. Add it to your calendar and keep this in your own personal list and/or job tracker, we won't be collecting it but will be asking about it in 1:1 meetings. This will set you up for success post graduation.
 
-# Further Reading and Resources: 
+## Further Reading and Resources: 
 - LinkedIn & Its Role In Developing Your Network Slide Deck
 - [Wharton, UPenn: ‘So, What Do You Do?’ Rethinking Small Talk](http://knowledge.wharton.upenn.edu/article/so-what-do-you-do-rethinking-small-talk/?utm_source=Sailthru&utm_medium=email&utm_campaign=%2A%20New%20BOTW%20Template%2011/8/15&utm_term=Sunday%20-%20Best%20of%20The%20Web)
 - [The Muse: How to Ask for an Informational Interview and Get a Yes](https://www.themuse.com/advice/how-to-ask-for-an-informational-interview-and-get-a-yes)
@@ -27,7 +27,7 @@ Homework due next Monday at 7 pm:
 - [Browse GA's Page](https://www.linkedin.com/edu/alumni?id=150005&trk=edu-up-nav-menu-alumni) 
 - [Join GA Alumni Group](https://www.linkedin.com/edu/alumni?id=150005&trk=edu-up-nav-menu-alumni) 
 
-# Getting the Most out of LinkedIn
+## Getting the Most out of LinkedIn
 - Join relevant, development-focused groups 
 - Follow your favorite companies 
 - Connect with your Instructors, Coaches, Classmates, & GA Alumni
