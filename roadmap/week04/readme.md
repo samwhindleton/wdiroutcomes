@@ -9,7 +9,7 @@ This week, we will help you build a winning resume that gets noticed and bundle 
 
 **Themes:** Designing Your Job Search; Developing Your Brand; Understanding the Landscape 
 
-## Resume Essentials
+## Resume Essentials:
 
 **The secret six:**
 
@@ -51,10 +51,10 @@ Do your research - your resume is your personal advertisement
 
     5. List GA again, but without a description
 
-## Resume Examples
+## Resume Examples:
 Here are some example web development resumes.  
 
-## Homework 
+## Homework: 
 Homework due next Monday at 7 pm:
 - Provide 2 peers with feedback on their brand statements. 
 - Continue working on resumes. Drafts due next week.
