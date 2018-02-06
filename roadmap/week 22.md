@@ -84,7 +84,7 @@ Homework due next Monday at 7 pm:
 
 - Outcomes will not be giving you feedback on this worksheet, but please take it seriously as it will make it easier to craft your brand statement.
 
-- [Access the worksheet here](https://docs.google.com/forms/d/e/1FAIpQLSc9PPBX7vEuNaHHfgWy9JwKGFTAiogpKN917wKmgcnKEGWA8w/viewform) 
+- [Access the worksheet here](https://goo.gl/forms/D0b8NduNrraYIVFW2) 
 
 
 ### Have 3 classmates review your Updated LinkedIn Profile 
