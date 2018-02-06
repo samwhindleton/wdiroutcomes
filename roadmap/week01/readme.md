@@ -1,6 +1,6 @@
 # Intro To Outcomes + Cheers to Those Who Survived (Alumni Panel)!
 
-## Framing
+## Framing:
 Who is the Outcomes Team and this community of techies?  How are you going to land a job in a competitive market utilizing the talents you are about to embark on? What types of jobs exist that could be your next professional chapter? How can you best get involved in the most sought after community? 
 
 We get it, this program is a lot, and can be intimidating. But don’t worry...you’re not alone!  Need proof that you will survive and get through this? Talk to those who have completed and graduated from a GA Immersive! Come prepared with 3 burning questions you would love to know! 
@@ -57,7 +57,7 @@ Our vision is put into action through programs and activities that foster profes
 -Resume 
 -Portfolio/Personal Website
 
-## Homework
+## Homework:
 Homework due next Monday at 7 pm:
 - [Sign up for your first 1:1 with Nicole](https://github.com/ga-students/wdiroutcomes/blob/master/one-on-ones.md)
 - [Vision + Goals worksheet](https://goo.gl/forms/zXIrRt1EYsMZVoxY2)
