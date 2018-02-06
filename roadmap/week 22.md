@@ -13,12 +13,9 @@ You will gain first hand knowledge of the ins and outs of LinkedIn and its role 
 
 # Homework
 Homework due next Monday at 7 pm: 
-* [What's my Brand Worksheet](https://goo.gl/forms/D0b8NduNrraYIVFW2) 
---Your brand is your value proposition. It is important to understand who you are as a professional in your chosen field. It is what makes you uniquely qualified over candidates who are just merely qualified based solely on hard skills. 
--- This worksheet will prepare you for the branding workshop. After the workshop you'll have the tools and information needed to draft your brand statement. 
--- Outcomes will not be giving you feedback on this worksheet, but please take it seriously as it will make it easier to craft your brand statement.
+* [What's my Brand Worksheet](https://goo.gl/forms/D0b8NduNrraYIVFW2)- Your brand is your value proposition. It is important to understand who you are as a professional in your chosen field. It is what makes you uniquely qualified over candidates who are just merely qualified based solely on hard skills. This worksheet will prepare you for the branding workshop. After the workshop you'll have the tools and information needed to draft your brand statement. Outcomes will not be giving you feedback on this worksheet, but please take it seriously as it will make it easier to craft your brand statement.
 
-* Update your LinkedIn Profile using this checklist and have 3 classmates review it.
+* Update your LinkedIn Profile using [this checklist](https://drive.google.com/open?id=1_hUYTTiR-r7IZW6176g7xBtE4EHXDTVPt45qhc1VX8s) and have 3 classmates review it.
 
 * Find 1 meetup or event you want to attend in the next few weeks. Add it to your calendar and keep this in your own personal list and/or job tracker, we won't be collecting it but will be asking about it in 1:1 meetings. This will set you up for success post graduation.
 
