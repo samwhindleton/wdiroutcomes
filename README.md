@@ -12,8 +12,8 @@ Be sure to check your course calendar as things may adjust slightly depending on
 - [week 1: Intro To Outcomes +  Cheers to Those Who Survived (Alumni Panel)!](/roadmap/week01)
 - [week 2: LinkedIn & Its Role In Developing Your Network](/roadmap/week%2022.md) 
 - [week 3: Finding Your Voice and Defining your Brand](/roadmap/week03)
-- [week 4: The Winning Resume Package (Local)](/roadmap/week04)
-- [week 5: Resume + LinkedIn Breakouts
+- [week 4: The Winning Resume Package](/roadmap/week04)
+- [week 5: Resume + LinkedIn Breakouts]
 - [week 6: Publicly Exposed: Sharing Your Talents on GA Profiles, Portfolios & Blogging](/roadmap/week08)
 - [week 7: A Day in the Life…Studio Tour](/roadmap/week05)
 - [week 8: Catch your Breath, Regroup, & Meet with Your Coach](/roadmap/catchbreath.md)
