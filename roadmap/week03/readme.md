@@ -42,8 +42,8 @@ We know this is tough! Remember that this is just a starting point.
 
 Homework due next Monday at 7 pm: 
 
-- DRAFT Brand Statement - Create Your Draft Brand Statement and have 2 classmates peer review it. 
-- FINAL LinkedIn Profile
+- DRAFT Brand Statement. Submit your brand statement via Github.  
+- FINAL LinkedIn Profile. Send Nicole and invite to connect and submit your customized url to Github.
 
 Submit both assignments via [Github](https://github.com/ga-students/wdiroutcomes/blob/master/SubmittingHW.md)
 
