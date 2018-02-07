@@ -26,8 +26,8 @@ Be sure to check your course calendar as things may adjust slightly depending on
 - [week 13.5: Post Course Programming](/roadmap/postcourseprogramming.md)
 
 #### What to Expect Post Graduation
-- Post Course Programming
-- Continued Access to 1:1s
-- Bi-Weekly Job Seeker Standup Calls
-- #MotivationMonday Emails with Weekly Check In Survey
+- [Post Course Support](/roadmap/postcourseprogramming.md)
+- [Continued Access to 1:1s](/one-on-ones.md)
+- [Bi-Weekly Job Seeker Standup Calls](/roadmap/postcourseprogramming.md)
+- [#MotivationMonday Emails with Weekly Check In Survey](/roadmap/postcourseprogramming.md)
 
