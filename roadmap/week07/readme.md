@@ -12,7 +12,7 @@ Everyone’s brand is different and unique, it is how you present yourself that 
 
 **Themes:** Becoming a Thought Leader; Developing Your Brand; Designing Your Job Search
 
-## Homework 
+## Homework:  
 Homework due next Monday at 7 pm:
 - Reach out to 3 web development professionals to set up 1:1 information meetings or phone calls to learn more about their role/company. Add them to your personal job tracker.
 - Continue interview practice by reading through the additional resources provided below. 
