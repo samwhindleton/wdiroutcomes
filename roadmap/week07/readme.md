@@ -1,52 +1,24 @@
 # Preparing for the Behavioral Interview + Negotiating Like a Boss 
 
-## Learning Objectives:
-
-* Understand what makes a successful interview + negotiation
-
-* How to prepare for the interview
-
-* How to present your unique story
-
-* Know when to negotiate and talk money in the interview process
-
-* Practicing interviewing + negotiation
-
-
 ## Framing: 
 
 Everyone’s brand is different and unique; it is how you present yourself that matters. We all get nerves and feel self-conscious during interviews. The best way to combat this is to practice and be prepared!
 
 Negotiating can be hard and intimidating. No matter how many times you have negotiated, how much money you have, or if you are an employer or job seeker - we are all weird about money! We’ll give you the tools and practice today to make this process less intimidating for you.
 
+## Learning Objectives:
+
+Everyone’s brand is different and unique, it is how you present yourself that matters! This workshop will help students understand how to properly prepare for the interview. 
+
+**Themes:** Becoming a Thought Leader; Developing Your Brand; Designing Your Job Search
+
 ## Homework 
 Homework due next Monday at 7 pm:
+- Reach out to 3 web development professionals to set up 1:1 information meetings or phone calls to learn more about their role/company. Add them to your personal job tracker.
+- Continue interview practice by reading through the additional resources provided below. 
 
-### Find 3 Organizations that pique your interest
-- Keep this in your own personal list and/or job tracker, we won't be collecting it but will be asking about it in 1:1 meetings.
 
-### Reach out to 3 Data Professionals to set up 1:1 information meetings or phone calls to learn more about their role/company
-
-- Keep this in your own personal list and/or job tracker, we won't be collecting it but will be asking about it in 1:1 meetings.
-
-There is nothing to submit to Github. 
-
-## Local Market Presenations
-
-- Atlanta
-- Austin
-- Boston
-- Chicago
-- DC
-- NYC
-- Denver
-- Los Angeles
-- San Francisco
-- Seattle
-
-## Further Reading/ Resources:
-
-[Interviews & Negotiation Slides](https://drive.google.com/open?id=0B2111_pgbRHrRHhOM3ZoTjJXUGc)
+## Further Reading and Resources:
 
 **Interviewing:**
 
