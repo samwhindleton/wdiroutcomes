@@ -1,40 +1,32 @@
 # Qualification Check In + Post Course Expectations 
 
-## Learning Objectives:
-
-* Go over outcomes events post graduation
-
-* Learn how to best set yourself up for success in your job search 
-
-* Walk through all of your final materials with your local coach
-
 ## Framing:
 
-We know you are in the final sprint for your projects. All we need is 20 minutes of your time! We’ll all come together to go over all things outcomes post-course, and then meet with each of you for 10-15 minutes to check-in on your outcomes materials.
+I know you are in the final sprint for your projects. All I need is 20-30 minutes of your time! We’ll all come together to go over all things outcomes post-course, and then I'll meet with each of you for 10-15 minutes to check-in on your outcomes materials.
+
+## Learning Objectives & Themes:
+
+This is where the rubber hits the road. Ready for the transition into the big working world?  No?  That’s ok! We are still here to support you and your job search!  Let's talk about how to keep the Job Search actions going and ways to be supported! 
+
+**Themes:** All of them! 
 
 ## Final Material Expectations:
-We expect your Resume, Cover Letter, LinkedIn, and GA Profile to be final at this point, but understand if you are still working on adding your final project to your Portfolio. Remember that your portfolio must be complete within one week of graduation to receive support from Outcomes. 
+We expect your Resume, Cover Letter, LinkedIn, and GA Profile to be final at this point, but understand if you are still working on adding your final project and portfolio. Remember that your portfolio must be complete within one week of graduation to receive support from Outcomes. 
 
 **Due next Monday by 7 PM:**
 
-**Within your [local market repo](https://github.com/ga-students/dsiplusoutcomes/blob/master/SubmittingHW.md)** in Github, copy and paste this format and include links, attachments, or answers for each item.
-
 **Github Issue Title: "Firstname Last Name: FINAL OUTCOMES Materials**
 
-- Final Resume: 
-- Final Cover Letter:
-- Final LinkedIn: 
-- Final GA Profile:
-- Link to your Blog:
-- Link to your Portfolio: 
-- What types of roles/organizations are you interested in: 
-- Top 3 Networking events you have attended: 
-- What are your top 3-5 technical skills: 
-- When we recommend you to organizations, we like to include 2 sentences about you. How would you like us to pitch you? (Write 2 sentences in the third person):
-- What locations beyond your local market are you job searching in, if you plan to search elsewhere? 
+- Final Resume: link
+- Final Cover Letter: link
+- Final LinkedIn: link
+- Final GA Profile: link
+- Link to your Portfolio: link
+- What types of roles/organizations are you interested in: list
+- Top 3 Networking events you have attended: list
+- What are your top 3-5 technical skills: list
+- What locations beyond your local market are you job searching in, if you plan to search elsewhere? list
 - Anything you want us to know about your situation or job search in general? 
-
-
 
 ## Further Reading/ Resources:
 
