@@ -41,27 +41,17 @@ There is nothing to submit to Github.
 
 Recruiting Firms GA has worked with:  
 
-[The Creative Group](https://www.roberthalf.com/creativegroup) 
-
-[Robert Half Technology](https://www.roberthalf.com/) 
-
-[The Boss Group](http://www.thebossgroup.com/) 
-
-[Fahrenheit IT Staffing and Consulting](http://www.fahrenheitit.com/) 
-
-[TEKSystems](https://www.teksystems.com/en) 
-
-[Hire Strategy ](http://www.hirestrategy.com/)
-
-[Modis](http://www.modis.com/) 
-
-[Aquent ](https://aquent.com/)
-
-[Eliassen Group](http://www.eliassen.com/)
-
-[The Goal Inc ](http://www.thegoalinc.com/)
-
-[Veredus](https://vereduscorp.com/)
-
-[Vitamin T](https://vitamintalent.com/)  
+- [The Creative Group](https://www.roberthalf.com/creativegroup) 
+- [Robert Half Technology](https://www.roberthalf.com/) 
+- [The Boss Group](http://www.thebossgroup.com/) 
+- [Fahrenheit IT Staffing and Consulting](http://www.fahrenheitit.com/) 
+- [TEKSystems](https://www.teksystems.com/en) 
+- [Hire Strategy ](http://www.hirestrategy.com/)
+- [Modis](http://www.modis.com/) 
+- [Aquent ](https://aquent.com/)
+- [Eliassen Group](http://www.eliassen.com/)
+- [The Goal Inc ](http://www.thegoalinc.com/)
+- [Veredus](https://vereduscorp.com/)
+- [Vitamin T](https://vitamintalent.com/) 
+- [Mathys + Potestio](http://mathys-potestio.com/) 
 
