@@ -14,9 +14,9 @@ Everyone’s brand is different and unique, it is how you present yourself that 
 
 ## Homework:  
 Homework due next Monday at 7 pm:
-- Reach out to 3 web development professionals to set up 1:1 information meetings or phone calls to learn more about their role/company. Add them to your personal job tracker.
+- Review the list of panelists for next week's session and prepare 2-3 questions you would like to ask them.
 - Continue interview practice by reading through the additional resources provided below. 
-
+- Reach out to 3 web development professionals to set up 1:1 information meetings or phone calls to learn more about their role/company. Add them to your personal job tracker.
 
 ## Further Reading and Resources:
 
