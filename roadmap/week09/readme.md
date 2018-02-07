@@ -28,6 +28,6 @@ We expect your Resume, Cover Letter, LinkedIn, and GA Profile to be final at thi
 - What locations beyond your local market are you job searching in, if you plan to search elsewhere? list
 - Anything you want us to know about your situation or job search in general? 
 
-## Further Reading/ Resources:
+## Further Reading and Resources:
 
 [I spent 3 months applying for a job after a coding bootcamp, here’s what I learned ](https://medium.freecodecamp.com/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331#.vuily1mtu)
