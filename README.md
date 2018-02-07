@@ -6,6 +6,7 @@
 #### [Outcomes Attendance](/outcomes-attendance.md)
 #### [Outcomes Homework](/homework.md)
 #### [Submitting Homework](/SubmittingHW.md)
+#### [Session Recordings](/recordings.md)
 ## Curriculum 
 #### Outcomes Roadmap
 Be sure to check your course calendar as things may adjust slightly depending on your schedule
