@@ -18,7 +18,7 @@ Homework due next Monday at 7 pm:
 - Continue working on your GA Profiles. Due in week 10. 
 
 
-## Further Reading/ Resources:
+## Further Reading and Resources:
 
 [The Power of the Pose](https://blog.ted.com/10-examples-of-how-power-posing-can-work-to-boost-your-confidence/)
 
