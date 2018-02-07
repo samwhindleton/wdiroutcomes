@@ -56,9 +56,9 @@ Here are some example web development resumes.
 
 ## Homework: 
 Homework due next Monday at 7 pm:
-- Provide 2 peers with feedback on their brand statements. 
-- Continue working on resumes. Drafts due next week.
-- Reach out to five developers to set up 1:1 informational interviews.Keep this in your own personal list and/or job tracker, we won't be collecting it but will be asking about it in 1:1 meetings.
+- Provide 2 peers with feedback on their brand statements. To do this, go into the Issues section, click on a peer's submission and comment. Important: Do not close out the issue. 
+- Continue working on resumes. Rough drafts due next week and should be submitted to Github. 
+- Reach out to five developers to set up 1:1 informational interviews. Add them to your personal job tracker. 
 
 
 ## Further Reading and Resources:
