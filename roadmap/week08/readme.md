@@ -15,9 +15,10 @@ This workshop will provide you the opportunity to build your Alumni Profile, por
 ## Homework 
 
 Homework due next Monday at 7 pm:
-- GA Profile
-- Portfolio Domain Name Created
-- Reach out to 3 web development professionals to set up 1:1 information meetings or phone calls to learn more about their role/company. Keep this in your own personal list and/or job tracker, we won't be collecting it but will be asking about it in 1:1 meetings.
+- GA Profile (not submitted via Github)
+- Portfolio Domain Name Created (Github)
+- Write 1 post on Medium and/or LinkedIn (Github)
+- Reach out to 3 web development professionals to set up 1:1 information meetings or phone calls to learn more about their role/company. (not submitted via Github)
 
 ## Further Reading and Resources:
 
