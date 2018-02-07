@@ -1,3 +1,3 @@
 ## Session Recordings
 
-View the session recordings on [YouTube](youtube.com) 
+If you missed a session or want to revist a topic, you can view the session recordings on [YouTube](youtube.com). 
