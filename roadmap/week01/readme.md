@@ -64,7 +64,7 @@ Homework due next Monday at 7 pm:
 - Review [Organizations that have hired GA WDI Graduates](https://docs.google.com/spreadsheets/d/1eh4skY-5_RyVPyoYTT-3uScwPxYPugOlnV0OLmJiocE/edit?usp=sharing) 
 - Find 3 Organizations that pique your interest, could be from the list above or from your own research. Keep this in your own personal list, we won't be collecting it but will be asking about it in 1:1 meetings.  This will set you up for success post graduation. 
 
-By completing the worksheet you have submitted your homework this week
+Nothing will be submitted via Github this week.
 
 ## Further Reading and Resources: 
 Intro to Outcomes Slide Deck
