@@ -19,7 +19,7 @@ With our studio this week, you will:
 
 ## Homework: 
 Homework due next Monday at 7 pm: 
-
-- FINAL Brand Statement. Your brand statement should have been reviewed by three peers. Submit the final statement in Github for review from me.
-- Find 3 Organizations that pique your interest. Keep this in your own personal list and/or job tracker, we won't be collecting it but will be asking about it in 1:1 meetings.
+- Connect with hosts of studio tour on LinkedIn, sending customized message with your connection invite.
+- Continue working on GA Profiles. Due in week 10. 
+- Identify 1 meetup you want to attend in the next few weeks. Add to your calendar and Job Tracker.
 
