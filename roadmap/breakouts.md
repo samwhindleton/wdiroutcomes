@@ -10,7 +10,7 @@ You will leave this session with a finished brand statement, resume and LinkedIn
 
 ## Homework: 
 Homework due next Monday at 7 pm:
-- Finish up your brand statement, LinkedIn Profile and resume
+- Finish up your brand statement, LinkedIn Profile and resume and make sure all final versions have been submitted to Github.
 
 ## Further Reading and Resources:
 
