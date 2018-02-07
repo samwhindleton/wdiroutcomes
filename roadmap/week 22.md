@@ -17,7 +17,9 @@ Homework due next Monday at 7 pm:
 
 * Update your LinkedIn Profile using [this checklist](https://drive.google.com/open?id=1_hUYTTiR-r7IZW6176g7xBtE4EHXDTVPt45qhc1VX8s) and have 2 classmates review it.
 
-* Find 1 meetup or event you want to attend in the next few weeks. Add it to your calendar and keep this in your own personal list and/or job tracker, we won't be collecting it but will be asking about it in 1:1 meetings. This will set you up for success post graduation.
+* Connect on LinkedIn with the alumni who particpated in last week's session, sending a customized note with your invite. 
+
+* Find 1 meetup or event you want to attend in the next few weeks. Add it to your calendar and to your personal job tracker. 
 
 ## Further Reading and Resources: 
 - LinkedIn & Its Role In Developing Your Network Slide Deck
