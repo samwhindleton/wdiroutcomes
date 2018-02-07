@@ -15,15 +15,18 @@ This workshop will provide you the opportunity to build your Alumni Profile, por
 ## Homework 
 
 Homework due next Monday at 7 pm:
-- GA Profile (not submitted via Github)
-- Portfolio Domain Name Created (Github)
-- Write 1 post on Medium and/or LinkedIn (Github)
-- Reach out to 3 web development professionals to set up 1:1 information meetings or phone calls to learn more about their role/company. (not submitted via Github)
+- Be working on your GA Profile (not submitted via Github). Due in week 10. 
+- Portfolio Domain Name Created and should be submitted via Github. 
+- Write 1 post on Medium and/or LinkedIn. Share a link to your post via Github. 
+- Reach out to 3 web development professionals to set up 1:1 information meetings or phone calls to learn more about their role/company. Add them to your personal job tracker. 
 
 ## Further Reading and Resources:
 
 **Example GA WDI Portfolios:**
-
+- [Adam Weitzman](http://www.adamweitzman.com/)
+- [Josh Edgell](https://joshedgell.github.io/)
+- [Christy Leung](http://christyleung.com/#index)
+- [Francheska Guzman](http://francheskaguzman.io/)
 
 **Portfolio Resources:**
 
@@ -35,6 +38,10 @@ Homework due next Monday at 7 pm:
 
 
 **Alumni GA Profile Examples:** 
-
+- [Francheska Guzman](https://profiles.generalassemb.ly/profiles/francheska-guzman)
+- [Matthew Yates](https://profiles.generalassemb.ly/profiles/matt-yates)
+- [Madeleine Milasas](https://profiles.generalassemb.ly/profiles/madeleine-milasas)
+- [Cassandra Essex](https://profiles.generalassemb.ly/profiles/cassandra-essex)
+- [Dana Palazzo](https://profiles.generalassemb.ly/dana-palazzo)
 
 
