@@ -14,8 +14,8 @@ Get caught up on outcomes work!
 
 Homework due next Monday at 7 pm:
 
-- FINAL Resume. You should have gone through 3 Peer Reviews and submit a link to your Final Resume in Github.
 - Find 3 Organizations that pique your interest. Keep this in your own personal list and/or job tracker, we won't be collecting it but will be asking about it in 1:1 meetings.
+- Continue working on your GA Profiles. Due in week 10. 
 
 
 ## Further Reading/ Resources:
