@@ -17,3 +17,10 @@ Each Monday, Nicole will send you an email with the subject line: #MotivationMon
 ## Job Seeker Standups
 
 Every other Monday, Nicole offers a Job Seeker Standup call via Zoom from 12-1pm CST. Job Seekers are encouraged to join the call as a way to connect with each other and have dedicated access to Nicole. We'll discuss what's happening in the job search, areas people are struggling, do interview practice and portfolio presentations, and anything else folks want to talk about. These calls are for job seekers so we'll talk about whatever is top of mind for you! 
+
+## Week 13.5 Post-Course Programming
+
+Three sessions will be offered the days following your last day of the program. These sessions are optional but strongly encouraged as a way for you to start your job search off on in a productive manner. 
+- Wednesday, May 16, 11:30am-1pm CST: Life After GA
+- Thursday, May 17, 11:30am-1pm CST: Interview Workshop
+- Friday, May 18, 11:30am-1pm CST: Portfolio Standup
