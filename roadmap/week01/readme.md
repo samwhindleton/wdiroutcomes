@@ -59,12 +59,12 @@ Our vision is put into action through programs and activities that foster profes
 
 ## Homework:
 Homework due next Monday at 7 pm:
+- Create your personal job tracker by opening [this file](https://docs.google.com/spreadsheets/d/1WyPb8_72e4pn0RAWq3JF2BWC4n3XVlSiEof8ecLpPRo/edit?usp=sharing). Then click file > make a copy > save with your name. Submit your personal tracker url to [Github](https://github.com/ga-students/wdiroutcomes/blob/master/SubmittingHW.md). 
 - [Sign up for your first 1:1 with Nicole](https://github.com/ga-students/wdiroutcomes/blob/master/one-on-ones.md)
 - [Vision + Goals worksheet](https://goo.gl/forms/zXIrRt1EYsMZVoxY2)
 - Review [Organizations that have hired GA WDI Graduates](https://docs.google.com/spreadsheets/d/1eh4skY-5_RyVPyoYTT-3uScwPxYPugOlnV0OLmJiocE/edit?usp=sharing) 
 - Find 3 Organizations that pique your interest, could be from the list above or from your own research. Keep this in your own personal list, we won't be collecting it but will be asking about it in 1:1 meetings.  This will set you up for success post graduation. 
 
-Nothing will be submitted via Github this week.
 
 ## Further Reading and Resources: 
 Intro to Outcomes Slide Deck
