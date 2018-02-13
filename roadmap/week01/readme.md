@@ -5,7 +5,7 @@ Who is the Outcomes Team and this community of techies?  How are you going to la
 
 We get it, this program is a lot, and can be intimidating. But don’t worry...you’re not alone!  Need proof that you will survive and get through this? Talk to those who have completed and graduated from a GA Immersive! Come prepared with 3 burning questions you would love to know! 
 
-**Alumni Guests:** Zarela Graves from Ft. Myers FL and Aaron Ballard from Santiago Chile
+**Alumni Guests:** Zarela Graves from Ft. Myers FL; Aaron Ballard from Santiago, Chile; Eric Stermer from Rhode Island; Joy Kaufman from Raleigh, NC; and Rachel Beneroff from NYC. 
 
 ## Learning Objectives & Themes:
 Setting clear expectations around Outcomes, it’s mission, vision, and goals. Students will understand how to qualify for Outcomes support, the 5 themes associated with success, and what is required to be a job seeker. Meet leading experts and learn how to acclimate to the tech community and how to get involved to best set their job search up for success! 
