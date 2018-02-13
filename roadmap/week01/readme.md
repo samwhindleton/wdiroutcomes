@@ -10,7 +10,7 @@ We get it, this program is a lot, and can be intimidating. But don’t worry...y
 ## Learning Objectives & Themes:
 Setting clear expectations around Outcomes, it’s mission, vision, and goals. Students will understand how to qualify for Outcomes support, the 5 themes associated with success, and what is required to be a job seeker. Meet leading experts and learn how to acclimate to the tech community and how to get involved to best set their job search up for success! 
 
-**Themes:** Participating in the Community; Understanding the Landscape"
+**Themes:** Participating in the Community; Understanding the Landscape
 
 ## About Outcomes: 
 
