@@ -67,7 +67,7 @@ Homework due next Monday at 7 pm:
 
 
 ## Further Reading and Resources: 
-Intro to Outcomes Slide Deck
+[Intro to Outcomes Slide Deck](https://drive.google.com/file/d/1ZQSg25revlbxJso8YA_DaEm8XQhCtsrS/view?usp=sharing)
 
 [Meet your Outcomes Career Coach](/outcomes-intro.md) 
 
