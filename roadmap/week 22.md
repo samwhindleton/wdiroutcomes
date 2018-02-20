@@ -22,7 +22,7 @@ Homework due next Monday at 7 pm:
 * Find 1 meetup or event you want to attend in the next few weeks. Add it to your calendar and to your personal job tracker. 
 
 ## Further Reading and Resources: 
-- LinkedIn & Its Role In Developing Your Network Slide Deck
+- [LinkedIn & Its Role In Developing Your Network Slide Deck](https://drive.google.com/drive/folders/1b6pScKcUa1BUOTa9hyg2ED8s4HQjIxQ7?usp=sharing)
 - [Wharton, UPenn: ‘So, What Do You Do?’ Rethinking Small Talk](http://knowledge.wharton.upenn.edu/article/so-what-do-you-do-rethinking-small-talk/?utm_source=Sailthru&utm_medium=email&utm_campaign=%2A%20New%20BOTW%20Template%2011/8/15&utm_term=Sunday%20-%20Best%20of%20The%20Web)
 - [The Muse: How to Ask for an Informational Interview and Get a Yes](https://www.themuse.com/advice/how-to-ask-for-an-informational-interview-and-get-a-yes)
 - [The Muse: 3 Steps to a Perfect Informational Interview](https://www.themuse.com/advice/3-steps-to-a-perfect-informational-interview)
