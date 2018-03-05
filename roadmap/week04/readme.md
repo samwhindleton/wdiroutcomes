@@ -52,7 +52,10 @@ Do your research - your resume is your personal advertisement
     5. List GA again, but without a description
 
 ## Resume Examples:
-Here are some example web development resumes.  
+Here are some example [web development resumes](https://drive.google.com/drive/folders/1vrhMq4STJzv7wVfyILdmGyu2hh18kl-A?usp=sharing).
+
+## Resume Checklist:
+Utilize [this checklist](https://drive.google.com/open?id=1KszuQZpLZNSwCoSsyg-iTL_dGROHyqnZA-eCihkz-gM) as a guide when updating your resume. 
 
 ## Homework: 
 Homework due next Monday at 7 pm:
