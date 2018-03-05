@@ -62,6 +62,7 @@ Homework due next Monday at 7 pm:
 
 
 ## Further Reading and Resources:
+View the full presentation deck [here](https://drive.google.com/open?id=1ZbpK4GHY5Ax3cxRsBtLX446gYURhTUJ1).
 
 Resume templates: 
 
