@@ -59,7 +59,7 @@ Utilize [this checklist](https://drive.google.com/open?id=1KszuQZpLZNSwCoSsyg-iT
 
 ## Homework: 
 Homework due next Monday at 7 pm:
-- Provide 2 peers with feedback on their brand statements. To do this, go into the Issues section, click on a peer's submission and comment. Important: Do not close out the issue. 
+- Provide 2 peers with feedback on their brand statements. To do this, go into the [Issues](https://github.com/ga-students/wdiroutcomes/issues) section, click on a peer's submission and comment. Important: Do not close out the issue. 
 - Continue working on resumes. Rough drafts due next week and should be submitted to Github. 
 - Reach out to five developers to set up 1:1 informational interviews. Add them to your personal job tracker. 
 
