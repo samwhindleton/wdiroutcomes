@@ -69,16 +69,19 @@ View the full presentation deck [here](https://drive.google.com/open?id=1ZbpK4GH
 
 Resume templates: 
 
+- Nicole's Google Doc Templates [1](https://docs.google.com/document/d/1CjQ_SKl7W4jnHkcQ_jWluI9Ozkf69M1mSNeuSwgVXlE/edit), [2](https://docs.google.com/document/d/1Up-PqP5hdvboq4UQ0wmKThIk0coN4awH5Fti7dkm_u4/edit), and [3](https://docs.google.com/document/d/1pyiN6SkZd2729iHSjW1_fpv-aFaX3XYL_fX15snkzps/edit).
 - [Enhance CV: Resume templates + feedback](https://enhancv.com/) 
 - [Canva](https://www.canva.com/create/resumes/)
 - [Word templates](https://www.themuse.com/advice/275-free-resume-templates-you-can-use-right-now?utm_source=Sailthru&utm_medium=email&utm_term=Daily%20Email%20List&utm_campaign=275%20Free%20Resume%20Templates%20That%27ll%20Make%20Your%20Life%20Easier)
 - Google docs: [Google Doc Add-on VisualCV](https://www.visualcv.com/www/google-docs-resume-templates/)  + [Google Doc templates](https://docs.google.com/document/u/0/)
 
+[185 Powerful Verbs That Will Make Your Resume Awesome](https://www.themuse.com/advice/185-powerful-verbs-that-will-make-your-resume-awesome)
+
 [The Muse: An Editor’s Guide to Perfecting Your Resume](https://www.themuse.com/advice/an-editors-guide-to-perfecting-your-resume)
 
 [What it Really Means to "Tailor Your Resume"](https://www.themuse.com/advice/what-it-really-means-to-tailor-your-resume)
 
-[185 Powerful Verbs That Will Make Your Resume Awesome](https://www.themuse.com/advice/185-powerful-verbs-that-will-make-your-resume-awesome)
+[Jobscan.co](www.jobscan.co)
 
 [GitHub Is Your Resume Now](https://anti-pattern.com/github-is-your-resume-now)
 
