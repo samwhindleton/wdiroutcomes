@@ -22,6 +22,8 @@ Homework due next Monday at 7 pm:
 
 ## Further Reading and Resources:
 
+View the session presentation [here](https://drive.google.com/open?id=1rtApyPfVfE4s6r6JdfJLQHbORZG5NE3D).
+
 **Example GA WDI Portfolios:**
 - [Adam Weitzman](http://www.adamweitzman.com/)
 - [Josh Edgell](https://joshedgell.github.io/)
