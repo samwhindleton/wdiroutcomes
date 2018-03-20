@@ -16,8 +16,8 @@ This workshop will provide you the opportunity to build your Alumni Profile, por
 
 Homework due next Monday at 7 pm:
 - Be working on your GA Profile (not submitted via Github). Due in week 10. 
-- Portfolio Domain Name Created and should be submitted via Github. 
-- Write 1 post on Medium and/or LinkedIn. Share a link to your post via Github. 
+- Portfolio Domain Name Created and should be submitted via Github as "First Name Last Name: Portfolio URL". 
+- Write 1 post on Medium and/or LinkedIn. Share a link to your post via Github as "First Name Last Name: 1st Post". 
 - Reach out to 3 web development professionals to set up 1:1 information meetings or phone calls to learn more about their role/company. Add them to your personal job tracker. 
 
 ## Further Reading and Resources:
