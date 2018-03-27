@@ -1,4 +1,4 @@
-# A Day in the Life… Studio Tour 
+# A Day in the Life…Studio Tour 
 
 ## Framing: 
 Ever wonder what it’s actually like to work in the field? Now’s your chance to get a behind-the-scenes look at the day to day of IBM. Ask current employees questions, see the office environment, and get a personalized tour. 
@@ -8,7 +8,7 @@ Come with 3 questions for our presenters. This will include a tour of the space 
 Don’t forget to connect with the speakers on LinkedIn and thank them for their time! 
 
 ## Learning Objectives: 
-To get a better understanding of what it’s like to work in a web development organization and how students may envision themselves working there -- what a ""day in the life"" could potentially look like. 
+To get a better understanding of what it’s like to work in a web development organization and how students may envision themselves working there -- what a "day in the life" could potentially look like. 
 
 With our studio this week, you will:
 - Observe a developer work environment.
