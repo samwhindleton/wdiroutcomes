@@ -13,7 +13,7 @@ To get a better understanding of what it’s like to work in a web development o
 With our studio this week, you will:
 - Observe a developer work environment.
 - Understand what it’s like to work in a product/enterprise setting.
-- Learn what a ""day in the life"" of a developer looks like.
+- Learn what a "day in the life" of a developer looks like.
  
 **Themes:** Understanding the Landscape
 
