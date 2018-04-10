@@ -1,4 +1,4 @@
-#  Defining Your Non-Negotiables + Application Strategy + Cover Letters
+#  Application Strategy [Defining Your Non-Negotiables +  + Cover Letters]
 
 ## Framing:
 
@@ -18,8 +18,8 @@ We will determine best practices for composing a follow up message as well as ho
 ## Homework:  
 Homework due next Monday at 7PM. 
 - GA Profiles due next week. No need to submit via Github.
-- Write your second post using Medium and/or LinkedIn. Share a link to the post via Github.
-- Cover Letter Template. Submit via Github. 
+- Write your second post using Medium and/or LinkedIn. Share a link to the post via Github Issues called "FName LName: Second Blog Post".
+- Write a cover letter for the job posting we found today. Submit cover letter and link to the job posting via Github Issues called "FName LName: Cover Letter".
 
 ## Further Reading and Resources:
 
