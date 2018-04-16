@@ -14,11 +14,13 @@ Everyone’s brand is different and unique, it is how you present yourself that 
 
 ## Homework:  
 Homework due next Monday at 7 pm:
-- Review the list of panelists for next week's session and prepare 2-3 questions you would like to ask them.
+- Review the list of panelists for next week's session and prepare 2-3 questions you would like to ask them. Submit your questions to Github Issues (FName LName: Panel Questions) so I can compile a list prior to next week's session. 
 - Continue interview practice by reading through the additional resources provided below. 
 - Reach out to 3 web development professionals to set up 1:1 information meetings or phone calls to learn more about their role/company. Add them to your personal job tracker.
 
 ## Further Reading and Resources:
+
+View the slide deck [here](https://drive.google.com/open?id=1AP1j4sUAD45f9ealJMeESAXngyYb5-lY)
 
 **Interviewing:**
 
@@ -128,11 +130,9 @@ Homework due next Monday at 7 pm:
 
 **Salary Guides:** 
 
-[RHT 2015 Salary Guide for Technology Professionals](https://drive.google.com/open?id=0B0cuNYi34jyuZTQtZUpkb2xYOVE&authuser=0)
+[RHT 2018 Salary Guide for Technology Professionals](https://www.roberthalf.com/salary-guide/technology)
 
-[TCG 2015 Salary Guide to Creative Industry](https://drive.google.com/open?id=0B0cuNYi34jyuVVQtT0VDVUx1SHM&authuser=0)
-
-[Dice Tech Salary Survey 2016](https://drive.google.com/open?id=0B0cuNYi34jyueG5QVldsckFmSWs)
+[Modis 2018 IT Salary Guide](http://www.modis.com/clients/salary-guide/)
 
 [Marketing Mentor: Hourly Rate/Overhead Calculation Worksheet](https://drive.google.com/open?id=0B0cuNYi34jyublZNUGk3WXFyRTg&authuser=0)
 
