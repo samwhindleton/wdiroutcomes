@@ -13,23 +13,29 @@ Panelists Include: Tim Hamilton, CEO of [Praxent](www.praxent.com) / Molly Hitch
 
 Questions to Consider:  
 
-* What are the best resources you would recommend?
-
-* What types of jobs are hot right now? 
-
-* How can our soon-to-be grads really stand out in the hiring process?
-
-* What are some industry trends?
-
-* What are some of the tough questions you ask candidates?
-
 * What is it like to work at your company for developers? 
+
+* How is your team structured?
 
 * What is the interview process like?
 
-* What types of candidates are you looking for? How can they put their best foot forward?
+* What are some of the tough questions you ask candidates?
 
-* What is your company looking for in candidates' portfolio?
+* How can we really stand out in the hiring process? 
+
+* What types of candidates are you looking for? 
+
+* What does your company look for in candidates' portfolios?
+
+* How do you feel about cover letters?
+
+* What are your resume dos and don'ts? 
+
+* (For agency recruiters) - How do you engage with companies?
+
+* (For agency recruiters) - How do you work with candidates? 
+
+* (For agency recruiters) - How do you determind what candidates to send along to your clients? 
 
 ## Homework 
 Homework due next Monday at 7 pm:
