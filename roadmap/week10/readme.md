@@ -7,9 +7,11 @@ You have already done a lot! Unsure of how all of your hard work really contribu
 ## Learning Objectives: 
 This panel will help students understand what hiring managers are looking for in the field. The discussion will give an overview of the current hiring landscape as well as tips and tricks to landing the interview. 
 
+Panelists Include: Tim Hamilton, CEO of [Praxent](www.praxent.com) / Molly Hitchings, Recruiter with [Mathys + Potestio](http://mathys-potestio.com/) // Katy Kendall, Recruiter with [Under Armour](http://advertising.underarmour.com/)
+
 **Themes:** Understanding the Landscape; Participating in the Community
 
-Questions you could ask: 
+Questions to Consider:  
 
 * What are the best resources you would recommend?
 
@@ -21,7 +23,7 @@ Questions you could ask:
 
 * What are some of the tough questions you ask candidates?
 
-* What is it like to work at your company for data scientists?
+* What is it like to work at your company for developers? 
 
 * What is the interview process like?
 
