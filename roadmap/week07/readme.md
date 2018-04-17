@@ -116,6 +116,10 @@ View the slide deck [here](https://drive.google.com/open?id=1AP1j4sUAD45f9ealJMe
 
 **Negotiating:**
 
+[Fearless Negotiation Guide](https://drive.google.com/file/d/1o6rNX7igImoR6OWZEKTuiK6haEcSverV/view?usp=sharing)
+
+[Salary Negotiation Worksheet](https://docs.google.com/document/d/123w5EUPOB8UA93aLLOgDOhr6aBD2gfWB-LwVPLPiu4s/edit)
+
 [31+ Killer Salary Negotiating Scripts (email examples) ](http://www.lewis-lin.com/blog/2015/5/6/31-killer-salary-negotiation-scripts)
 
 [4 Most Powerful Salary Negotiation Tactics](http://money.usnews.com/money/blogs/outside-voices-careers/2015/06/29/the-4-most-powerful-salary-negotiation-tactics)
