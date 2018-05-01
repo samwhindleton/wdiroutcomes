@@ -20,7 +20,7 @@ Every other Monday, there will be a Job Seeker Standup call via Zoom from 2-3pm 
 
 ## Week 13.5 Post-Course Programming
 
-Three sessions will be offered the days following your last day of the program. Take Tuesday off to recoer. Then join these sessions via zoom. These sessions are required as a way for you to start your job search off on in a productive manner. 
+Three sessions will be offered the days following your last day of the program. Take Tuesday off to recover. Then join these sessions via zoom. These sessions are required as a way for you to start your job search off on in a productive manner. 
 - Wednesday, May 16, 10:30am-12pm CST: Life After GA
 - Thursday, May 17, 11am-12:30pm CST: Revisiting Networking + Applying
 - Friday, May 18, 11am-12:30pm CST: Interview Workshop
