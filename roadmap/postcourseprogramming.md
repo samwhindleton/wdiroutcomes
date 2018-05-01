@@ -10,17 +10,17 @@ We expect your Resume, Cover Letter, LinkedIn, GA Profile, and Portfolio to be f
 
 Remember, that we are here to support you each step of the way.  The best thing you can do is to keep us in the loop and let us know what is going on. Your local coach will review what it means to be a strategic job seeker, the requirements for maintaining Outcomes support, and what to expect in the upcoming months. In the meantime, don't hesitate to schedule time with your coach for specific needs. 
 
-## Monday Check Ins
+## Monday Check In Email
 
 Each Monday, Nicole will send you an email with the subject line: #MotivationMonday - DATE. This email will contain helpful articles, recent job posting, words of wisdom and a reminder link to complete the Monday check in survey. Every job seeker is expected to complete the check in each week.
 
 ## Job Seeker Standups
 
-Every other Monday, Nicole offers a Job Seeker Standup call via Zoom from 12-1pm CST. Job Seekers are encouraged to join the call as a way to connect with each other and have dedicated access to Nicole. We'll discuss what's happening in the job search, areas people are struggling, do interview practice and portfolio presentations, and anything else folks want to talk about. These calls are for job seekers so we'll talk about whatever is top of mind for you! 
+Every other Monday, there will be a Job Seeker Standup call via Zoom from 2-3pm CST; these calls will change to weekly if/when you hit 90 days into the job search. You will be required to attend these calls and will only be excused if you have an interview. We'll discuss what's happening in the job search, areas people are struggling, do interview practice and portfolio presentations, and anything else folks want to talk about. These calls are for job seekers so we'll talk about whatever is top of mind for you! 
 
 ## Week 13.5 Post-Course Programming
 
-Three sessions will be offered the days following your last day of the program. These sessions are optional but strongly encouraged as a way for you to start your job search off on in a productive manner. 
-- Wednesday, May 16, 11:30am-1pm CST: Life After GA
-- Thursday, May 17, 11:30am-1pm CST: Interview Workshop
-- Friday, May 18, 11:30am-1pm CST: Portfolio Standup
+Three sessions will be offered the days following your last day of the program. Take Tuesday off to recoer. Then join these sessions via zoom. These sessions are required as a way for you to start your job search off on in a productive manner. 
+- Wednesday, May 16, 10:30am-12pm CST: Life After GA
+- Thursday, May 17, 11am-12:30pm CST: Revisiting Networking + Applying
+- Friday, May 18, 11am-12:30pm CST: Interview Workshop
