@@ -16,7 +16,7 @@ Each Monday, Nicole will send you an email with the subject line: #MotivationMon
 
 ## Job Seeker Standups
 
-Every Monday, there will be a Job Seeker Standup call via Zoom from 3-4pm EST/2-3pm CST/1-2pm MST/12-1pm PST. These calls will be mandatory every week for the first 30 days of the job search and then will change to bi-weekly, still mandatory once you hit 60 days into your search. You will be required to attend these calls and will only be excused if you have an interview. We'll do refreshes of the topics discussed in class, along with sharing what's happening in the job search, areas people are struggling, do mock interview practice and portfolio presentations, and anything else folks want to talk about. These calls are for job seekers so we'll talk about whatever is top of mind for you! 
+Every Monday, there will be a Job Seeker Standup call via Zoom from 3-4pm EST/2-3pm CST/1-2pm MST/12-1pm PST. These calls will be mandatory every week and then will change to bi-weekly, still mandatory once you hit 60 days into your search. You will be required to attend these calls and will only be excused if you have an interview. We'll do refreshes of the topics discussed in class, along with sharing what's happening in the job search, areas people are struggling, do mock interview practice and portfolio presentations, and anything else folks want to talk about. These calls are for job seekers so we'll talk about whatever is top of mind for you! 
 
 ## Week 13.5 Outcomes Bootcamp
 
