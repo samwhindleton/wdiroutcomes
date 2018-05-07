@@ -23,7 +23,7 @@ Be sure to check your course calendar as things may adjust slightly depending on
 - [week 11: Ask the Experts Panel Discussion (Hiring Managers and Recruiters)](/roadmap/week10)
 - [week 12: Cracking the Technical Interview](/roadmap/week11)
 - [week 13: Qualification Check In + Post Course Expectations](/roadmap/week09)
-- [week 13.5: Post Course Programming](/roadmap/postcoursesupport.md)
+- [week 13.5: Outcomes Bootcamp](/roadmap/postcoursesupport.md)
 
 #### What to Expect Post Graduation
 - [Post Course Support](/roadmap/postcoursesupport.md)
