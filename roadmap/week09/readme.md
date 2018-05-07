@@ -30,4 +30,6 @@ We expect your Resume, Cover Letter, LinkedIn, and GA Profile to be final at thi
 
 ## Further Reading and Resources:
 
+View the slide deck from the session [here](https://drive.google.com/open?id=1p1todRcJAwdKPjgWTUsbyi25nsmu9CqH)
+
 [I spent 3 months applying for a job after a coding bootcamp, here’s what I learned ](https://medium.freecodecamp.com/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331#.vuily1mtu)
