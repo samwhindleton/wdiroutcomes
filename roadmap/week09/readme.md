@@ -1,4 +1,4 @@
-# Qualification Check In + Post Course Expectations 
+# What's Next / Post-Course Expectations 
 
 ## Framing:
 
