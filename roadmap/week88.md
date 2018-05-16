@@ -1,4 +1,4 @@
-#  Defining Your Non-Negotiables + Application Strategy + Cover Letters
+#  Application Strategy [Defining Your Non-Negotiables +  + Cover Letters]
 
 ## Framing:
 
@@ -18,10 +18,12 @@ We will determine best practices for composing a follow up message as well as ho
 ## Homework:  
 Homework due next Monday at 7PM. 
 - GA Profiles due next week. No need to submit via Github.
-- Write your second post using Medium and/or LinkedIn. Share a link to the post via Github.
-- Cover Letter Template. Submit via Github. 
+- Write your second post using Medium and/or LinkedIn. Share a link to the post via Github Issues called "FName LName: Second Blog Post".
+- Write a cover letter for the job posting we found today. Submit cover letter and link to the job posting via Github Issues called "FName LName: Cover Letter".
 
 ## Further Reading and Resources:
+
+View the deck [here](https://drive.google.com/open?id=1RV7JaSNTRGUqV1laNPq4ecFiUgejEmUl). 
 
 [I've Read Over 300+ Cover Letters and This Is How I Decide if It's Good or Bad Within 3 Minutes](https://www.themuse.com/advice/ive-read-over-300-cover-letters-and-this-is-how-i-decide-if-its-good-or-bad-within-3-minutes?utm_medium=email&utm_campaign=botw_10022016&utm_source=blueshift&utm_content=botw_sunday&bsft_eid=989f3f70-6d28-4c5b-9c77-226be49c6d96&bsft_clkid=b9d1dd79-3c34-4507-980b-f3e70aef7c5b&bsft_uid=6a7435ca-a930-4f53-a4b0-3131b83243a7&bsft_mid=98515e7d-7a63-4d5e-aed7-5c26805ec564)
 
